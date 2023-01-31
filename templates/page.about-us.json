@@ -1,0 +1,242 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "166356913310510ba8": {
+      "type": "image-with-text-v2",
+      "blocks": {
+        "16635691331f7c76aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Ethical Fashion <\/h2>\n<p class=\"hosted_name\">\nHosted by\n <b>AALIA MAURO<\/b> <\/p>",
+            "text_style": "body"
+          }
+        },
+        "0cce967b-37e5-476e-8162-c0328f6547fd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aalia Mauro, and Emma Bottomley, CEO\/Founder of Eloma Design discuss  creating a positive social and environmental impact, committed to respecting, celebrating, and honoring artisans and producers, especially disadvantaged women.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "abc0101c-12da-4ce6-ad8d-62a35717c543": {
+          "type": "text",
+          "settings": {
+            "text": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/ethical-fashion\/id1650676343?i=1000583232778\" height=\"175\" frameborder=\"0\"><\/iframe>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16635691331f7c76aa-1",
+        "0cce967b-37e5-476e-8162-c0328f6547fd",
+        "abc0101c-12da-4ce6-ad8d-62a35717c543"
+      ],
+      "settings": {
+        "custom_class": "custom-podcast-1 podcast-banner1 new_section_podcast",
+        "image": "shopify:\/\/shop_images\/the-greening-show.png",
+        "html_block": "",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16636715565bfb37e1": {
+      "type": "multicolumn",
+      "blocks": {
+        "16636715568d6ec18b-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/vertemode.com\/pages\/garments-respecting-1",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_3.07.45_PM.png",
+            "title": "Wild and Exposed",
+            "html_frame": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/wild-and-exposed\/id1650676343?i=1000583232475\" height=\"175\" frameborder=\"0\"><\/iframe>",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and nature activist, photographer, and filmmaker Molly Ferrill as they talk about changing relationships between people and nature and collaborating with nature allies.<\/p>"
+          }
+        },
+        "16636715568d6ec18b-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/fashion-psychology",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_3.21.23_PM.png",
+            "title": "Redefining Denim",
+            "html_frame": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/redefining-denim\/id1650676343?i=1000583232672\" height=\"175\" frameborder=\"0\"><\/iframe>",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and Oak & Acorn Founder and Designer Miko Underwood as they discuss the history of American denim and manufacturing.<\/p>"
+          }
+        },
+        "16636715568d6ec18b-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/the-or-foundations",
+            "image": "shopify:\/\/shop_images\/2019_08_08_77703_1565238907._large_8b22b7bd-e7f6-4dfd-bda2-6371833e8497.jpg",
+            "title": "Ending Overfishing",
+            "html_frame": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/ending-overfishing\/id1650676343?i=1000583232722\" height=\"175\" frameborder=\"0\"><\/iframe>",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and CEO Clare Brook of the Blue Marine Foundation as they discuss methods to dismantle the crisis that is overfishing.<\/p>"
+          }
+        },
+        "ca8eba46-b8af-4001-9bbd-d736e1ae14cb": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/biosynthetic-dyes",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-11_at_12.43.19_PM.png",
+            "title": "And Justice for All",
+            "html_frame": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/and-justice-for-all\/id1650676343?i=1000583232723\" height=\"175\" frameborder=\"0\"><\/iframe>",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and Isaias Hernandez, an environmental justice educator talk about making environmental education accessible.<\/p>"
+          }
+        },
+        "88823396-1869-4b1d-8aad-2d6b500d23e5": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/slow-art",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-11_at_12.50.34_PM.png",
+            "title": "Your Brain on Food",
+            "html_frame": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/your-brain-on-food\/id1650676343?i=1000583232700\" height=\"175\" frameborder=\"0\"><\/iframe>",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and<br\/>Dr.Uma Naidoo chat on the impact of food on mood and other mental health conditions. <\/p>"
+          }
+        },
+        "6703d733-a393-4629-814b-adc682735adc": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/coral-conservation",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-11_at_12.54.02_PM.png",
+            "title": "Coral Conservation",
+            "html_frame": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/coral-conservation\/id1650676343?i=1000583232726\" height=\"175\" frameborder=\"0\"><\/iframe>",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro andJolyon Collier, founder of Counting Coral chat about how cultures and reefs are connected and why saving these animals is crucial.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16636715568d6ec18b-0",
+        "16636715568d6ec18b-1",
+        "16636715568d6ec18b-2",
+        "ca8eba46-b8af-4001-9bbd-d736e1ae14cb",
+        "88823396-1869-4b1d-8aad-2d6b500d23e5",
+        "6703d733-a393-4629-814b-adc682735adc"
+      ],
+      "settings": {
+        "custom_class": "multicollum_gallary dusra_section",
+        "title": "LATEST EPISODES",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16635712643f702db6": {
+      "type": "multicolumn",
+      "blocks": {
+        "1663571264157cb492-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.nylon.com\/articles\/donated-clothes-fast-fashion-impact?utm_source=facebook&utm_medium=social&utm_campaign=nylon",
+            "image": "shopify:\/\/shop_images\/nylon-blue.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "2f4f8207-94ff-4097-817c-daa59aeca1ef": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.thegoodtrade.com\/features\/thought-provoking-podcasts-to-inspire-conscious-sustainable-living",
+            "image": "shopify:\/\/shop_images\/goodtrade-blue.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "2030d2ec-e660-441f-983a-6935a25ec473": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/darlingmagazine.org\/mara-hoffman-shares-sustainable-fashion-really-looks-like\/",
+            "image": "shopify:\/\/shop_images\/darling-blue.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "a5c75d0f-b690-49cf-9e62-ba6d34adca3f": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.huffingtonpost.co.uk\/eleanor-oneill\/fashion-how-will-it-refle_b_17316072.html?utm_hp_ref=sustainable-fashion",
+            "image": "shopify:\/\/shop_images\/huffpo-2-blue.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663571264157cb492-1",
+        "2f4f8207-94ff-4097-817c-daa59aeca1ef",
+        "2030d2ec-e660-441f-983a-6935a25ec473",
+        "a5c75d0f-b690-49cf-9e62-ba6d34adca3f"
+      ],
+      "settings": {
+        "custom_class": "multicollum_logos",
+        "title": "AS SEEN ON",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166356913310510ba8",
+    "16636715565bfb37e1",
+    "16635712643f702db6"
+  ]
+}

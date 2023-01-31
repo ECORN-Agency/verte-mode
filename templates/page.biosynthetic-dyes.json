@@ -1,0 +1,112 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16643486296e16e427": {
+      "type": "image-with-text",
+      "blocks": {
+        "16643486291ad42f16-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "And Justice for All",
+            "heading_size": "h1"
+          }
+        },
+        "16643486291ad42f16-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join Aalia and environmentalist Isaias Hernandez as they discuss the topics of environmental and social justice. They highlight the disparities that those of different racial, cultural, and socioeconomic backgrounds face with respect to the environment and various lived experiences. The two make it clear that we must challenge the status quo and provide education and equitable resources to those that face racism, classism, misogyny, and environmental, social, and food injustice.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16643486291ad42f16-0",
+        "16643486291ad42f16-1"
+      ],
+      "settings": {
+        "custom_class": "image-with-text-ver1",
+        "image": "shopify:\/\/shop_images\/1.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663920617b03a7bd3": {
+      "type": "image-with-text-v3",
+      "blocks": {
+        "16639206176e3d9d69-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wild and Exposed",
+            "heading_size": "h2"
+          }
+        },
+        "16639206176e3d9d69-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Greening Show <\/p><br>\n<p>Self-Improvement<\/p>",
+            "url_id": "https:\/\/podcasts.apple.com\/us\/podcast\/wild-and-exposed\/id1565032433?i=1000569013844",
+            "label_id": "Listen on Apple Podcasts",
+            "textarea_id": "Isaias is an environmental justice educator and activist from Los Angeles, CA. Growing up, he lived in a community that faced environmental injustice and it changed the way he saw the world. His platform @QueerBrownVegan is an environmental education page that exists to teach about environmentalism to anyone and everyone, with a focus on social justice and topics not traditionally covered in environmental spaces. He has a B.S. in Environmental Science from the University of California, Berkeley, and spent his college years working on a variety of diversity inclusion work in environmental spaces, academic research, and creative work. After graduating, he helped start the digital publication Alluvia Mag before becoming a full-time educator and creator.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16639206176e3d9d69-0",
+        "16639206176e3d9d69-1"
+      ],
+      "settings": {
+        "custom_class": "product-preview-outer",
+        "image": "shopify:\/\/shop_images\/finalpodcastcover22_1.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16639265320eabc5a1": {
+      "type": "podcast-audios-section",
+      "blocks": {
+        "31fafa90-c579-435e-9c45-6bfccd3848d7": {
+          "type": "slide",
+          "settings": {
+            "custom_html": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/and-justice-for-all\/id1650676343?i=1000583232723\" height=\"175\" frameborder=\"0\"><\/iframe>"
+          }
+        }
+      },
+      "block_order": [
+        "31fafa90-c579-435e-9c45-6bfccd3848d7"
+      ],
+      "settings": {
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16643486296e16e427",
+    "1663920617b03a7bd3",
+    "16639265320eabc5a1"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "f305b424-dd2a-4979-990d-b4bbef9ffe7f": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--15927748231339__f305b424-dd2a-4979-990d-b4bbef9ffe7f-1665273930c31788ab-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Apply to be a Vendors",
+            "heading_size": "h0"
+          }
+        },
+        "template--15927748231339__f305b424-dd2a-4979-990d-b4bbef9ffe7f-1665273930c31788ab-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are elated to be joined by other like-minded brands in this revolution dedicated to mother nature, social justice, and human wellness. Every brand on our platform has been meticulously chosen, vetted, and sealed with a VM stamp of approval.<\/p><p>Selling at Verte Mode means that you’re part of a community of like-minded crafters who focus on making well-made, sustainable products, with the planet in mind. We welcome you to check out our links below to read all about our policies and practices, and then contact us with any questions you may have. <\/p><p>Simple, transparent, secureNo additional monthly feesSecure transactionsAutomatic depositsSeller protectionOnline and phone support staffTips for successSeller newsletterGet adviceSustainability Impact Report<\/p><p>Are you ready?<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15927748231339__f305b424-dd2a-4979-990d-b4bbef9ffe7f-1665273930c31788ab-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click Here to Fill Out Our Vendor Questionnaire",
+            "button_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfEyWftxJvDO79Ju78iZHENj_h7eEdVbdgVs-yIedhqxLzwaA\/viewform"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927748231339__f305b424-dd2a-4979-990d-b4bbef9ffe7f-1665273930c31788ab-0",
+        "template--15927748231339__f305b424-dd2a-4979-990d-b4bbef9ffe7f-1665273930c31788ab-1",
+        "template--15927748231339__f305b424-dd2a-4979-990d-b4bbef9ffe7f-1665273930c31788ab-2"
+      ],
+      "settings": {
+        "custom_class": "",
+        "image": "shopify:\/\/shop_images\/shop.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ea7f5271-a491-43d1-94e5-6f07b605ce2f": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15927748231339__ea7f5271-a491-43d1-94e5-6f07b605ce2f-1665274373b186006d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Apply to be a Vendor",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927748231339__ea7f5271-a491-43d1-94e5-6f07b605ce2f-1665274373b186006d-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shop.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "ec80ccbe-e9d4-40b4-9a0b-668f4ff8d5e5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15927748231339__ec80ccbe-e9d4-40b4-9a0b-668f4ff8d5e5-166541194975ff6e3d-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15927748231339__ec80ccbe-e9d4-40b4-9a0b-668f4ff8d5e5-166541194975ff6e3d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are elated to be joined by other like-minded brands in this revolution dedicated to mother nature, social justice, and human wellness. Every brand on our platform has been meticulously chosen, vetted, and sealed with a VM stamp of approval.<\/p><p>Selling at Verte Mode means that you’re part of a community of like-minded crafters who focus on making well-made, sustainable products, with the planet in mind. We welcome you to check out our links below to read all about our policies and practices, and then contact us with any questions you may have. <\/p><p>Simple, transparent, secure<br\/>No additional monthly fees<br\/>Secure transactions<br\/>Automatic deposits<br\/>Seller protection<br\/>Online and phone support staff<br\/>Tips for success<br\/>Seller newsletter<br\/>Get advice<br\/>Sustainability Impact Report<\/p><p>Are you ready?<\/p>"
+          }
+        },
+        "template--15927748231339__ec80ccbe-e9d4-40b4-9a0b-668f4ff8d5e5-166541194975ff6e3d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click Here to Fill Out Our Vendor Questionnaire",
+            "button_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfEyWftxJvDO79Ju78iZHENj_h7eEdVbdgVs-yIedhqxLzwaA\/viewform",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15927748231339__ec80ccbe-e9d4-40b4-9a0b-668f4ff8d5e5-166541194975ff6e3d-0",
+        "template--15927748231339__ec80ccbe-e9d4-40b4-9a0b-668f4ff8d5e5-166541194975ff6e3d-1",
+        "template--15927748231339__ec80ccbe-e9d4-40b4-9a0b-668f4ff8d5e5-166541194975ff6e3d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "8b80e838-3bb8-49ff-8055-765729880e4f": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<ul><li>Simple, transparent, secure<\/li><li>No additional monthly fees<\/li><li>Secure transactions<\/li><li>Automatic deposits<\/li><li>Seller protection<\/li><li>Online and phone support staff<\/li><li>Tips for success<\/li><li>Seller newsletter<\/li><li>Get advice<\/li><li>Sustainability Impact Report<\/li><\/ul>\n<p>Are you ready?\n<\/p>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "7d2d6d6f-3ab1-40ee-b7f8-436a8a94a051": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--15927748231339__7d2d6d6f-3ab1-40ee-b7f8-436a8a94a051-166527442049330ed5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Apply to be a Vendor<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--15927748231339__7d2d6d6f-3ab1-40ee-b7f8-436a8a94a051-166527442049330ed5-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--15927748231339__7d2d6d6f-3ab1-40ee-b7f8-436a8a94a051-166527442049330ed5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click Here to Fill Out Our Vendor Questionnaire",
+            "button_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfEyWftxJvDO79Ju78iZHENj_h7eEdVbdgVs-yIedhqxLzwaA\/viewform",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15927748231339__7d2d6d6f-3ab1-40ee-b7f8-436a8a94a051-166527442049330ed5-0",
+        "template--15927748231339__7d2d6d6f-3ab1-40ee-b7f8-436a8a94a051-166527442049330ed5-1",
+        "template--15927748231339__7d2d6d6f-3ab1-40ee-b7f8-436a8a94a051-166527442049330ed5-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f305b424-dd2a-4979-990d-b4bbef9ffe7f",
+    "ea7f5271-a491-43d1-94e5-6f07b605ce2f",
+    "ec80ccbe-e9d4-40b4-9a0b-668f4ff8d5e5",
+    "8b80e838-3bb8-49ff-8055-765729880e4f",
+    "7d2d6d6f-3ab1-40ee-b7f8-436a8a94a051"
+  ]
+}

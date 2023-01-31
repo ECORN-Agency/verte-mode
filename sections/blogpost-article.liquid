@@ -1,0 +1,49 @@
+{% assign img_banner = section.settings.offimg_banner %}
+<section class="single-ariticle-section">
+  <div class="page-width single-ariticle-parent">
+    <div class="single-ariticle-child">
+     {%- assign single_ariticle = section.settings.single_ariticle -%}
+      <div class="sngarticle-img"> <img src="{{ single_ariticle.image | article_img_url : 'master' }}"> </div> 
+      <div class="blog-content"> <h2> {{ single_ariticle.title | escape }} </h2> <a href="{{ single_ariticle.url }}">READ POST</a> </div>
+      <a Class="blog-upper_ankerabsolute" href="{{ single_ariticle.url }}"></a>
+    </div>
+    <div class="single-banner-child">
+      {% if img_banner != blank  %}
+     <div class="single-banner-offimg"><img src="{{ img_banner | img_url : 'master' }}"></div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+
+
+
+{% schema %}
+  {
+  "name": "blogpost-article",
+  "settings": [
+    {
+      "type": "article",
+      "id": "single_ariticle",
+      "label": "Single Ariticle",
+      "info": "Single Article"
+    },
+    {
+      "type": "image_picker",
+      "id": "offimg_banner",
+      "label": "Banner Image"
+    }
+  ],
+  "presets": [
+    {
+      "name": "blogpost-article"
+    }
+  ]
+}  
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

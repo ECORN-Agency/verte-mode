@@ -1,0 +1,110 @@
+<div class="home-slider-section">
+<div class="inner-home-slider-section">
+  <div class="owl-carousel">
+  {% for block in section.blocks %}
+     {%- assign textcolor = block.settings.text_color -%}
+    <div class="single-item">
+    <div class="item-img">
+      {% if block.settings.image != blank %}
+      <img src="{{ block.settings.image | img_url : '' }}" alt="{{ block.settings.image.alt }}">
+      {% endif %}
+    </div>   
+    <div class="item-over">
+      <h3 class="title" style="color:{{ textcolor }}">{{ block.settings.heading }}</h3>
+      <p class="sub" style="color:{{ textcolor }}">{{ block.settings.sub_heading }}</p>
+      <div class="ShopNowButton">
+      <a class="button slider-button" href="{{ block.settings.link }}" style="color:{{ textcolor }};border-color:{{ textcolor }}">{{ block.settings.button }}</a>
+      </div>
+    </div>
+    </div>
+    {% endfor %}
+    </div>
+</div>
+</div>
+
+
+<script>
+$(document).ready(function(){
+$('.owl-carousel').owlCarousel({
+loop:true,
+margin:0,
+nav:true,
+dots: false,
+autoplay: true,
+autoplayTimeout: 5000, 
+  navText: ["<img src='https://cdn.shopify.com/s/files/1/0543/5775/4027/files/angle-left_2.png?v=1658473042' alt='next arrow'>  ","<img src='https://cdn.shopify.com/s/files/1/0543/5775/4027/files/angle-right_2.png?v=1658473042' alt='prev arrow'>"],
+  responsive:{
+  0:{
+      items:1,
+  },
+ 380 :{
+      items:1,
+  },
+  600:{
+      items:1,
+  },
+  1000:{
+      items:1,
+  }
+}
+});
+});
+</script>
+
+{% schema %}
+  {
+    "name": "Home Slider Section",
+     "class": "section-slider-home",
+    "settings": [],
+    "blocks":[
+    {
+     "name": "Slider",
+     "type": "slider",
+     "settings": [
+          {
+            "type": "image_picker",
+            "id":   "image",
+            "label":"Image"
+          },
+          {
+            "type": "text",
+            "id":   "heading",
+            "label":"Heading"
+          },
+          {
+            "type": "text",
+            "id":   "sub_heading",
+            "label":"Sub Heading"
+          },
+          {
+            "type": "text",
+            "id":   "button",
+            "label":"Button"
+          },
+          {
+            "type": "url",
+            "id":   "link",
+            "label":"Link"
+          },
+          {
+              "type": "color",
+              "id":   "text_color",
+              "label":"Buuton/Text Color"
+          }
+     ]
+    }
+    ],
+    "presets":[
+    {
+    "name": "Home Slider Section",
+    "category": "Custom"
+    }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

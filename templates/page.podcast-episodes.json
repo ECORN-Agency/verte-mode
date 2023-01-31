@@ -1,0 +1,513 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "166356913310510ba8": {
+      "type": "image-with-text-v2",
+      "blocks": {
+        "b3036c82-04da-4e58-b13f-e11afb2ce0ee": {
+          "type": "caption",
+          "settings": {
+            "caption": "episode no.120",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "16635691331f7c76aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Molly ferrill<\/h2>",
+            "text_style": "body"
+          }
+        },
+        "abc0101c-12da-4ce6-ad8d-62a35717c543": {
+          "type": "text",
+          "settings": {
+            "text": "<h3> Wild and Exposed <br>  <\/h3>",
+            "text_style": "body"
+          }
+        },
+        "16635691331f7c76aa-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "go and listen!",
+            "button_link": "https:\/\/verte-mode.myshopify.com\/pages\/garments-respecting-1"
+          }
+        }
+      },
+      "block_order": [
+        "b3036c82-04da-4e58-b13f-e11afb2ce0ee",
+        "16635691331f7c76aa-1",
+        "abc0101c-12da-4ce6-ad8d-62a35717c543",
+        "16635691331f7c76aa-2"
+      ],
+      "settings": {
+        "custom_class": "custom-podcast-1 podcast-banner1",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_4.37.33_PM.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166356937722b16682": {
+      "type": "podcast-articles",
+      "disabled": true,
+      "blocks": {
+        "fc5583d7-8ad8-4288-8804-361daa164846": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-5"
+          }
+        },
+        "00fae074-e87d-4d18-a873-87ac850c4dc3": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-1"
+          }
+        },
+        "25ce9c61-a7d8-4575-8e56-0e97e76f8b85": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "planet-earth\/planet-earth-2"
+          }
+        },
+        "6d4ee292-8361-44f3-b216-c5ab661dcfb5": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "planet-earth\/planet-earth-1"
+          }
+        },
+        "35f0b0b2-3da7-4f17-a7a3-d632539fa46d": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-2"
+          }
+        },
+        "38b29747-aa88-49fb-a4aa-1265e024dd5a": {
+          "type": "article",
+          "disabled": true,
+          "settings": {
+            "single_ariticle": "eco-living\/eco-living-1"
+          }
+        },
+        "f5a0ec89-9f2d-42c3-8667-9dcd83a1c73c": {
+          "type": "article",
+          "disabled": true,
+          "settings": {
+            "single_ariticle": "beauty\/beauty"
+          }
+        }
+      },
+      "block_order": [
+        "fc5583d7-8ad8-4288-8804-361daa164846",
+        "00fae074-e87d-4d18-a873-87ac850c4dc3",
+        "25ce9c61-a7d8-4575-8e56-0e97e76f8b85",
+        "6d4ee292-8361-44f3-b216-c5ab661dcfb5",
+        "35f0b0b2-3da7-4f17-a7a3-d632539fa46d",
+        "38b29747-aa88-49fb-a4aa-1265e024dd5a",
+        "f5a0ec89-9f2d-42c3-8667-9dcd83a1c73c"
+      ],
+      "settings": {
+        "title-text": "LATEST EPISODES",
+        "bnt-text": "OLDER EPISODES",
+        "btn_link": ""
+      }
+    },
+    "16636715565bfb37e1": {
+      "type": "multicolumn",
+      "blocks": {
+        "16636715568d6ec18b-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/garments-respecting-1",
+            "image": "shopify:\/\/shop_images\/Copy-of-Copy-of-LJ-LB-33.png",
+            "title": "Questioning how we *value* garments & respecting the limits of partnership across fashion",
+            "text": "<p><strong>Jesus Herrera<\/strong>– also known by their moniker<strong>Donatella<\/strong>because of their Instagram handle @donatellaversanchez – is a model, clothing designer, vintage curator, poet and the cofounder of<strong>TheVintage Jesus<\/strong>online store and<strong>Les Jesus<\/strong>fashion brand.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "16636715568d6ec18b-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/fashion-psychology",
+            "image": "shopify:\/\/shop_images\/Screenshot_20220731-181359_Instagram.png",
+            "title": "Fashion psychology, contextualizing our buying behaviors amidst today's *speed* & how shopping is not equal to happiness",
+            "text": "<p><strong>Dr. Dion Terrelonge<\/strong>is a chartered psychologist, researcher and stylist, who explores the connection between clothes and human expression.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "16636715568d6ec18b-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/the-or-foundations",
+            "image": "shopify:\/\/shop_images\/TheOrFoundation-BeachClothingSplash.png",
+            "title": "The Or Foundation's take on their recent agreement with SHEIN, how these grant funds are\/will be used & extended producer responsibility (EPR)",
+            "text": "<p><strong>Liz Ricketts<\/strong>and<strong>Sammy Oteng<\/strong>work with<strong>The Or Foundation<\/strong>, a nonprofit based in the USA and Ghana, with a primary goal of catalyzing what they call a justice-led circular economy.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "ca8eba46-b8af-4001-9bbd-d736e1ae14cb": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/biosynthetic-dyes",
+            "image": "shopify:\/\/shop_images\/Tammy-with-Dye.png",
+            "title": "What are biosynthetic dyes & could they replace the toxic petroleum-heavy ingredients in today's predominant indigo garment dye?",
+            "text": "<p><strong>Michelle Zhu<\/strong>is the CEO & cofounder of<strong>Huue<\/strong>, which make biosynthetic dyes to replace the toxic chemical dyes in apparel – their current focus is providing an alternative to synthetic indigo.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        },
+        "88823396-1869-4b1d-8aad-2d6b500d23e5": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/slow-art",
+            "image": "shopify:\/\/shop_images\/6_KESIENA_IndigoInkStudies.png",
+            "title": "Slow art as a tool for liberation and why sustainability isn't passive – it's something you live",
+            "text": "<p><strong>KesienaOnosigho<\/strong>is a textile and mixed-media artist, who intuitively explores textiles and a range of media to create atmospheric abstractions focused on intersectionality.<\/p>",
+            "link_label": "Read More",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16636715568d6ec18b-0",
+        "16636715568d6ec18b-1",
+        "16636715568d6ec18b-2",
+        "ca8eba46-b8af-4001-9bbd-d736e1ae14cb",
+        "88823396-1869-4b1d-8aad-2d6b500d23e5"
+      ],
+      "settings": {
+        "custom_class": "multicollum_gallary dusra_section",
+        "title": "LATEST EPISODES",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663569613d28d91c4": {
+      "type": "image-banner2",
+      "disabled": true,
+      "settings": {
+        "class_id": "single_image_theroot",
+        "image": "shopify:\/\/shop_images\/CC_THE_ROOT_HOME_BANNER.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "166356970000c9b541": {
+      "type": "multicolumn",
+      "blocks": {
+        "16635696992d8742b8-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "",
+            "text": "<p>“I listen to every podcast available in the sustainable fashion realm and Kestrel is by far the best interviewer. She has a nice format to her show ... Kestrel always has thoughtful questions, follow ups, and always lets her guests tell however long or short stories they want. I also love that her episodes are shorter, making them easier to get through when you’re a busy person. Highly recommend.”<\/p><p>— EMMA2692<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16635696992d8742b8-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "",
+            "text": "<p>“Kestrel offers such a grounding, safe, and holistic space for exploring conscious fashion. I love tuning in to learn the behind the scenes thought processes and work from industry experts, makers, and professionals. A must-subscribe whether you’re just dipping your toes into the field or a connoisseur! Thanks for bringing these insightful conversations to me. With love from Kaméa!”<\/p><p>— KAMÉA CHAYNE<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16635696992d8742b8-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "",
+            "text": "<p>“I find myself patiently waiting for Tuesdays\/Wednesdays to listen to the newest podcast. I’ve not only learned a lot through listening to Kestrel and the amazing guests she has on, but also have found people just like me. Thank you Kestrel for such great storytelling episodes!”<\/p><p>— VISTISENSHAN<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e3eb78a2-5144-4bde-bfc5-2e44717051cf": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "",
+            "text": "<p>“I know nothing about sustainability or the fashion industry (but I’m an avid podcast listener) and yet I find Conscious Chatter extremely engaging. You don’t have to be an expert to enjoy it; it’s super accessible, and has completely transformed the way I think about what I wear.”<\/p><p>— BLAIR BEUTTLER<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0e622a6e-190a-412f-9176-703ba980d150": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "",
+            "text": "<p>“Kestrel and her incredibly knowledgeable guests shine the brightest of (solar powered) lights on what it means to live an eco-friendly lifestyle through your fashion choices! Bold, insightful, and engaging are just a few of the words I’d use to describe the time you’ll spend with them. Thanks for putting out such a superb show Kestrel - keep up the great work!”<\/p><p>— KATIE JOY B.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "dbf877a2-914e-469d-9d5a-8356648d166b": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "",
+            "text": "<p>“I want to put this one on the playlist of everyone! This is the best thing you can do for an hour. Kestrel puts together legit episodes that address real issues within fashion and highlight those daring enough to create real change in their own diverse avenues of the industry. Great collection of perspectives and approaches.”<\/p><p>— JAFACT<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16635696992d8742b8-0",
+        "16635696992d8742b8-1",
+        "16635696992d8742b8-2",
+        "e3eb78a2-5144-4bde-bfc5-2e44717051cf",
+        "0e622a6e-190a-412f-9176-703ba980d150",
+        "dbf877a2-914e-469d-9d5a-8356648d166b"
+      ],
+      "settings": {
+        "custom_class": "multicollum_reviews",
+        "title": "WHAT LISTENERS ARE SAYING",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663570876020b8ed3": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1663570876c113a5b7-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-01",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3_Mesa_de_trabajo_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663570876c113a5b7-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-02",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3-02.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663570876c113a5b7-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-03",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3-03.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "97791f61-60d4-4dc7-9919-71fbacb27f8a": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-04",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3-04.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b41535e4-e7f6-432d-b336-2f88c999558d": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-05",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3-05.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663570876c113a5b7-0",
+        "1663570876c113a5b7-1",
+        "1663570876c113a5b7-2",
+        "97791f61-60d4-4dc7-9919-71fbacb27f8a",
+        "b41535e4-e7f6-432d-b336-2f88c999558d"
+      ],
+      "settings": {
+        "custom_class": "multicollum_gallary",
+        "title": "LISTEN BY SEASON",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16635712643f702db6": {
+      "type": "multicolumn",
+      "blocks": {
+        "1663571264157cb492-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/fashionista.com\/2017\/04\/what-is-sustainable-ethical-fashion-resources",
+            "image": "shopify:\/\/shop_images\/fashionista-blue.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663571264157cb492-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.nylon.com\/articles\/donated-clothes-fast-fashion-impact?utm_source=facebook&utm_medium=social&utm_campaign=nylon",
+            "image": "shopify:\/\/shop_images\/nylon-blue.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663571264157cb492-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/food52.com\/blog\/24011-beginner-sustainability-tips-eco-friendly-green-home",
+            "image": "shopify:\/\/shop_images\/food52-blue_1_143ef217-eecd-4d61-81b7-13e5fad45ffb.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2f4f8207-94ff-4097-817c-daa59aeca1ef": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.thegoodtrade.com\/features\/thought-provoking-podcasts-to-inspire-conscious-sustainable-living",
+            "image": "shopify:\/\/shop_images\/goodtrade-blue.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2030d2ec-e660-441f-983a-6935a25ec473": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/darlingmagazine.org\/mara-hoffman-shares-sustainable-fashion-really-looks-like\/",
+            "image": "shopify:\/\/shop_images\/darling-blue.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a5c75d0f-b690-49cf-9e62-ba6d34adca3f": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.huffingtonpost.co.uk\/eleanor-oneill\/fashion-how-will-it-refle_b_17316072.html?utm_hp_ref=sustainable-fashion",
+            "image": "shopify:\/\/shop_images\/huffpo-2-blue.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663571264157cb492-0",
+        "1663571264157cb492-1",
+        "1663571264157cb492-2",
+        "2f4f8207-94ff-4097-817c-daa59aeca1ef",
+        "2030d2ec-e660-441f-983a-6935a25ec473",
+        "a5c75d0f-b690-49cf-9e62-ba6d34adca3f"
+      ],
+      "settings": {
+        "custom_class": "multicollum_logos",
+        "title": "AS SEEN ON",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166356913310510ba8",
+    "166356937722b16682",
+    "16636715565bfb37e1",
+    "1663569613d28d91c4",
+    "166356970000c9b541",
+    "1663570876020b8ed3",
+    "16635712643f702db6"
+  ]
+}

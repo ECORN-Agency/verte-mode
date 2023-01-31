@@ -1,0 +1,351 @@
+{% for block in section.blocks %}
+{% case block.type %}
+  {% when 'meganav' %}
+{% assign blockMenu =  block.settings.menu_name | handleize %}
+ {% if blockMenu != blank %}
+
+{% if inmenumain == blockMenu %}
+<div class="main-mega-menu-block">
+
+<div class="mega-menu-block">
+<div class="inner-mega-menu-block">
+
+  {% if block.settings.about_menu != blank %}
+  <div class="about-mega-menu-section">
+  <div class="about-mega-left-section">
+
+  
+  <div class="about-mega-left-section-left-menu">
+    <h3 class="categories-menu-heading">{{ block.settings.about_heading }}</h3>
+  <ul>
+  {% assign About_menu =  block.settings.about_menu %}
+  {%- for link in About_menu.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+
+    {% if block.settings.partner_menu != blank %}
+    <div class="about-mega-left-section-right-menu">
+      <h3 class="categories-menu-heading">{{ block.settings.partner_heading }}</h3>
+  <ul>
+  {% assign Partner_menu =  block.settings.partner_menu %}
+  {%- for link in Partner_menu.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+{% endif %}
+      
+  </div>
+  
+  <div class="about-mega-right-image-section">
+    
+    {% if block.settings.about_image_1 != blank %}
+    <img class="first-about-image" src="{{ block.settings.about_image_1 | img_url: '' }}" alt="{{ block.settings.about_image_1.alt }}">
+      {% endif %}
+    
+    {% if block.settings.about_image_2 != blank %}
+    <img class="second-about-image" src="{{ block.settings.about_image_2 | img_url: '' }}" alt="{{ block.settings.about_image_2.alt }}">
+      {% endif %}
+
+    {% if block.settings.about_image_3 != blank %}
+    <img class="third-about-image" src="{{ block.settings.about_image_3 | img_url: '' }}" alt="{{ block.settings.about_image_3.alt }}">
+      {% endif %}
+    
+  </div> 
+  </div>
+    {% endif %}
+  
+
+  {% if block.settings.category_menu != blank %}
+  <div class="accessories-mega-menu">
+    
+  <div class="left-categories-section">
+    <h3 class="categories-menu-heading">{{ block.settings.category }}</h3>
+  <div class="left-categories-menu-left">
+  <ul>
+  {% assign category_Left =  block.settings.category_menu %}
+  {%- for link in category_Left.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+
+      
+  {% if block.settings.jewelry_menu_left != blank %}
+  <div class="left-categories-menu-right">
+  <ul>
+  {% assign jewelry_Left =  block.settings.jewelry_menu_left %}
+  {%- for link in jewelry_Left.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+   {% endif %}
+  </div>
+
+    {% if block.settings.jewelry_menu_middle != blank %}
+   <div class="right-jewelry-section">
+    <h3 class="jewelry-menu-heading">{{ block.settings.Jewelry }}</h3>
+
+       
+  <div class="right-jewelry-menu-midle-section">
+  <ul>
+  {% assign jewelry_Middle =  block.settings.jewelry_menu_middle %}
+  {%- for link in jewelry_Middle.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+ 
+      
+      {% if block.settings.jewelry_right_menu != blank %}
+  <div class="right-jewelry-menu-right-section">
+  <ul>
+  {% assign jewelry_right =  block.settings.jewelry_right_menu %}
+  {%- for link in jewelry_right.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  {% endif %}
+
+  
+  </div>
+      {% endif %}
+  </div>
+  {% endif %}
+
+  {% if block.settings.menu_left != blank %}
+  <div class="meg-menu-items mega-menu-left-section">
+  <ul>
+  {% assign linkLeft =  block.settings.menu_left %}
+  {%- for link in linkLeft.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  {% endif %}
+
+  {% if block.settings.menu_1 != blank %}
+   <div class="meg-menu-items mega-menu-first-section">
+  <ul>
+  {% assign linkFirst =  block.settings.menu_1 %}
+  {%- for link in linkFirst.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  {% endif %}
+
+  {% if block.settings.menu_2 != blank %}
+   <div class="meg-menu-items mega-menu-second-section">
+     <div class="mega-menu-second-upper-section">
+  <ul>
+     
+  {% assign linkSecondUpper =  block.settings.menu_2 %}
+  {%- for link in linkSecondUpper.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  
+  </ul>
+     </div>
+      <div class="mega-menu-second-upper-section">
+  <ul>
+    {% if block.settings.menu_3 != blank %}
+  {% assign linkSecondDown =  block.settings.menu_3 %}
+  {%- for link in linkSecondDown.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  </ul>
+     </div>
+  </div>
+    {% endif %}
+
+
+  {% if block.settings.menu_14 != blank %}
+   <div class="meg-menu-items mega-menu-second-section">
+     <div class="mega-menu-second-upper-section">
+  <ul>
+     
+  {% assign linkSecondUpperkids =  block.settings.menu_14 %}
+  {%- for link in linkSecondUpperkids.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  
+  </ul>
+     </div>
+      <div class="mega-menu-second-upper-section">
+  <ul>
+    {% if block.settings.menu_15 != blank %}
+  {% assign linkSecondDownkids =  block.settings.menu_15 %}
+  {%- for link in linkSecondDownkids.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  </ul>
+     </div>
+  </div>
+    {% endif %}
+
+  
+  
+{% if block.settings.menu_6 != blank %}
+  <div class="meg-menu-items mega-menu-second-section-beauty-first">
+     <div class="mega-menu-second-upper-section first-beauty-upper">
+  <ul>
+     
+  {% assign linkSecondUpperBeauty =  block.settings.menu_6 %}
+  {%- for link in linkSecondUpperBeauty.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  
+  </ul>
+     </div>
+      <div class="mega-menu-second-upper-section first-beauty-middle">
+  <ul>
+    {% if block.settings.menu_7 != blank %}
+  {% assign linkSecondDownBeauty =  block.settings.menu_7 %}
+  {%- for link in linkSecondDownBeauty.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  </ul>
+     </div>
+  <div class="mega-menu-second-upper-section first-beauty-down">
+  <ul>
+    {% if block.settings.menu_8 != blank %}
+  {% assign linkSecondDownBeaut =  block.settings.menu_8 %}
+  {%- for link in linkSecondDownBeaut.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  </ul>
+     </div>
+  </div>
+  {% endif %}
+
+  {% if block.settings.menu_9 != blank %}
+  <div class="meg-menu-items mega-menu-second-section-beauty-second">
+     <div class="mega-menu-second-upper-section beauty-first">
+  <ul>
+     
+  {% assign linkSecondUpperBeauty1 =  block.settings.menu_9 %}
+  {%- for link in linkSecondUpperBeauty1.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  
+  </ul>
+     </div>
+      <div class="mega-menu-second-upper-section beauty-second">
+  <ul>
+    {% if block.settings.menu_10 != blank %}
+  {% assign linkSecondDownBeauty2 =  block.settings.menu_10 %}
+  {%- for link in linkSecondDownBeauty2.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  </ul>
+     </div>
+  <div class="mega-menu-second-upper-section beauty-third">
+  <ul>
+    {% if block.settings.menu_11 != blank %}
+  {% assign linkSecondDownBeauty3 =  block.settings.menu_11 %}
+  {%- for link in linkSecondDownBeauty3.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  </ul>
+     </div>
+  <div class="mega-menu-second-upper-section beauty-fourth">
+  <ul>
+    {% if block.settings.menu_12 != blank %}
+  {% assign linkSecondDownBeauty4 =  block.settings.menu_12 %}
+  {%- for link in linkSecondDownBeauty4.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  </ul>
+     </div>
+    {% if block.settings.menu_13 != blank %}
+
+  <div class="mega-menu-second-upper-section beauty-fifth">
+  <ul>
+      {% assign linkSecondDownBeauty5 =  block.settings.menu_8 %}
+  {%- for link in linkSecondDownBeauty5.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+ 
+  </ul>
+     </div>
+       {% endif %}
+  </div>
+    {% endif %}
+  
+
+  {% if block.settings.menu_4 != blank %}
+   <div class="meg-menu-items mega-menu-third-section">
+  <ul>
+  {% assign linkThird =  block.settings.menu_4 %}
+  {%- for link in linkThird.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+   {% endif %}
+
+{% if block.settings.menu_5 != blank %}
+  <div class="meg-menu-items mega-menu-fourth-section">
+  <ul>
+  {% assign linkFourth =  block.settings.menu_5 %}
+  {%- for link in linkFourth.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+   {% endif %}
+
+  {% if block.settings.menu_right != blank %}
+   <div class="meg-menu-items mega-menu-fifth-section">
+     <div class="menu-section-mega">
+  <ul>
+    
+  {% assign linkRight =  block.settings.menu_right %}
+  {%- for link in linkRight.links -%}
+  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+  
+  </ul>
+     </div>
+     <div class="menu-section-image">
+       {% if block.settings.button != blank %}
+       <div class="mega-button-text">
+       {% if block.settings.menu_image != blank %}
+         <a href="{{ block.settings.button_link }}">
+       <img src="{{ block.settings.menu_image | img_url :'' }}" alt="{{ block.settings.menu_image.alt }}">
+         </a>
+       {% endif %}
+          
+         <a href="{{ block.settings.button_link }}">
+        <h3 class="mega-menu-image-heading">{{ block.settings.heading }}</h3>
+         </a>
+         
+       <a class="btn button maga-menu-btn" href="{{ block.settings.button_link }}">{{ block.settings.button }}</a>
+    
+          </div>
+            {% endif %}
+     </div>
+  </div>
+  {% endif %}
+
+  
+  
+</div>
+</div>
+</div>
+    {% endif %}
+   {% endif %}
+{% endcase %}
+{% endfor %}

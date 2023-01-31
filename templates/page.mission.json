@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "89aa6de4-f449-4834-8019-ff4883a96ec0": {
+      "type": "image-banner",
+      "blocks": {
+        "1feae493-893d-42a0-8757-1091d4aecbf2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Mission",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "1feae493-893d-42a0-8757-1091d4aecbf2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_11.10.40_AM.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "0f2e7722-210e-4146-b263-b7e0035b84eb": {
+      "type": "home-block-image",
+      "settings": {
+        "heading": ""
+      }
+    },
+    "f8bc278c-1586-4aec-8d0b-60b480090416": {
+      "type": "home-block-image",
+      "settings": {
+        "heading": ""
+      }
+    },
+    "9d2b70bd-0ff9-473c-b83e-880d3710de5c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15928945344683__9d2b70bd-0ff9-473c-b83e-880d3710de5c-1665339336d394f291-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Our Mission<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15928945344683__9d2b70bd-0ff9-473c-b83e-880d3710de5c-1665339336d394f291-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Verte Mode’s primary mission is to provide purchasers with a first-of-its-kind, reliable eCommerce resource for purchasing Sustainable, Cruelty-Free Products and Services. That’s why Verte Mode assesses each product to meet our rigorous standards for Sustainability, Fair Labor, Plastic-Free Packaging or Shipping, and Safe Craftsmanship or Production. Exemplary Vendors with superior Auditable Sustainable Attributes will feature additional recognition with their Products.<\/p><p><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15928945344683__9d2b70bd-0ff9-473c-b83e-880d3710de5c-1665339336d394f291-0",
+        "template--15928945344683__9d2b70bd-0ff9-473c-b83e-880d3710de5c-1665339336d394f291-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 4
+      }
+    },
+    "65425629-231a-41fe-a584-5a703ba7387e": {
+      "type": "home-single-image",
+      "settings": {
+        "custom_class": "",
+        "heading": "",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_10.07.45_AM.png",
+        "button": "",
+        "link": ""
+      }
+    },
+    "2ad21dc6-07d3-43d2-b1dd-31372542ef3e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15928945344683__2ad21dc6-07d3-43d2-b1dd-31372542ef3e-1665425240a945a592-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In addition, we are on a mission to support garment workers and uplift women and children worldwide. Too often, these people are directly impacted by decisions to support fast fashion and a poor materials economy. The Inequities they experience are primarily due to a lack of consideration or an “out of sight, out of mind” mentality. As a result, we are taking advantage of these people.<br\/><br\/>To fix this inadequacy and return to a more fair and just system, Verte Foundation aims to monitor and regulate decisions in-house while also making clear pathways to uplift people out of poverty and into health and wellness, with a chance to live a more prosperous life.<\/p><p><br\/>A community is as strong as its weakest members, and given the conditions some of our members face, we believe it is imperative to consider these inequalities and create change.<\/p>"
+          }
+        },
+        "template--15928945344683__2ad21dc6-07d3-43d2-b1dd-31372542ef3e-1665425240a945a592-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP BRANDS",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15928945344683__2ad21dc6-07d3-43d2-b1dd-31372542ef3e-1665425240a945a592-1",
+        "template--15928945344683__2ad21dc6-07d3-43d2-b1dd-31372542ef3e-1665425240a945a592-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1cea7d20-e2cb-46a8-880a-2bfa4da87e56": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_10.02.28_AM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "89aa6de4-f449-4834-8019-ff4883a96ec0",
+    "0f2e7722-210e-4146-b263-b7e0035b84eb",
+    "f8bc278c-1586-4aec-8d0b-60b480090416",
+    "9d2b70bd-0ff9-473c-b83e-880d3710de5c",
+    "65425629-231a-41fe-a584-5a703ba7387e",
+    "2ad21dc6-07d3-43d2-b1dd-31372542ef3e",
+    "1cea7d20-e2cb-46a8-880a-2bfa4da87e56"
+  ]
+}

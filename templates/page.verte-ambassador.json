@@ -1,0 +1,222 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "b5267625-6cfa-41e9-8065-b8865423dea5": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_8.22.48_PM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "2693d165-9add-4c65-9c65-36690670a9d3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15927765270699__2693d165-9add-4c65-9c65-36690670a9d3-166527470393eb1708-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Join the Verte Movement<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--15927765270699__2693d165-9add-4c65-9c65-36690670a9d3-166527470393eb1708-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Earn Rewards. Join the Community. Learn about Sustainability.<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927765270699__2693d165-9add-4c65-9c65-36690670a9d3-166527470393eb1708-0",
+        "template--15927765270699__2693d165-9add-4c65-9c65-36690670a9d3-166527470393eb1708-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2d83511a-4d1b-4cb9-8d45-9df34e358574": {
+      "type": "rich-text",
+      "blocks": {
+        "711a3198-584e-4b46-a61f-b2e145cd6c98": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>We’re accepting applications! <\/strong><\/p><p>The more you tell your community about Verte Mode, the more perks you'll receive! From gift boxes to gift cards, being a part of The Verte Movement comes withs some serious perks! <\/p>"
+          }
+        },
+        "e04d1093-1ce6-49a1-a9df-8d653dc67c78": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Apply now",
+            "button_link": "\/account\/register",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "711a3198-584e-4b46-a61f-b2e145cd6c98",
+        "e04d1093-1ce6-49a1-a9df-8d653dc67c78"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "065a9c3b-99b7-43cc-bfd3-8f68059baa9b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div data-tf-widget=\"Cpyip5yX\" data-tf-opacity=\"0\" data-tf-hide-headers data-tf-iframe-props=\"title=EarthHero\" data-tf-medium=\"snippet\" style=\"width:100%;height:500px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ce42ca63-6384-458c-9184-5c04a9a6f036": {
+      "type": "home-block-image",
+      "blocks": {
+        "a9af3466-841d-45b8-b1a0-e39bbf557e1f": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon3.png",
+            "heading": "Apply!",
+            "para": "<p>It only takes a few minutes<\/p>",
+            "link": "#"
+          }
+        },
+        "d7436dfa-3d05-4a13-a741-48f6085edee8": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon2.png",
+            "heading": "Set up Shop",
+            "para": "<p>Recieve your discount code <br\/>and unique link!<\/p>",
+            "link": "#"
+          }
+        },
+        "54c58ec4-2ece-4dcc-b428-efcf7307b177": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon3.png",
+            "heading": "Get Rewarded",
+            "para": "<p>Revive gift cards, products <br\/>& more!<\/p>",
+            "link": "#"
+          }
+        },
+        "c82dde5e-eee7-41fa-82f1-40b7dcddac3e": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon4.png",
+            "heading": "Come Onboard",
+            "para": "<p>Learn about Verte Mode <br\/>and our mission to save the <br\/>planet<\/p>",
+            "link": "#"
+          }
+        },
+        "3818d8a5-302d-41d3-817e-21c7c827bf6b": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon5.png",
+            "heading": "Share!",
+            "para": "<p>Share eco-tips and drive <br\/>people to your link to <br\/>create more Verte Mode!<\/p>",
+            "link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "a9af3466-841d-45b8-b1a0-e39bbf557e1f",
+        "d7436dfa-3d05-4a13-a741-48f6085edee8",
+        "54c58ec4-2ece-4dcc-b428-efcf7307b177",
+        "c82dde5e-eee7-41fa-82f1-40b7dcddac3e",
+        "3818d8a5-302d-41d3-817e-21c7c827bf6b"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
+    "454e716a-de4c-409e-a26b-72a9bf6e624d": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_8.29.39_PM.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "5c4d405a-975e-4485-a3d6-bad33aab9e46": {
+      "type": "rich-text",
+      "blocks": {
+        "8e0c0f2c-871d-4eb1-bf42-8227606bf695": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><\/p><p>As a community of eco-warriors, share your sustainability journey, learn tips from each other in our Facebook group and join our monthly sustainability webinars, exclusive for our allies!<\/p>"
+          }
+        },
+        "fcfc51b9-ce3c-460e-bce0-34b3779e473a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Join the verte movement",
+            "button_link": "https:\/\/www.facebook.com\/groups\/5752093721480426",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "8e0c0f2c-871d-4eb1-bf42-8227606bf695",
+        "fcfc51b9-ce3c-460e-bce0-34b3779e473a"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b5267625-6cfa-41e9-8065-b8865423dea5",
+    "2693d165-9add-4c65-9c65-36690670a9d3",
+    "2d83511a-4d1b-4cb9-8d45-9df34e358574",
+    "065a9c3b-99b7-43cc-bfd3-8f68059baa9b",
+    "ce42ca63-6384-458c-9184-5c04a9a6f036",
+    "454e716a-de4c-409e-a26b-72a9bf6e624d",
+    "5c4d405a-975e-4485-a3d6-bad33aab9e46"
+  ]
+}

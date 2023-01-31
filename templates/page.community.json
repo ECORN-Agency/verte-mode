@@ -1,0 +1,116 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "7066729b-9b56-4ee6-974a-0ae6c17d02ad": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15927898603691__7066729b-9b56-4ee6-974a-0ae6c17d02ad-1665282281970a5b08-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Community<\/p>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927898603691__7066729b-9b56-4ee6-974a-0ae6c17d02ad-1665282281970a5b08-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "56718c59-a378-4aab-856a-d82d949f2e18": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15927898603691__56718c59-a378-4aab-856a-d82d949f2e18-166528231746f03377-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/category6.jpg",
+            "title": "Our Trailblazing Partners",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>We are elated to be joined by other like-minded brands in this revolution dedicated to mother nature, social justice and human wellness. Every brand on our platform has been meticulously chosen, vetted and sealed with a VM stamp of approval.<br\/><br\/>Learn more about our #trailblazers:<\/p>"
+          }
+        },
+        "template--15927898603691__56718c59-a378-4aab-856a-d82d949f2e18-166528231746f03377-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/IMG-5330_1.jpg",
+            "title": "The Greening Show",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Verte Mode Founder & Environmentalist Aalia Mauro as she takes the mic with various industry experts to discuss sustainable fashion, climate science, solutions, environmental & social justice.<br\/><br\/>Community-based podcast that advocates educating and providing accessibility to citizens who believe in taking care of themselves, each other, and our planet.<br\/><br\/>New episodes every Wednesday. Available on all platforms.<\/p>"
+          }
+        },
+        "template--15927898603691__56718c59-a378-4aab-856a-d82d949f2e18-166528231746f03377-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/category6.jpg",
+            "title": "Collaborations",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Two brains are better than one and there is no “lI” in team. Verte Mode is not only a marketplace but a platform that welcomes converstion and collaboration. We are excited to partner directly with some of our lovely artisans and brands on exclusive products that are only available in our sustainable marketplace.<br\/><br\/>We hope you love our exclusive designs, thoughtfully created for you.<\/p>"
+          }
+        },
+        "cd5f5549-be3b-4300-8a79-55218e4a3115": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_10.24.45_AM.png",
+            "title": "Events",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>As a platform for change, conversation, and collaboration, we are excited to allow ourselves to be a host for webinars\/seminars and multi-faceted events that promote awareness towards sustainability, social justice, education, etc.<br\/><br\/>See below for our upcoming events and join us on this journey:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927898603691__56718c59-a378-4aab-856a-d82d949f2e18-166528231746f03377-0",
+        "template--15927898603691__56718c59-a378-4aab-856a-d82d949f2e18-166528231746f03377-1",
+        "template--15927898603691__56718c59-a378-4aab-856a-d82d949f2e18-166528231746f03377-2",
+        "cd5f5549-be3b-4300-8a79-55218e4a3115"
+      ],
+      "settings": {
+        "custom_class": "center",
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7066729b-9b56-4ee6-974a-0ae6c17d02ad",
+    "56718c59-a378-4aab-856a-d82d949f2e18"
+  ]
+}

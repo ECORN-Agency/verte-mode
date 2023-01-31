@@ -1,0 +1,114 @@
+<div class="rex-image-slider-section">
+  <div class="page-width">
+    <div class="inner-rex-image-slider-section">
+        <div class="owl-carousel-5">
+      {% for block in section.blocks %}
+        <div class="faq-heading">
+          <div class="rex-jq" data-id="{{forloop.index}}">
+            {% if block.settings.image != blank %}
+           <img src="{{ block.settings.image | img_url : '' }}">
+           {% endif %}
+          <h3 class="slider-heading">{{ block.settings.text }}</h3>
+          </div>
+        </div>
+      {% endfor %}
+        </div>
+      
+    </div>
+  </div>
+   {% for block in section.blocks %}
+      <div class="faq-answer answer--{{forloop.index}}" style="display:none;">
+        <div class="page-width">
+     {{ block.settings.subtext }}
+        </div>
+      </div>
+     {% endfor %}
+</div>
+
+<script>
+  $(document).ready(function() {
+    $(".rex-jq").click(function() { 
+     var blockId = $(this).attr('data-id');
+      $('.faq-answer').hide();
+      $('.answer--'+ blockId).show();
+      
+    });
+  });
+</script>
+
+<script>
+   $(document).ready(function(){
+    $('.owl-carousel-5').owlCarousel({
+     loop:true,
+     margin:0,
+     nav:true,
+     dots: false,
+    autoplayTimeout: 3000, 
+  responsive:{
+  0:{
+      items:1,
+  },
+ 360 :{
+      items:2,
+  },
+    481 :{
+      items:3,
+  },
+  600:{
+      items:4,
+  },
+  1000:{
+      items:5,
+  }
+ }
+ });
+ });
+</script>
+
+
+{% schema %}
+  {
+    "name": "Rex Image Slider",
+    "settings": [],
+    "blocks": [
+      {
+        "name": "Slider",
+        "type": "slider",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id":   "image",
+            "label":"Image"
+          },
+          {
+            "type": "url",
+            "id":   "link",
+            "label":"Link"
+          },
+          {
+            "type": "text",
+            "id":   "text",
+            "label":"Text"
+          },
+          {
+            "type": "richtext",
+            "id":   "subtext",
+            "label":"Content"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Rex Image Slider",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

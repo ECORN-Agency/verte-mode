@@ -1,0 +1,33 @@
+<div class="rex-heading-section">
+  <div class="page-width">
+    <div class="inner-rex-heading-section">
+      <h3 class="rex-down-heading">{{ section.settings.heading }}</h3>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Rex Heading Section",
+    "settings": [
+      {
+        "type":  "text",
+        "id":    "heading",
+        "label": "Heading"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Rex Heading Section",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

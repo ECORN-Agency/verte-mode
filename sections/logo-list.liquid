@@ -1,0 +1,49 @@
+<section class="logo-list">
+ <div class="logo-list-parent">
+   {% for block in section.blocks %}
+     {% assign logo_img = block.settings.image %}
+     {% if logo_img != blank %}
+     <div class="logo-list-child">
+       <img src="{{ logo_img | img_url : 'master' }}" alt="logo-images">
+     </div>
+     {% endif %}  
+   {% endfor %}
+ </div>
+</section>
+
+
+
+{% schema %}
+  { 
+    "name": "logo-list",
+    "class": "logo-list-section",
+    "settings": [],
+    "blocks": [
+     {
+       "name": "logo",
+       "type": "image",
+       "settings": [
+         {
+           "type": "image_picker",
+           "id": "image",
+           "label": "Image"
+         },
+         {
+          "type": "article",
+          "id": "article",
+          "label": "Article"
+        }
+       ]
+     }
+   ],
+    "presets": [
+      {"name": "logo-list"}
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16647983768799c431": {
+      "type": "image-banner",
+      "blocks": {
+        "16647983763f315c36-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "16647983763f315c36-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "16647983763f315c36-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16647983763f315c36-0",
+        "16647983763f315c36-1",
+        "16647983763f315c36-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_us_banner_2-blue.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16647984420b40d6b5": {
+      "type": "home-image-text",
+      "blocks": {
+        "68513344-efc2-4777-b5ac-d858d727c9f1": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-07-18_at_9.29.32_AM.png",
+            "heading": "All Green, All the Time",
+            "subtext": "<p>We deliver each and every one of our 100% ethical and earth-friendly goods with love and carefully crafted methods.<\/p>",
+            "link": "https:\/\/www.vertemode.com\/brand-evaluation\/#AllGreenAllTheTime"
+          }
+        },
+        "bc7f2afb-1aee-4b5b-bb7f-dbef8d694ce2": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-07-18_at_9.29.36_AM.png",
+            "heading": "100% Fair & Trusted",
+            "subtext": "<p>We are committed to sustainable ingredients, fair trade practices, and trustworthy manufacturing.<\/p>",
+            "link": ""
+          }
+        },
+        "5ad37000-f7d6-4919-af2a-349e37780b46": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-07-18_at_9.29.40_AM.png",
+            "heading": "Tested For Impact",
+            "subtext": "<p>We closely evaluate each brand to offer what you value most: carbon-neutral, ethical, and equitable comfort. <\/p>",
+            "link": "https:\/\/www.vertemode.com\/brand-evaluation\/#TestedForImpact"
+          }
+        }
+      },
+      "block_order": [
+        "68513344-efc2-4777-b5ac-d858d727c9f1",
+        "bc7f2afb-1aee-4b5b-bb7f-dbef8d694ce2",
+        "5ad37000-f7d6-4919-af2a-349e37780b46"
+      ],
+      "settings": {
+        "heading": "",
+        "link": "",
+        "sub_heading": ""
+      }
+    },
+    "1664798661ae9c8221": {
+      "type": "image-banner",
+      "blocks": {
+        "1664798661180db8da-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1664798661180db8da-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1664798661180db8da-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664798661180db8da-0",
+        "1664798661180db8da-1",
+        "1664798661180db8da-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_10.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16647983768799c431",
+    "16647984420b40d6b5",
+    "1664798661ae9c8221"
+  ]
+}

@@ -1,0 +1,84 @@
+<div class="home-collectin-content-button">
+  <div class="page-width">
+  <div class="inner-home-collectin-content-button">
+    <div class="left-section">
+    {% for block in section.blocks %}
+    <div class="collection-single-item">
+      <a href="{{ block.settings.link }}">
+      {% if block.settings.image != blank %}
+      <img src="{{ block.settings.image | img_url : '' }}" alt="{{ block.settings.image.alt }}">
+      </a>
+      {% endif %}
+    </div>
+    {% endfor %}
+    </div>
+    <div class="right-section">
+      <a href="{{ section.settings.link }}">
+      <h3 class="right-section-heading">{{ section.settings.heading }}</h3></a>
+      {{ section.settings.subtext }}
+       <div class="bg-text-section-button">
+      <a class="button" href="{{ section.settings.link }}">{{ section.settings.button }}</a>
+       </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Home Collection Text",
+    "settings": [
+        {
+          "type":  "text",
+          "id":    "heading",
+          "label": "Heading"
+        },
+        {
+          "type":  "richtext",
+          "id":    "subtext",
+          "label": "Content"
+        },
+        {
+          "type":  "text",
+          "id":    "button",
+          "label": "Button"
+        },
+        {
+          "type":  "url",
+          "id":    "link",
+          "label": "Link"
+        }
+    ],
+    "blocks":[
+     {
+       "name": "Collection",
+       "type": "collection",
+       "settings": [
+           {
+          "type":  "image_picker",
+          "id":    "image",
+          "label": "Image"
+        },
+         {
+          "type":  "url",
+          "id":    "link",
+          "label": "Link"
+        }
+       ]
+     }
+    ],
+    "presets": [
+    {
+       "name": "Home Collection Text",
+       "category": "custom"
+    }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

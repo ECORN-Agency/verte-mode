@@ -1,0 +1,33 @@
+<div class="rex-text-section">
+  <div class="page-width">
+    <div class="inner-rex-text-section">
+      <h2 class="rex-text-section-text">{{ section.settings.text }}</h2>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Rex Text Section",
+    "settings": [
+      {
+        "type": "text",
+        "id":   "text",
+        "label":"Text"
+      }
+    ],
+    "presets":[
+      {
+        "name": "Rex Text Section",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

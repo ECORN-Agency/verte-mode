@@ -1,0 +1,85 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-2"
+      }
+    },
+    "ab871f7f-8b91-4e6c-b3ec-62bd988975d3": {
+      "type": "image-banner2",
+      "disabled": true,
+      "blocks": {
+        "template--15773237313707__ab871f7f-8b91-4e6c-b3ec-62bd988975d3-1670642120b458a943-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW IN",
+            "heading_size": "h1"
+          }
+        },
+        "template--15773237313707__ab871f7f-8b91-4e6c-b3ec-62bd988975d3-1670642120b458a943-1": {
+          "type": "text",
+          "settings": {
+            "text": "Activist skin-care is a artisanal line that is lovingly handcrafted in small batches in our studio-lab in Southern California. Eco-friendly packaging system, which pairs gorgeous refillable glass containers with low-waste refill pouches, it's so convenient to reduce your ecological footprint and treat yourself at the same time.",
+            "text_style": "body"
+          }
+        },
+        "template--15773237313707__ab871f7f-8b91-4e6c-b3ec-62bd988975d3-1670642120b458a943-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP ACTIVIST SKINCARE",
+            "button_link_1": "https:\/\/vertemode.com\/collections\/activist-skincare",
+            "button_style_secondary_1": false,
+            "button_label_2": "SHOP BEAUTY",
+            "button_link_2": "https:\/\/vertemode.com\/collections\/beauty",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15773237313707__ab871f7f-8b91-4e6c-b3ec-62bd988975d3-1670642120b458a943-0",
+        "template--15773237313707__ab871f7f-8b91-4e6c-b3ec-62bd988975d3-1670642120b458a943-1",
+        "template--15773237313707__ab871f7f-8b91-4e6c-b3ec-62bd988975d3-1670642120b458a943-2"
+      ],
+      "settings": {
+        "class_id": "",
+        "image": "shopify:\/\/shop_images\/Activist-_October_2022-6.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 3,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "ab871f7f-8b91-4e6c-b3ec-62bd988975d3",
+    "product-grid"
+  ]
+}

@@ -1,0 +1,49 @@
+<section class="page-width podcast-audio-section">
+  <div class="official_podcast">
+    <div class="child_podcast">
+      {% for block in section.blocks %}
+        <div class="podcast_off_audio_inloop">
+          {{ block.settings.custom_html  }}
+        </div>
+      {% endfor %} 
+    </div>
+  </div>
+</section>
+
+
+{% schema %}
+  {
+    "name": "Podcast Audio",
+    "settings": [
+      {
+       "type": "text",
+       "id": "custom_class",
+       "label": "Custom Class"
+      }
+    ],
+    "max_blocks": 1,
+    "blocks": [
+     {
+       "name": "Slide",
+       "type": "slide",
+       "settings": [
+         {
+           "type": "html",
+           "id": "custom_html",
+           "label": "Apple Podcast Link",
+           "info": "Copy </code> from apple podcast and Paste HERE !"
+         }
+       ]
+     }
+   ],
+    "presets": [
+      {"name": "Podcast Audio"}
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

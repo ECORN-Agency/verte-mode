@@ -1,0 +1,61 @@
+{% comment %}
+    Renders a set of links for paginated results. Must be used within paginate tags.
+
+    Usage:
+    {% paginate results by 2 %}
+      {% render 'pagination', paginate: paginate, anchor: '#yourID' %}
+    {% endpaginate %}
+
+    Accepts:
+    - paginate: {Object}
+    - anchor: {String} (optional) This can be added so that on page reload it takes you to wherever you've placed your anchor tag.
+{% endcomment %}
+
+<link rel="stylesheet" href="{{ 'component-pagination.css' | asset_url }}" media="print" onload="this.media='all'">
+<noscript>{{ 'component-pagination.css' | asset_url | stylesheet_tag }}</noscript>
+
+{%- if paginate.parts.size > 0 -%}
+  <div class="pagination-wrapper">
+    <nav class="pagination" role="navigation" aria-label="{{ 'general.pagination.label' | t }}">
+      <ul class="pagination__list list-unstyled" role="list">
+
+        <li>
+          {%- if paginate.previous -%}
+          <a href="{{ paginate.previous.url }}{{ anchor }}" class="pagination__item pagination__item--prev pagination__item-arrow link motion-reduce" aria-label="{{ 'general.pagination.previous' | t }}">
+            <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8.49998 0.424279L16.5769 8.5012L8.49998 16.5781L7.06128 15.1647L12.7151 9.51082L0.42306 9.51082L0.42306 7.49159L12.7151 7.49159L7.06128 1.83774L8.49998 0.424279Z" fill="white"/>
+            </svg>
+          </a>
+          {%- endif -%}
+        </li>
+
+      <li class="pagination__center">
+        {%- for part in paginate.parts -%}
+          <div>
+            {%- if part.is_link -%}
+              <a href="{{ part.url }}{{ anchor }}" class="pagination__item link" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">{{ part.title }}</a>
+            {%- else -%}
+              {%- if part.title == paginate.current_page -%}
+                <a role="link" aria-disabled="true" class="pagination__item pagination__item--current light" aria-current="page" aria-label="{{ 'general.pagination.page' | t: number: part.title }}">{{ part.title }}</a>
+              {%- else -%}
+                <span class="pagination__item">{{ part.title }}</span>
+              {%- endif -%}
+            {%- endif -%}
+          </div>
+        {%- endfor -%}
+      </li>
+
+        <li>
+          {%- if paginate.next -%}
+          <a href="{{ paginate.next.url }}{{ anchor }}" class="pagination__item pagination__item--next pagination__item-arrow link motion-reduce" aria-label="{{ 'general.pagination.next' | t }}" >
+            <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8.49998 0.424279L16.5769 8.5012L8.49998 16.5781L7.06128 15.1647L12.7151 9.51082L0.42306 9.51082L0.42306 7.49159L12.7151 7.49159L7.06128 1.83774L8.49998 0.424279Z" fill="white"/>
+            </svg>
+          </a>
+          {%- endif -%}
+        </li>
+
+      </ul>
+    </nav>
+  </div>
+{%- endif -%}

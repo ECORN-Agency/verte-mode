@@ -1,0 +1,61 @@
+<div class="blog-images-section">
+  <div class="page-width">
+    <div class="inner-blog-images-section">
+      {% for block in section.blocks %}
+        <div class="single-blog-item">
+          {% if block.settings.image != blank %}
+          <img src="{{ block.settings.image | img_url : '' }}">
+          {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+    <div class="scroller-section">
+    <span class="button-scrol">Back to Top
+    <svg xmlns="http://www.w3.org/2000/svg" width="10.572" height="10.365" viewBox="0 0 10.572 10.365"> <g data-name="Group 30263" transform="translate(-99.751 -3362.127)"> <g data-name="Group 30262" transform="translate(99.543 3348.753) rotate(45)"> <g data-name="Group 29476" transform="translate(7 5.999)"> <path data-name="Path 23365" d="M1290.25,491h5.518v5.518" transform="translate(-1282.524 -491)" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"></path> <line data-name="Line 11924" y1="6.622" x2="6.622" transform="translate(6.622)" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"></line> </g> </g> </g> </svg>
+    </span>
+    </div>
+  </div>
+</div>
+
+<script>
+  $(document).ready(function(){
+$(".button-scrol").click(function() {
+        $("html").animate({ scrollTop: 0 }, "slow");
+        });
+  });
+</script>
+
+
+
+
+{% schema %}
+  {
+    "name": "Blog Images Section",
+    "settings": [],
+    "blocks":[
+      {
+        "name": "Images",
+        "type": "images",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id":   "image",
+            "label":"Image"
+          }
+        ]
+      }
+    ],
+    "presets":[
+      {
+        "name": "Blog Images Section",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

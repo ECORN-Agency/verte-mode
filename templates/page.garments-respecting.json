@@ -1,0 +1,112 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16643495028ee16f01": {
+      "type": "image-with-text",
+      "blocks": {
+        "16643495029328f86d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wild and Exposed",
+            "heading_size": "h1"
+          }
+        },
+        "16643495029328f86d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to The Greening Show. In this episode, host Aalia chats with nature activist, photographer, and filmmaker Molly Ferrill. You will learn about Molly's journey into becoming a National Geographic Explorer dedicated to capturing and changing the relationships between people and nature, Wildlife tracking issues, solutions,and wildlife tourism.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16643495029328f86d-0",
+        "16643495029328f86d-1"
+      ],
+      "settings": {
+        "custom_class": "image-with-text-ver1",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_3.07.45_PM.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663920617b03a7bd3": {
+      "type": "image-with-text-v3",
+      "blocks": {
+        "16639206176e3d9d69-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wild and Exposed",
+            "heading_size": "h2"
+          }
+        },
+        "16639206176e3d9d69-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Greening Show <\/p><br>\n<p>Self-Improvement<\/p>",
+            "url_id": "https:\/\/podcasts.apple.com\/us\/podcast\/wild-and-exposed\/id1650676343?i=1000583232475",
+            "label_id": "Listen on Apple Podcasts",
+            "textarea_id": "Welcome to The Greening Show. In this episode, host Aalia chats with nature activist, photographer, and filmmaker Molly Ferrill. You will learn about Molly's journey into becoming a National Geographic Explorer dedicated to capturing and changing the relationships between people and nature, Wildlife tracking issues, solutions,and wildlife tourism.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16639206176e3d9d69-0",
+        "16639206176e3d9d69-1"
+      ],
+      "settings": {
+        "custom_class": "product-preview-outer",
+        "image": "shopify:\/\/shop_images\/finalpodcastcover22_1.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16639265320eabc5a1": {
+      "type": "podcast-audios-section",
+      "blocks": {
+        "31fafa90-c579-435e-9c45-6bfccd3848d7": {
+          "type": "slide",
+          "settings": {
+            "custom_html": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" frameborder=\"0\" height=\"175\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https:\/\/embed.podcasts.apple.com\/us\/podcast\/wild-and-exposed\/id1650676343?i=1000583232475\"><\/iframe>"
+          }
+        }
+      },
+      "block_order": [
+        "31fafa90-c579-435e-9c45-6bfccd3848d7"
+      ],
+      "settings": {
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16643495028ee16f01",
+    "1663920617b03a7bd3",
+    "16639265320eabc5a1"
+  ]
+}

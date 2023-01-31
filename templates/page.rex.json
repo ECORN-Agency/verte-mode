@@ -1,0 +1,173 @@
+{
+  "sections": {
+    "rex-banner-section": {
+      "type": "rex-banner-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rex-Footer-1-scaled.jpg",
+        "heading": "(RE)X",
+        "link": "shopify:\/\/collections\/beauty"
+      }
+    },
+    "rex-text-section": {
+      "type": "rex-text-section",
+      "settings": {
+        "text": "Designed to be better, engineered to last <span class=\"text-bold\">longer<\/span>"
+      }
+    },
+    "rex-image-with-text": {
+      "type": "rex-image-with-text",
+      "settings": {
+        "heading": "WHO THEY ARE",
+        "subtext": "<p>(re)x founder Paulina Quintana is no stranger to the waste produced by the fashion industry. After running a children’s clothing line for 13 years, she knew something had to be done. With so many ways to make an impact, she decided to focus on a seemingly small action point with a huge payoff -- clothing hangers. An eco-solution to an object that everyone uses opens the door to big change!<br\/><br\/>Recovered ocean plastic and other hard-to-recycle plastics are ground up and formed into the revolutionary (re)x hanger. With thoughtful touches like a reinforced pant bar that’s extra thick to stand up to any garment, reinforced bridge brace, and integrated strap hooks, these hangers are ready for your chunkiest sweater, strappiest tank top, and heaviest jacket. On the off chance that your hanger doesn’t last forever, they are also fully recyclable!<\/p>",
+        "button": "Shop (RE)X",
+        "link": "shopify:\/\/collections\/beauty",
+        "image": "shopify:\/\/shop_images\/rex-Who-They-Are-1.jpg"
+      }
+    },
+    "rex-heading-section": {
+      "type": "rex-heading-section",
+      "settings": {
+        "heading": "Why We <strong>Like Them<\/strong>"
+      }
+    },
+    "rex-subtext-section": {
+      "type": "rex-subtext-section",
+      "settings": {
+        "subtext": "<p>Ocean waste is a huge issue. Through her experience in the fashion industry, Paulina Quintana was horrified by the sheer number of plastic hangers that are briefly used and quickly discarded. Tipping her environmentalist cap, she decided to tackle the problem by targeting a small item that has a big impact: hangers!<\/p><p>These notable hangers are made with 100% recycled plastic. While it’s nearly impossible not to consume any plastic, (re)x offers an everyday product that provides an opportunity to give plastic waste a new life outside of the landfill. Ocean plastics and other tough-to-recycle plastics are carefully turned into these sturdy hangers, ready to make their debut displaying your clothes oh so sustainably! In the situation where your hanger breaks, (re)x recycles them into new (re)x hangers, too. Talk about a closed-loop system!<\/p><p>(re)x partners with a top-of-the-line manufacturing partner in South Africa, Ocean Plastic Technologies, that utilizes proprietary technology to turn waste into useful household goods! This plastic is sourced directly from local South Africa beach cleanups and recycling efforts. Not only are these hangers good for the environment, but they are also supporting local communities, too. Their packaging supports groups of single moms in South Africa, where they hand-print and assemble each and every package!<\/p>"
+      }
+    },
+    "rex-image-slider": {
+      "type": "rex-image-slider",
+      "blocks": {
+        "0af3b86f-215d-48c2-a2fb-b5586fe82d82": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_mom-owned-300x300.png",
+            "link": "",
+            "text": "Mom Owned",
+            "subtext": "<p>This brand is created, owned, and run by a mom (or several moms). Celebrating mom-owned companies is necessary given the incredible efforts moms make acting on the source of their motivation and values through parenthood and entrepreneurial creation.<\/p>"
+          }
+        },
+        "b7982aca-7049-4149-90ad-d61f7fed359d": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-women-owned-300x300.png",
+            "link": "",
+            "text": "Women Owned",
+            "subtext": "<p>This brand is owned by a majority of women. This includes everything from a small one-woman shop to a larger company where more than 51% of women make up the ownership team.<\/p>"
+          }
+        },
+        "55407fe6-d9d6-4d5e-bb4f-018ca050173a": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_curbside-recyclable.png",
+            "link": "",
+            "text": "Recyclable",
+            "subtext": "<p>This product contains recyclable materials. It may be recyclable with curbside recycling collections, but might need to be sent to a special recycling facility. Contact your local waste-hauler or recycling facility for details. Appropriate facilities may not exist in your area.<\/p>"
+          }
+        },
+        "f4e61ca0-c4b2-49c3-b922-39085f2c5536": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_empowers-women.png",
+            "link": "",
+            "text": "Empowers Women",
+            "subtext": "<p>This company promotes the empowerment of women by providing safe employment opportunities and working conditions, promoting community programs and gender equality, or donating time or funds towards women’s education and empowerment opportunities.<\/p>"
+          }
+        },
+        "691d67fe-4876-45e0-ba36-ab94711b014c": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_1-for-the-planet.png",
+            "link": "",
+            "text": "1% for the Planet",
+            "subtext": "<p>This company partners with 1% for the Planet, a nonprofit organization that helps promote environmental stewardship. Members commit to donating at least 1% of their sales to the program, which helps connect them to high-impact environmental nonprofits across the globe.<\/p>"
+          }
+        },
+        "d0216a6c-a8c0-4bdd-a702-88a08dd23de2": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_ethical-employment.png",
+            "link": "",
+            "text": "Safe and Fair Labor",
+            "subtext": "<p>We support safe and fair labor practices when producing sustainable products. This company cares for their workers by fostering a safe work environment and providing their employees with fair wage.<\/p>"
+          }
+        },
+        "4f4824f4-a704-4ba9-8bfa-237366911848": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_recycled-pet.png",
+            "link": "",
+            "text": "Recycled Plastic",
+            "subtext": "<p>Recycled plastic utilizes salvaged post-industrial plastic scraps and post-consumer products such as water bottles and other plastic containers, and transforms them into new products. The containers are sorted, crushed, and then heated to form resins, which are liquid plastics that can harden into new shapes. These resins can be molded and used to create anything from carpet to outdoor furniture. Recycling plastic lowers the amount of petroleum extracted and the production of greenhouse gasses associated with first-time plastic production. Plus, by using these existing materials, we’re benefiting from the original energy and resources spent to create them in the first place, while diverting waste from the landfill.<\/p>"
+          }
+        },
+        "64d3dc6f-5270-4860-bdb7-06b3615b3ad0": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_100-recycled-content.png",
+            "link": "",
+            "text": "100% Recycled Content",
+            "subtext": "<p>Recycling is the process of taking an otherwise-discarded item or material and cleaning, sorting, and breaking it down into its basic form (such as fibers or pellets). This material is then used to produce new items. Recycling keeps useful materials from being discarded in landfills, prevents resource extraction due to the creation of new materials, and provides a new life for used items. Recycling can utilize both pre-consumer waste (materials left over from production) or post-consumer materials (used clothing, empty water bottles, etc). This product is made from 100% recycled content.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0af3b86f-215d-48c2-a2fb-b5586fe82d82",
+        "b7982aca-7049-4149-90ad-d61f7fed359d",
+        "55407fe6-d9d6-4d5e-bb4f-018ca050173a",
+        "f4e61ca0-c4b2-49c3-b922-39085f2c5536",
+        "691d67fe-4876-45e0-ba36-ab94711b014c",
+        "d0216a6c-a8c0-4bdd-a702-88a08dd23de2",
+        "4f4824f4-a704-4ba9-8bfa-237366911848",
+        "64d3dc6f-5270-4860-bdb7-06b3615b3ad0"
+      ],
+      "settings": {}
+    },
+    "rex-featured-collection": {
+      "type": "rex-featured-collection",
+      "settings": {
+        "title": "Shop Products from <strong>(re)x<\/strong>",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "home",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rex-button-on-image": {
+      "type": "rex-button-on-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rex_Header_1-scaled.jpg",
+        "button": "SHOP (RE)X",
+        "link": "shopify:\/\/collections\/home"
+      }
+    }
+  },
+  "order": [
+    "rex-banner-section",
+    "rex-text-section",
+    "rex-image-with-text",
+    "rex-heading-section",
+    "rex-subtext-section",
+    "rex-image-slider",
+    "rex-featured-collection",
+    "rex-button-on-image"
+  ]
+}

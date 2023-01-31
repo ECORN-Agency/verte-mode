@@ -1,0 +1,1329 @@
+{
+  "current": {
+    "colors_solid_button_labels": "#312a34",
+    "colors_accent_1": "#ebedf4",
+    "gradient_accent_1": "",
+    "colors_accent_2": "#38533f",
+    "gradient_accent_2": "",
+    "colors_text": "#121212",
+    "colors_outline_button_labels": "#121212",
+    "colors_background_1": "#deded2",
+    "gradient_background_1": "",
+    "colors_background_2": "#37533e",
+    "gradient_background_2": "",
+    "type_header_font": "assistant_n4",
+    "heading_scale": 100,
+    "type_body_font": "futura_n4",
+    "body_scale": 100,
+    "page_width": 1200,
+    "spacing_sections": 0,
+    "spacing_grid_horizontal": 28,
+    "spacing_grid_vertical": 28,
+    "buttons_border_thickness": 1,
+    "buttons_border_opacity": 100,
+    "buttons_radius": 0,
+    "buttons_shadow_opacity": 0,
+    "buttons_shadow_horizontal_offset": 0,
+    "buttons_shadow_vertical_offset": 4,
+    "buttons_shadow_blur": 5,
+    "variant_pills_border_thickness": 1,
+    "variant_pills_border_opacity": 55,
+    "variant_pills_radius": 40,
+    "variant_pills_shadow_opacity": 0,
+    "variant_pills_shadow_horizontal_offset": 0,
+    "variant_pills_shadow_vertical_offset": 4,
+    "variant_pills_shadow_blur": 5,
+    "inputs_border_thickness": 1,
+    "inputs_border_opacity": 55,
+    "inputs_radius": 0,
+    "inputs_shadow_opacity": 0,
+    "inputs_shadow_horizontal_offset": 0,
+    "inputs_shadow_vertical_offset": 4,
+    "inputs_shadow_blur": 5,
+    "card_style": "standard",
+    "card_image_padding": 0,
+    "card_text_alignment": "left",
+    "card_color_scheme": "background-2",
+    "card_border_thickness": 0,
+    "card_border_opacity": 10,
+    "card_corner_radius": 0,
+    "card_shadow_opacity": 0,
+    "card_shadow_horizontal_offset": 0,
+    "card_shadow_vertical_offset": 4,
+    "card_shadow_blur": 5,
+    "text_boxes_border_thickness": 0,
+    "text_boxes_border_opacity": 10,
+    "text_boxes_radius": 0,
+    "text_boxes_shadow_opacity": 0,
+    "text_boxes_shadow_horizontal_offset": 0,
+    "text_boxes_shadow_vertical_offset": 4,
+    "text_boxes_shadow_blur": 5,
+    "media_border_thickness": 1,
+    "media_border_opacity": 5,
+    "media_radius": 0,
+    "media_shadow_opacity": 0,
+    "media_shadow_horizontal_offset": 0,
+    "media_shadow_vertical_offset": 4,
+    "media_shadow_blur": 5,
+    "popup_border_thickness": 1,
+    "popup_border_opacity": 10,
+    "popup_corner_radius": 0,
+    "popup_shadow_opacity": 0,
+    "popup_shadow_horizontal_offset": 0,
+    "popup_shadow_vertical_offset": 4,
+    "popup_shadow_blur": 5,
+    "drawer_border_thickness": 1,
+    "drawer_border_opacity": 10,
+    "drawer_shadow_opacity": 0,
+    "drawer_shadow_horizontal_offset": 0,
+    "drawer_shadow_vertical_offset": 4,
+    "drawer_shadow_blur": 5,
+    "badge_position": "bottom left",
+    "badge_corner_radius": 40,
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse",
+    "accent_icons": "text",
+    "social_twitter_link": "https:\/\/twitter.com\/vertemode\/",
+    "social_facebook_link": "https:\/\/www.facebook.com\/vertemode",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/vertemode\/",
+    "social_tiktok_link": "",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "predictive_search_enabled": true,
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/fav.png",
+    "currency_code_enabled": true,
+    "cart_type": "notification",
+    "show_vendor": false,
+    "show_cart_note": false,
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "<strong>What's New<\/strong> : Click here to see our latest items!",
+              "color_scheme": "accent-2",
+              "link": "https:\/\/vertemode.com\/collections\/new-arrivals"
+            }
+          },
+          "0538ee6b-6513-40eb-a747-52ffb1e24b4c": {
+            "type": "announcement",
+            "settings": {
+              "text": "<strong>Live Sustainably <\/strong>: Get the latest news on living an eco-friendly lifestyle.",
+              "color_scheme": "accent-2",
+              "link": "shopify:\/\/pages\/blog-landing"
+            }
+          },
+          "94d9ccd5-6be5-41c3-95f6-5052476552e6": {
+            "type": "announcement",
+            "settings": {
+              "text": "<strong>Sign Up For Our Newsletter<\/strong>  & get 10% off your first purchase!",
+              "color_scheme": "background-2",
+              "link": "shopify:\/\/pages\/newsletter"
+            }
+          },
+          "b4c19998-43f0-4c1f-b8c4-df2e306d92e8": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "55dc1ec5-9b63-4e3f-a879-24f56d2881ad": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "dd3b055a-545f-435b-b7c8-215d86c36e26": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0",
+          "0538ee6b-6513-40eb-a747-52ffb1e24b4c",
+          "94d9ccd5-6be5-41c3-95f6-5052476552e6",
+          "b4c19998-43f0-4c1f-b8c4-df2e306d92e8",
+          "55dc1ec5-9b63-4e3f-a879-24f56d2881ad",
+          "dd3b055a-545f-435b-b7c8-215d86c36e26"
+        ],
+        "settings": {}
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "2ae449c9-abca-4e56-beee-02b8ea49e9ab": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "NEW IN",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "new-in-1",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "new-in-2",
+              "menu_right": "new-in-right-menu",
+              "menu_image": "shopify:\/\/shop_images\/IMG_7574.jpg",
+              "heading": "New in: Tai-Lite Beauty",
+              "button": "Shop now",
+              "button_link": "shopify:\/\/collections\/tai-lite-beauty",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "5cef4025-5ee3-4674-bccb-417c6b679b37": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "Fashion",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "men-left-menu",
+              "menu_1": "men-menu-1",
+              "menu_2": "men-menu-5",
+              "menu_3": "fashion-two",
+              "menu_4": "fashion-three",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "accessories-menu-3",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "9545c64c-0572-467a-8d0a-b40927beb707": {
+            "type": "meganav",
+            "disabled": true,
+            "settings": {
+              "menu_name": "Clothing",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "men-left-menu",
+              "menu_1": "men-menu-1",
+              "menu_2": "accessories-menu-1",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "men-menu-5",
+              "menu_right": "accessories-menu-5",
+              "heading": "",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "2aea53e0-1539-4208-b353-b46de38d2a87": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "BEAUTY",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "beauty-left-menu",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "beauty-menu-4",
+              "menu_4": "",
+              "menu_5": "beauty-menu-12",
+              "menu_right": "beauty-right-menu",
+              "menu_image": "shopify:\/\/shop_images\/Lip_Balm.jpg",
+              "heading": "New & exclusive: URBAN PULSE",
+              "button": "Shop now",
+              "button_link": "shopify:\/\/collections\/bags",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "beauty-menu-3",
+              "menu_8": "",
+              "menu_9": "beauty-menu-6",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "beauty-menu-10",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "1d97cabb-4b61-4466-be4e-6a65dc900539": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "KIDS",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "kid-left-menu",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "kid-menu-6",
+              "menu_right": "kid-menu-7",
+              "menu_image": "shopify:\/\/shop_images\/220720_KIDS_SUMMER_MM_CS.jpg",
+              "heading": "Kids' essentials",
+              "button": "Shop now",
+              "button_link": "shopify:\/\/products\/cambric-exfoliating-soap-saver-mitts",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": "kid-menu-4"
+            }
+          },
+          "2895b333-5888-48a2-93f5-71f575879b22": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "HOME",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "home-tech-left-menu",
+              "menu_1": "home-tech-menu-1",
+              "menu_2": "furniture",
+              "menu_3": "fashion-two",
+              "menu_4": "home-tech-menu-4",
+              "menu_5": "gift-menu-3",
+              "menu_right": "gift-menu-right",
+              "menu_image": "shopify:\/\/shop_images\/Flikr-Base-2-1.jpg",
+              "heading": "Exclusive: FLIKR",
+              "button": "Shop now",
+              "button_link": "shopify:\/\/collections\/beverages",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "home-2",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "fca08eed-05f8-4361-9106-19544f777424": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "GIFTS & BOXES",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "gift-menu-6",
+              "menu_right": "gift-menu-right",
+              "menu_image": "shopify:\/\/shop_images\/Lip_Balm_Duo_-_Fresh_MintPina_Colada.jpg",
+              "heading": "New in boxes:",
+              "button": "Shop now",
+              "button_link": "https:\/\/vertemode.com\/pages\/subscription",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "gift-menu-1",
+              "menu_7": "gift-menu-2",
+              "menu_8": "gift-menu-3",
+              "menu_9": "gift-menu-4",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "43dce3f9-c1c5-4a0b-aebd-b7ef348d3a6a": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "Accessories",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "accessories-menu-1",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "accessories-menu-5",
+              "menu_right": "",
+              "heading": "Accessories",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "a08e1511-2b95-451e-a3a7-1e8522118805": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "BRANDS",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "brand-left-menu",
+              "menu_2": "brand-menu-1",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "brand-menu-right",
+              "menu_image": "shopify:\/\/shop_images\/lifestyle_do-vyy.jpg",
+              "heading": "BRANDS",
+              "button": "Shop Now",
+              "button_link": "shopify:\/\/collections\/aalias-essentials-kit-1",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "894bb29a-9900-43d0-8b10-7cb1dcd7858d": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "About",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "About",
+              "button": "",
+              "button_link": "",
+              "about_heading": "About",
+              "partner_heading": "Partner",
+              "about_image_1": "shopify:\/\/shop_images\/VertePlant-1.webp",
+              "about_image_2": "shopify:\/\/shop_images\/VerteTravel1-400x430.webp",
+              "about_image_3": "shopify:\/\/shop_images\/TheRevolutionInAg-631x631.webp",
+              "about_menu": "about-1",
+              "partner_menu": "about-2",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "2a4dfb2a-bf23-45ea-a4b8-c24aeda71ecc": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "BLOG",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "BLOG",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "5f2cb765-6d01-4599-b744-ea102a07a5e0": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "COMMUNITY",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "community-left-menu",
+              "menu_1": "community-menu-1",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "COMMUNITY",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "d5434556-52c6-47cf-8fd0-fb92e75a52bd": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "SECONDHAND",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "SECONDHAND",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "7220131f-cbdf-4b2a-97b6-b588abfb57f4": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "GIFTS",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "gifts-1",
+              "jewelry_menu_middle": "gift-menu-4",
+              "jewelry_right_menu": "gift-menu-right",
+              "menu_left": "",
+              "menu_1": "gifts-1",
+              "menu_2": "gifts-2",
+              "menu_3": "",
+              "menu_4": "gifts-3",
+              "menu_5": "",
+              "menu_right": "new-in-right-menu",
+              "menu_image": "shopify:\/\/shop_images\/3.png",
+              "heading": "",
+              "button": "Subscription Box",
+              "button_link": "shopify:\/\/pages\/subscription",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          }
+        },
+        "block_order": [
+          "2ae449c9-abca-4e56-beee-02b8ea49e9ab",
+          "5cef4025-5ee3-4674-bccb-417c6b679b37",
+          "9545c64c-0572-467a-8d0a-b40927beb707",
+          "2aea53e0-1539-4208-b353-b46de38d2a87",
+          "1d97cabb-4b61-4466-be4e-6a65dc900539",
+          "2895b333-5888-48a2-93f5-71f575879b22",
+          "fca08eed-05f8-4361-9106-19544f777424",
+          "43dce3f9-c1c5-4a0b-aebd-b7ef348d3a6a",
+          "a08e1511-2b95-451e-a3a7-1e8522118805",
+          "894bb29a-9900-43d0-8b10-7cb1dcd7858d",
+          "2a4dfb2a-bf23-45ea-a4b8-c24aeda71ecc",
+          "5f2cb765-6d01-4599-b744-ea102a07a5e0",
+          "d5434556-52c6-47cf-8fd0-fb92e75a52bd",
+          "7220131f-cbdf-4b2a-97b6-b588abfb57f4"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/vertemodelogo2022_369a6222-e170-494d-8732-0d653136f426.png",
+          "logo_width": 250,
+          "logo_position": "top-center",
+          "menu": "header-mobile",
+          "cart_image": "shopify:\/\/shop_images\/Shopping-Bag.png",
+          "account_image": "shopify:\/\/shop_images\/Account.png",
+          "menu_type_desktop": "dropdown",
+          "show_line_separator": false,
+          "enable_sticky_header": false,
+          "margin_bottom": 0,
+          "padding_top": 20,
+          "padding_bottom": 20
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "b8fc20ec-e289-4e2f-b164-dbaba8943876": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/VerteModeLogoWhite220410.png",
+              "image_width": 200,
+              "alignment": "center",
+              "image_heading": "Live Sustainably",
+              "image_subtext": "<p>The advantage to shopping with Verte Mode is that each Sustainable Product and Service has already passed the highest industry standards.<\/p>",
+              "down_image": "shopify:\/\/shop_images\/OnePercentAndOneTree_wht_300.webp"
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "",
+              "menu": "header-mobile"
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "heading": "",
+              "menu": "footer-2"
+            }
+          },
+          "25df7d17-4c93-4ea1-b14a-fb3ddcfc3551": {
+            "type": "newsletter",
+            "settings": {
+              "heading": "Newsletter",
+              "text": "<p>You’re helping to save our planet. We’ll help save your inbox and send only the important stuff.<\/p><p>Sign up to become a #trailblazer and receive 10% off on your next purchase.<\/p>",
+              "newsletter_enable": true
+            }
+          }
+        },
+        "block_order": [
+          "b8fc20ec-e289-4e2f-b164-dbaba8943876",
+          "footer-0",
+          "footer-1",
+          "25df7d17-4c93-4ea1-b14a-fb3ddcfc3551"
+        ],
+        "settings": {
+          "color_scheme": "background-2",
+          "newsletter_heading": "Subscribe to our emails",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false,
+          "margin_top": 48,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "logo": "{{ shop.brand.logo }}",
+          "logo_max_width": 100,
+          "color_scheme": "background-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "background-1"
+        }
+      },
+      "blog-section-with-blogs": {
+        "type": "blog-section-with-blogs",
+        "settings": {
+          "custom_text_title": "Blog"
+        }
+      },
+      "header-blog": {
+        "type": "header-blog",
+        "blocks": {
+          "2f2be312-8ab0-4796-ac1b-2077a297fc55": {
+            "type": "meganav",
+            "settings": {
+              "menu_name": "Stories",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_image_1": "shopify:\/\/shop_images\/HowToMakeClothesLast-631x631_eb8abf14-d5d8-4b4b-9352-23e81d6b3890.webp",
+              "about_image_2": "shopify:\/\/shop_images\/Mindfulness_square-631x631_9ed418fc-ac78-4453-b4a4-073af98b7d26.webp",
+              "about_menu": "stories",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "3271bbe3-0b66-4c0a-8882-079a6049e6d2": {
+            "type": "meganav",
+            "disabled": true,
+            "settings": {
+              "menu_name": "",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "adf2ac5c-bb77-43c9-9307-ddab781f895d": {
+            "type": "meganav",
+            "disabled": true,
+            "settings": {
+              "menu_name": "",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "913be7e5-c31b-49a4-b471-6f198b35ac73": {
+            "type": "meganav",
+            "disabled": true,
+            "settings": {
+              "menu_name": "",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          },
+          "dc58e3a0-60d6-427c-848f-f8bd5a2807ea": {
+            "type": "meganav",
+            "disabled": true,
+            "settings": {
+              "menu_name": "",
+              "category": "",
+              "Jewelry": "",
+              "category_menu": "",
+              "jewelry_menu_left": "",
+              "jewelry_menu_middle": "",
+              "jewelry_right_menu": "",
+              "menu_left": "",
+              "menu_1": "",
+              "menu_2": "",
+              "menu_3": "",
+              "menu_4": "",
+              "menu_5": "",
+              "menu_right": "",
+              "heading": "",
+              "button": "",
+              "button_link": "",
+              "about_heading": "",
+              "partner_heading": "",
+              "about_menu": "",
+              "partner_menu": "",
+              "menu_6": "",
+              "menu_7": "",
+              "menu_8": "",
+              "menu_9": "",
+              "menu_10": "",
+              "menu_11": "",
+              "menu_12": "",
+              "menu_13": "",
+              "menu_14": "",
+              "menu_15": ""
+            }
+          }
+        },
+        "block_order": [
+          "2f2be312-8ab0-4796-ac1b-2077a297fc55",
+          "3271bbe3-0b66-4c0a-8882-079a6049e6d2",
+          "adf2ac5c-bb77-43c9-9307-ddab781f895d",
+          "913be7e5-c31b-49a4-b471-6f198b35ac73",
+          "dc58e3a0-60d6-427c-848f-f8bd5a2807ea"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/vertemagazinelogo2022.png",
+          "logo_width": 100,
+          "logo_position": "top-center",
+          "menu": "blog-header",
+          "cart_image": "shopify:\/\/shop_images\/Shopping-Bag.png",
+          "account_image": "shopify:\/\/shop_images\/Account.png",
+          "menu_type_desktop": "dropdown",
+          "show_line_separator": false,
+          "enable_sticky_header": false,
+          "margin_bottom": 0,
+          "padding_top": 20,
+          "padding_bottom": 20
+        }
+      },
+      "footer-blog": {
+        "type": "footer-blog",
+        "blocks": {
+          "2d9df2a6-f625-484f-ba61-fc4e94db60dc": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/vertemagazinelogo2022white.webp",
+              "image_width": 200,
+              "alignment": "",
+              "image_heading": "",
+              "image_subtext": "<p>Sustainability, Style and Climate - Another World is Possible<\/p><p><\/p>"
+            }
+          },
+          "footer-blog-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "",
+              "menu": "footer-blog-nav1"
+            }
+          },
+          "36dda724-ab3c-43c7-bd93-acc25b3f0cbc": {
+            "type": "link_list",
+            "settings": {
+              "heading": "",
+              "menu": "footer-blog-nav2"
+            }
+          },
+          "6a098c32-3a9c-4410-936d-e31068957b33": {
+            "type": "newsletter",
+            "settings": {
+              "heading": "Newsletter",
+              "text": "<p>You're helping to save our planet. We'll help save your inbox and send only the important stuff.<br\/><br\/>Sign up to receive our latest news and receive 10% off on your next purchase in our store.<\/p>",
+              "newsletter_enable": true
+            }
+          }
+        },
+        "block_order": [
+          "2d9df2a6-f625-484f-ba61-fc4e94db60dc",
+          "footer-blog-0",
+          "36dda724-ab3c-43c7-bd93-acc25b3f0cbc",
+          "6a098c32-3a9c-4410-936d-e31068957b33"
+        ],
+        "settings": {
+          "color_scheme": "inverse",
+          "newsletter_heading": "Subscribe to our emails",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false,
+          "margin_top": 0,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "header-podcast": {
+        "type": "header-podcast",
+        "settings": {
+          "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/THEGREENINGSHOWLOGO_1.png",
+          "logo_width": 100,
+          "logo_position": "top-center",
+          "menu": "podcast-header",
+          "cart_image": "shopify:\/\/shop_images\/Shopping-Bag.png",
+          "account_image": "shopify:\/\/shop_images\/Account.png",
+          "menu_type_desktop": "dropdown",
+          "show_line_separator": false,
+          "enable_sticky_header": false,
+          "margin_bottom": 0,
+          "padding_top": 20,
+          "padding_bottom": 20
+        }
+      },
+      "footer-podcast": {
+        "type": "footer-podcast",
+        "blocks": {
+          "6e7b1ec9-190f-44b7-8260-28d10fa8fc8c": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/THEGREENINGSHOWLOGO_WHITE.png",
+              "image_width": 200,
+              "alignment": "center",
+              "image_heading": "",
+              "image_subtext": "<p>Dedicated to telling stories of sustainability and <em>climate <\/em>solutions for a just future.<\/p>"
+            }
+          },
+          "footer-podcast-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Podcast Menu",
+              "menu": "podcast-header"
+            }
+          },
+          "31180e16-b7af-45a3-aac9-b342bea719f3": {
+            "type": "newsletter",
+            "settings": {
+              "heading": "Newsletter",
+              "text": "<p>You're helping to save our planet. We'll help save your inbox and send only the important stuff.<br\/><br\/>Sign up to become a #trailblazer and re ceive 10% off on your next purchase.<\/p>",
+              "newsletter_enable": true
+            }
+          }
+        },
+        "block_order": [
+          "6e7b1ec9-190f-44b7-8260-28d10fa8fc8c",
+          "footer-podcast-0",
+          "31180e16-b7af-45a3-aac9-b342bea719f3"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_heading": "Subscribe to our emails",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false,
+          "margin_top": 0,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      }
+    },
+    "content_for_index": [],
+    "blocks": {
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "colors_solid_button_labels": "#ffffff",
+      "colors_accent_1": "#121212",
+      "gradient_accent_1": "",
+      "colors_accent_2": "#334fb4",
+      "gradient_accent_2": "",
+      "colors_text": "#121212",
+      "colors_outline_button_labels": "#121212",
+      "colors_background_1": "#ffffff",
+      "gradient_background_1": "",
+      "colors_background_2": "#f3f3f3",
+      "gradient_background_2": "",
+      "type_header_font": "assistant_n4",
+      "heading_scale": 100,
+      "type_body_font": "assistant_n4",
+      "body_scale": 100,
+      "page_width": 1200,
+      "spacing_sections": 0,
+      "spacing_grid_horizontal": 8,
+      "spacing_grid_vertical": 8,
+      "buttons_border_thickness": 1,
+      "buttons_border_opacity": 100,
+      "buttons_radius": 0,
+      "buttons_shadow_opacity": 0,
+      "buttons_shadow_horizontal_offset": 0,
+      "buttons_shadow_vertical_offset": 4,
+      "buttons_shadow_blur": 5,
+      "variant_pills_border_thickness": 1,
+      "variant_pills_border_opacity": 55,
+      "variant_pills_radius": 40,
+      "variant_pills_shadow_opacity": 0,
+      "variant_pills_shadow_horizontal_offset": 0,
+      "variant_pills_shadow_vertical_offset": 4,
+      "variant_pills_shadow_blur": 5,
+      "inputs_border_thickness": 1,
+      "inputs_border_opacity": 55,
+      "inputs_radius": 0,
+      "inputs_shadow_opacity": 0,
+      "inputs_shadow_horizontal_offset": 0,
+      "inputs_shadow_vertical_offset": 4,
+      "inputs_shadow_blur": 5,
+      "card_style": "standard",
+      "card_image_padding": 0,
+      "card_text_alignment": "left",
+      "card_color_scheme": "background-2",
+      "card_border_thickness": 0,
+      "card_border_opacity": 10,
+      "card_corner_radius": 0,
+      "card_shadow_opacity": 0,
+      "card_shadow_horizontal_offset": 0,
+      "card_shadow_vertical_offset": 4,
+      "card_shadow_blur": 5,
+      "text_boxes_border_thickness": 0,
+      "text_boxes_border_opacity": 10,
+      "text_boxes_radius": 0,
+      "text_boxes_shadow_opacity": 0,
+      "text_boxes_shadow_horizontal_offset": 0,
+      "text_boxes_shadow_vertical_offset": 4,
+      "text_boxes_shadow_blur": 5,
+      "media_border_thickness": 1,
+      "media_border_opacity": 5,
+      "media_radius": 0,
+      "media_shadow_opacity": 0,
+      "media_shadow_horizontal_offset": 0,
+      "media_shadow_vertical_offset": 4,
+      "media_shadow_blur": 5,
+      "popup_border_thickness": 1,
+      "popup_border_opacity": 10,
+      "popup_corner_radius": 0,
+      "popup_shadow_opacity": 0,
+      "popup_shadow_horizontal_offset": 0,
+      "popup_shadow_vertical_offset": 4,
+      "popup_shadow_blur": 5,
+      "drawer_border_thickness": 1,
+      "drawer_border_opacity": 10,
+      "drawer_shadow_opacity": 0,
+      "drawer_shadow_horizontal_offset": 0,
+      "drawer_shadow_vertical_offset": 4,
+      "drawer_shadow_blur": 5,
+      "badge_position": "bottom left",
+      "badge_corner_radius": 40,
+      "sale_badge_color_scheme": "accent-2",
+      "sold_out_badge_color_scheme": "inverse",
+      "accent_icons": "text",
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tiktok_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "predictive_search_enabled": true,
+      "predictive_search_show_vendor": false,
+      "predictive_search_show_price": false,
+      "currency_code_enabled": true,
+      "cart_type": "notification",
+      "show_vendor": false,
+      "show_cart_note": false,
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+                "text": "Welcome to our store",
+                "color_scheme": "background-1",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {}
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "color_scheme": "background-1",
+            "logo": "{{ shop.brand.logo }}",
+            "logo_width": 90,
+            "logo_position": "middle-left",
+            "menu": "main-menu",
+            "show_line_separator": true,
+            "enable_sticky_header": true,
+            "margin_bottom": 0,
+            "padding_top": 20,
+            "padding_bottom": 20
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+                "heading": "Quick links",
+                "menu": "footer"
+              }
+            },
+            "footer-1": {
+              "type": "link_list",
+              "settings": {
+                "heading": "Info",
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "text",
+              "settings": {
+                "heading": "Our mission",
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "color_scheme": "background-1",
+            "newsletter_heading": "Subscribe to our emails",
+            "show_social": true,
+            "enable_country_selector": false,
+            "enable_language_selector": false,
+            "payment_enable": true,
+            "margin_top": 48,
+            "padding_top": 36,
+            "padding_bottom": 36
+          }
+        },
+        "main-password-header": {
+          "type": "main-password-header",
+          "settings": {
+            "logo": "{{ shop.brand.logo }}",
+            "logo_max_width": 100,
+            "color_scheme": "background-1"
+          }
+        },
+        "main-password-footer": {
+          "type": "main-password-footer",
+          "settings": {
+            "color_scheme": "background-1"
+          }
+        }
+      }
+    }
+  }
+}

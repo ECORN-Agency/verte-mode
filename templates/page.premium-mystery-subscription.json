@@ -1,0 +1,208 @@
+{
+  "wrapper": "div.template-page-subscription-detail",
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "73811c5c-f442-414c-a8b4-71c9ba2fb221": {
+      "type": "image-banner-3",
+      "blocks": {
+        "template--15927771070635__73811c5c-f442-414c-a8b4-71c9ba2fb221-16685058089471fb17-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium<br>Mystery Boxes",
+            "heading_size": "h1"
+          }
+        },
+        "template--15927771070635__73811c5c-f442-414c-a8b4-71c9ba2fb221-16685058089471fb17-1": {
+          "type": "text",
+          "settings": {
+            "text": "Over $200 of VM Favorites Ready to Make Your Day!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927771070635__73811c5c-f442-414c-a8b4-71c9ba2fb221-16685058089471fb17-0",
+        "template--15927771070635__73811c5c-f442-414c-a8b4-71c9ba2fb221-16685058089471fb17-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bannermystery.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "18b09937-7a8e-4892-a93e-2cd0ee5d66a8": {
+      "type": "image-with-text-v4",
+      "blocks": {
+        "2e63a6fe-cede-498e-b409-eb5402b20b57": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to bag",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "2e63a6fe-cede-498e-b409-eb5402b20b57"
+      ],
+      "settings": {
+        "custom_class": "add-to-bag-section",
+        "heading_text": "Premium Mystery Boxes",
+        "html-text": "<p>Our Premium Mystery Boxes \ninclude a mix of curated home, beauty, and wellness goods picked to help you radiate your best self. Each box contents is worth over $200 and contains the VM team's favorite finds! <\/p>\n\n<p> Join the Verte Mode Mystery Box Quarterly subscription!\n\n<\/p>",
+        "image": "shopify:\/\/shop_images\/pexels-karolina-grabowska-5632357.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6a82e793-015c-4257-bf90-1659c4bdd98d": {
+      "type": "logo-list-section",
+      "disabled": true,
+      "blocks": {
+        "9170184b-d44a-417e-9282-c8f2b8a60d1d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_1c099a06-1b76-434f-b73e-1420f20dab90.png",
+            "article": ""
+          }
+        },
+        "858380e8-864a-43d6-84ad-a6cab0723349": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d872cc3e-fa90-4ddc-bbe3-e7d9de0f4be6.png",
+            "article": ""
+          }
+        },
+        "8a25a936-45fe-4fac-af18-302385b8d220": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_c85b3fba-1863-4d4c-9b94-2c1c65cea708.png",
+            "article": ""
+          }
+        },
+        "b17a33c4-a83c-4ce6-9b75-15fca434b5a1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "article": ""
+          }
+        },
+        "0574663d-69be-4880-ba9d-fae60fca2dc2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "article": ""
+          }
+        },
+        "af647ec5-8c52-46e4-a896-4f4620861673": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_c85b3fba-1863-4d4c-9b94-2c1c65cea708.png",
+            "article": ""
+          }
+        }
+      },
+      "block_order": [
+        "9170184b-d44a-417e-9282-c8f2b8a60d1d",
+        "858380e8-864a-43d6-84ad-a6cab0723349",
+        "8a25a936-45fe-4fac-af18-302385b8d220",
+        "b17a33c4-a83c-4ce6-9b75-15fca434b5a1",
+        "0574663d-69be-4880-ba9d-fae60fca2dc2",
+        "af647ec5-8c52-46e4-a896-4f4620861673"
+      ],
+      "settings": {}
+    },
+    "022744bb-4ad0-4750-9531-faf0cc430d14": {
+      "type": "subscribe-package",
+      "disabled": true,
+      "blocks": {
+        "template--15927771070635__022744bb-4ad0-4750-9531-faf0cc430d14-1668510777e94d7198-0": {
+          "type": "column",
+          "settings": {
+            "box-usa": "#",
+            "box-canada": "#",
+            "offer-text": "If you are offering this subscription as a gift, click here to print a gift card for the recipient.",
+            "offer-url": "#",
+            "title": "Quarterly Subscription",
+            "html_frame": "",
+            "sub-text": "The most popularoption",
+            "sub-price": "US $54.95 \/ CAD $71.95 per box (shipping included)",
+            "text": "<p>Never miss a box. Get billed every 3 months, just as the new season begins. You may pause or cancel anytime, before the cutoff date of your next box. Save 15% off the one-time box price.<br\/><\/p>"
+          }
+        },
+        "template--15927771070635__022744bb-4ad0-4750-9531-faf0cc430d14-1668510777e94d7198-1": {
+          "type": "column",
+          "settings": {
+            "box-usa": "#",
+            "box-canada": "#",
+            "offer-text": "If you are offering this subscription as a gift, click here to print a gift card for the recipient.",
+            "offer-url": "#",
+            "title": "One-Time Box",
+            "html_frame": "",
+            "sub-text": "Best option for a trial or a gift",
+            "sub-price": "US $74.95 \/ CAD $93.69 per box (shipping not included)",
+            "text": "<p>A great way to discover plastic-free living. Get unique and durable products that will help you to progressively switch to a life with less plastics. Great one-time gift for a birthday, an anniversary or the holidays!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927771070635__022744bb-4ad0-4750-9531-faf0cc430d14-1668510777e94d7198-0",
+        "template--15927771070635__022744bb-4ad0-4750-9531-faf0cc430d14-1668510777e94d7198-1"
+      ],
+      "settings": {
+        "custom_class": "new_section-pkg-details",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a168672a-bf25-4279-bd4f-c6ec675df175": {
+      "type": "subscription-widget",
+      "settings": {
+        "selling-plan": "959807659",
+        "product": "premium-mystery-boxes",
+        "hidden": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "73811c5c-f442-414c-a8b4-71c9ba2fb221",
+    "18b09937-7a8e-4892-a93e-2cd0ee5d66a8",
+    "6a82e793-015c-4257-bf90-1659c4bdd98d",
+    "022744bb-4ad0-4750-9531-faf0cc430d14",
+    "a168672a-bf25-4279-bd4f-c6ec675df175"
+  ]
+}

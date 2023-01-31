@@ -1,0 +1,164 @@
+{% if article.metafields.custom.featured_products %}
+<link href="https://cdn.shopify.com/s/files/1/0594/7228/1789/files/owl.carousel.css?v=1664385783" rel="stylesheet">
+<style>
+ .related_blog_product {
+    padding: 0 30px;
+    max-width: 1556px;
+    margin: 0 auto;
+    padding-bottom: 70px;
+    padding-top: 50px;
+} 
+.related_blog_product .card-wrapper {
+    padding: 0 10px;
+} 
+  
+.related_blog_product .card__heading a:after {
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.related_blog_product .card__inner {
+    width: 100%;
+    border-radius: var(--card-corner-radius);
+    border: var(--card-border-width) solid rgba(var(--color-foreground),var(--card-border-opacity));
+    position: relative;
+    box-sizing: border-box;
+}
+.related_blog_product .card:not(.ratio) {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.related_blog_product .card__content {
+    grid-template-rows: auto !important;
+}
+.related_blog_product .card-wrapper {
+    color: inherit;
+    height: 100%;
+    position: relative;
+    text-decoration: none;
+}
+.related_blog_product .card .card__inner .card__media {
+    overflow: hidden;
+    z-index: 0;
+    border-radius: calc(var(--card-corner-radius) - var(--card-border-width) - var(--card-image-padding));
+    margin: var(--card-image-padding);
+    bottom: 0;
+    position: absolute;
+    top: 0;
+    width: calc(100% - 2 * var(--card-image-padding));
+}
+.related_blog_product .card__content {
+    display: grid;
+    grid-template-rows: minmax(0,1fr) max-content minmax(0,1fr);
+    padding: 1rem;
+    width: 100%;
+    flex-grow: 1;
+}
+.related_blog_product .card--media .card__inner .card__content {
+    padding: calc(var(--card-image-padding) + 1rem);
+    position: relative;
+}
+.related_blog_product .card .media {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    top: 0;
+}
+
+.related_blog_product .card .media.media--hover-effect>img:only-child, .related_blog_product .card-wrapper .media.media--hover-effect>img:only-child {
+    transition: transform var(--duration-long) ease;
+      object-fit: contain;
+}
+.related_blog_product .card--standard.card--media .card__inner .card__information, .card--standard>.card__content .card__badge{
+        display: none;
+}
+
+.related_blog_product .card__badge.bottom.left {
+    align-self: flex-end;
+    grid-row-start: 3;
+    justify-self: flex-start;
+}
+.related_blog_product  .grid-product__meta {min-height: 91px;padding-top: 20px;}
+  .owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 50px;
+}
+
+.owl-carousel .owl-nav button.owl-prev {
+    left: -20px;
+}
+
+.owl-carousel .owl-nav button.owl-next {
+    right: -20px;
+}
+
+.related_blog_product > h2 {
+    font-weight: 600;
+    font-size: 40px!important;
+    margin-bottom: 30px!important;
+    margin-top: 30px;
+}
+</style>
+
+
+<div class="related_blog_product">
+  {% if article.metafields.custom.section_heading %}
+    <h2>{{ article.metafields.custom.section_heading }}</h2>
+  {% else %}
+    <h2>THIS WEEK'S PICK</h2>
+  {% endif %}  
+<div id="arp" class="owl-carousel owl-theme">
+{% assign recommended_products =  article.metafields.custom.featured_products.value %}
+{%- for ap in recommended_products -%}
+{%- liquid 
+
+assign preview_image = ap.featured_media.preview_image
+assign img_url = preview_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.'
+-%}
+  <div class="item">
+    {% render 'card-products',
+      card_product: ap
+    %}
+  </div>
+{%- endfor -%}
+</div>
+</div>
+
+<script src="https://cdn.shopify.com/s/files/1/0594/7228/1789/files/owl.carousel.js"></script>
+<script>
+jQuery("#arp").owlCarousel({
+autoplay: true,
+            autoplayTimeout: 10000,
+            dots: false,
+            nav: false,
+            items: 4,
+            loop: false,
+            responsive: {
+                0: {
+                    items: 1,
+                    nav: true,
+                },
+                600: {
+                    items: 2,
+                    nav: true,
+                },
+                1000: {
+                    items: 4,
+                    nav: true,
+                },
+                1600: {
+                    items: 4,
+                    nav: true,
+                }
+            }
+});
+</script>
+{% endif %} 

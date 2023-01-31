@@ -1,0 +1,44 @@
+<div class="subscription-widget {% if section.settings.hidden %}hidden{% endif %}">
+  <form method="post" action="/cart/add" id="product-form-template--15773237346475__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form">
+  <input name="selling_plan" type="hidden" value="{{ section.settings.selling-plan }}">
+  <input type="hidden" name="form_type" value="product">
+  <input type="hidden" name="utf8" value="✓">
+  <input type="hidden" name="id" value="{{ section.settings.product.variants.first.id }}">
+  <div class="product-form__buttons">
+  <button type="submit" name="add" class="product-form__submit button button--full-width button--primary">Add to bag</button></div></form>
+</div>
+
+{% schema %}
+  {
+    "name": "Subscription Widget",
+    "settings": [
+         {
+          "type": "text",
+          "id": "selling-plan",
+          "label": "Selling Plan"
+        },
+         {
+          "type": "product",
+          "id": "product",
+          "label": "Select Product"
+        },
+         {
+          "type": "checkbox",
+          "id": "hidden",
+          "label": "Hidden"
+        }
+    ],
+    "presets": [
+    {
+      "name": "Subscription Widget",
+      "category": "Custom"
+    }
+  ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

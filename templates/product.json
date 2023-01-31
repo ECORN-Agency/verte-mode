@@ -1,0 +1,233 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "caption": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Made with Organic Cotton in a Fair Trade Factory.",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "fce1ead6-3991-44a3-b038-fb251567913e": {
+          "type": "sub-title",
+          "settings": {
+            "suB_title": ""
+          }
+        },
+        "fc413cb4-5cca-4e81-a29a-ec730b4c5428": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "#000000",
+            "star_size": 15,
+            "text_align": "center",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "05f626cb-6a15-4d3c-8f54-2f8eee3793a8": {
+          "type": "image-text",
+          "settings": {
+            "left_logo": "shopify:\/\/shop_images\/icon_3.png",
+            "left_text": "Higher Quality",
+            "left_Text": "300mg",
+            "middle_logo": "shopify:\/\/shop_images\/icon_2.png",
+            "middle_text": "Organic",
+            "middle_Text": "Nature Friendly",
+            "right_logo": "shopify:\/\/shop_images\/icon_1.png",
+            "right_text": "Customer Satisfaction",
+            "right_Text": "1oo%",
+            "url_id": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Materials",
+            "icon": "leather",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "heart",
+            "content": "",
+            "page": ""
+          }
+        },
+        "a95e7cab-e6e2-499b-875f-453171691cb5": {
+          "type": "heading-text",
+          "settings": {
+            "heading": "Size & Fit",
+            "subtext": "<p>{{ product.metafields.custom.size_fit | metafield_tag }}<\/p>",
+            "list": ""
+          }
+        },
+        "a947b58c-dd6b-4d69-8606-59a3412d5672": {
+          "type": "heading-text",
+          "disabled": true,
+          "settings": {
+            "heading": "Materials & Care",
+            "subtext": "<p>{{ product.metafields.custom.materials_care_guide | metafield_tag }}<\/p>",
+            "list": ""
+          }
+        },
+        "78fb069c-b977-4333-b390-4a7cb77829c8": {
+          "type": "heading-text",
+          "disabled": true,
+          "settings": {
+            "heading": "Where It’s Made",
+            "subtext": "<p>{{ product.metafields.custom.where_it_s_made | metafield_tag }}<\/p>",
+            "list": ""
+          }
+        },
+        "3810dd71-97ee-40fd-bc0f-02d4fe6eab1c": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{ product }}"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "fce1ead6-3991-44a3-b038-fb251567913e",
+        "fc413cb4-5cca-4e81-a29a-ec730b4c5428",
+        "variant_picker",
+        "buy_buttons",
+        "05f626cb-6a15-4d3c-8f54-2f8eee3793a8",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2",
+        "collapsible-row-3",
+        "a95e7cab-e6e2-499b-875f-453171691cb5",
+        "a947b58c-dd6b-4d69-8606-59a3412d5672",
+        "78fb069c-b977-4333-b390-4a7cb77829c8",
+        "3810dd71-97ee-40fd-bc0f-02d4fe6eab1c"
+      ],
+      "settings": {
+        "disciption": "Description",
+        "enable_sticky_info": true,
+        "gallery_layout": "stacked",
+        "media_size": "large",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "product-top-rated-section": {
+      "type": "product-top-rated-section",
+      "settings": {
+        "heading": "",
+        "subtext": "",
+        "title": "Other Top Rated Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "home",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165950736689955dfb": {
+      "type": "apps",
+      "blocks": {
+        "6b884827-9582-452f-b02d-47fbdcdbe231": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "6b884827-9582-452f-b02d-47fbdcdbe231"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-top-rated-section",
+    "165950736689955dfb"
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "0152f5df-44fc-498d-bbd7-70531a54c2f9": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--15969152106667__0152f5df-44fc-498d-bbd7-70531a54c2f9-1668168074ad180dba-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You deserve healthier products without harmful chemicals and plastics. With Verte Mode, you can shop confidently knowing that what you’re buying is good for you<em> and<\/em> good for the planet!<br\/><a href=\"\/pages\/brand-evaluation\" title=\"Brand Evaluation\">The Verte Method <\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15969152106667__0152f5df-44fc-498d-bbd7-70531a54c2f9-1668168074ad180dba-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 72
+      }
+    },
+    "beafff8d-7ad8-45b5-9d2d-3f5a4fbfa803": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15969152106667__beafff8d-7ad8-45b5-9d2d-3f5a4fbfa803-1671214327d36a970b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We’re building a movement",
+            "heading_size": "h1"
+          }
+        },
+        "template--15969152106667__beafff8d-7ad8-45b5-9d2d-3f5a4fbfa803-1671214327d36a970b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We aspire to be the online hub where you can find inspiration to create climate action and also purchase easy alternatives to reduce your waste and live a more sustainable lifestyle. We're all in this together, j<em>oin our community of individuals making small but impactful changes in their lifestyle to help preserve our planet for all!<\/em><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15969152106667__beafff8d-7ad8-45b5-9d2d-3f5a4fbfa803-1671214327d36a970b-0",
+        "template--15969152106667__beafff8d-7ad8-45b5-9d2d-3f5a4fbfa803-1671214327d36a970b-1"
+      ],
+      "settings": {
+        "custom_class": "",
+        "image": "shopify:\/\/shop_images\/aad1e1158034575.63848bfeaa0a6_84a6e3c0-db34-4d13-b8f4-75b6e3228644.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
+    "4eeeaeb8-bc14-4fdb-90f7-d1387ea1bf26": {
+      "type": "image-with-text-v2",
+      "blocks": {
+        "template--15969152106667__4eeeaeb8-bc14-4fdb-90f7-d1387ea1bf26-1668168988f325602a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MEMBER BENEFITS",
+            "heading_size": "h1"
+          }
+        },
+        "template--15969152106667__4eeeaeb8-bc14-4fdb-90f7-d1387ea1bf26-1668168988f325602a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- Limited edition Tote Bag and a Verte Starter Kit ($400 value) <\/p>\n<p>- Site-wide 15% off forever! <\/p> <p>-Member pricing on Seasonal and monthly Verte Kits <\/p> <p>- Early access to all product drops <\/p> <p>- Product designed just for members <\/p> <p>- Active voice in product creation <\/p> <p>- Digital NFT Member Badge <\/p> <p>- Access to our members only community workshops, events, conferences <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15969152106667__4eeeaeb8-bc14-4fdb-90f7-d1387ea1bf26-1668168988f325602a-0",
+        "template--15969152106667__4eeeaeb8-bc14-4fdb-90f7-d1387ea1bf26-1668168988f325602a-1"
+      ],
+      "settings": {
+        "custom_class": "helping_our_section_",
+        "image": "shopify:\/\/shop_images\/21-1027_CPS_PA_THEWAIGHT_F21-JUJ_9244_3959f9c2-55f0-4a97-a996-6112af3e5c88.jpg",
+        "html_block": "",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4e441ded-b62f-4e11-b53d-3d79c0372a4e": {
+      "type": "subscribe-package-two",
+      "settings": {
+        "custom_class": "how-does-work",
+        "title": "BECOME A MEMBER",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "SIGN UP NOW",
+        "button_link": "https:\/\/vertemode.com\/account\/login",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "02087ad6-ff13-418c-a195-918d869e58d7": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "7ee644dc-ecfa-44d4-b0ce-6bfb8ed3cadf": {
+          "type": "caption",
+          "settings": {
+            "caption": "Step 1",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--15969152106667__02087ad6-ff13-418c-a195-918d869e58d7-1668170665708bde53-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign Up and Create Your Membership for Free",
+            "heading_size": "h1"
+          }
+        },
+        "template--15969152106667__02087ad6-ff13-418c-a195-918d869e58d7-1668170665708bde53-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Becoming a member is completely free, and will allow you to start collecting points and badges for discounts!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15969152106667__02087ad6-ff13-418c-a195-918d869e58d7-1668170665708bde53-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "7ee644dc-ecfa-44d4-b0ce-6bfb8ed3cadf",
+        "template--15969152106667__02087ad6-ff13-418c-a195-918d869e58d7-1668170665708bde53-0",
+        "template--15969152106667__02087ad6-ff13-418c-a195-918d869e58d7-1668170665708bde53-1",
+        "template--15969152106667__02087ad6-ff13-418c-a195-918d869e58d7-1668170665708bde53-2"
+      ],
+      "settings": {
+        "custom_class": "step_section_v5 first_block_design",
+        "image": "shopify:\/\/shop_images\/1.png",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "545c7bf2-17bc-49c6-aae7-7e8608d9382d": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "268e08e3-d3ff-4bc1-8cd3-e388554ef1a4": {
+          "type": "caption",
+          "settings": {
+            "caption": "Step 2",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--15969152106667__545c7bf2-17bc-49c6-aae7-7e8608d9382d-16681715299f3b3d18-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Explore Verte Kits With Exclusive Member Pricing",
+            "heading_size": "h1"
+          }
+        },
+        "template--15969152106667__545c7bf2-17bc-49c6-aae7-7e8608d9382d-16681715299f3b3d18-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy everything we have to offer at a special discounted members-only price as well as free shipping!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15969152106667__545c7bf2-17bc-49c6-aae7-7e8608d9382d-16681715299f3b3d18-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "268e08e3-d3ff-4bc1-8cd3-e388554ef1a4",
+        "template--15969152106667__545c7bf2-17bc-49c6-aae7-7e8608d9382d-16681715299f3b3d18-0",
+        "template--15969152106667__545c7bf2-17bc-49c6-aae7-7e8608d9382d-16681715299f3b3d18-1",
+        "template--15969152106667__545c7bf2-17bc-49c6-aae7-7e8608d9382d-16681715299f3b3d18-2"
+      ],
+      "settings": {
+        "custom_class": "step_section_v5 part_5_design",
+        "image": "shopify:\/\/shop_images\/2.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "778f229a-0e25-4052-9e71-16e5555e7b99": {
+      "type": "image-with-text-v6",
+      "blocks": {
+        "a0a0c559-95ee-4189-95c1-6538becddf17": {
+          "type": "caption",
+          "settings": {
+            "caption": "Refer-A-Friend",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "4cb94362-e93a-4339-ae0d-056be547c921": {
+          "type": "heading",
+          "settings": {
+            "heading": "Give $10, Get $10",
+            "heading_size": "h1"
+          }
+        },
+        "e50f1bee-9dbb-41b8-a9c6-173413ac9e92": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tell your friends about Verte Mode!<\/p><p> They'll get $10 towards their first order of $40+ and you'll get $10 for each successful Referral.<br\/><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "a0a0c559-95ee-4189-95c1-6538becddf17",
+        "4cb94362-e93a-4339-ae0d-056be547c921",
+        "e50f1bee-9dbb-41b8-a9c6-173413ac9e92"
+      ],
+      "settings": {
+        "custom_class": "refer-friend-section-two",
+        "image": "shopify:\/\/shop_images\/220714_____0777__jpg.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "39b533ae-afc0-44bf-b2ae-5eb6e6af8418": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "ffaaf71b-3df1-4983-99de-6b4229c7eee1": {
+          "type": "caption",
+          "settings": {
+            "caption": "Step 3",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--15969152106667__39b533ae-afc0-44bf-b2ae-5eb6e6af8418-16681715299f3b3d18-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Share With Your Community and Get Special Perks",
+            "heading_size": "h1"
+          }
+        },
+        "template--15969152106667__39b533ae-afc0-44bf-b2ae-5eb6e6af8418-16681715299f3b3d18-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When you promote your Verte Membership on your social channels, you'll receive an exclusive 10% discount code for your next purchase. Upload your photo on the section below!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15969152106667__39b533ae-afc0-44bf-b2ae-5eb6e6af8418-16681715299f3b3d18-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "ffaaf71b-3df1-4983-99de-6b4229c7eee1",
+        "template--15969152106667__39b533ae-afc0-44bf-b2ae-5eb6e6af8418-16681715299f3b3d18-0",
+        "template--15969152106667__39b533ae-afc0-44bf-b2ae-5eb6e6af8418-16681715299f3b3d18-1",
+        "template--15969152106667__39b533ae-afc0-44bf-b2ae-5eb6e6af8418-16681715299f3b3d18-2"
+      ],
+      "settings": {
+        "custom_class": "step_section_v5",
+        "image": "shopify:\/\/shop_images\/3.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "787a5a9a-9893-4c9a-acbb-085e19a9e9e5": {
+      "type": "home-slider-section",
+      "disabled": true,
+      "blocks": {
+        "3564a32f-d0ea-4c61-924f-5b77e996ef2c": {
+          "type": "slider",
+          "settings": {
+            "heading": "tets",
+            "sub_heading": "tets",
+            "button": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "4055944e-b9ab-4270-9491-2c22c4296938": {
+          "type": "slider",
+          "settings": {
+            "heading": "tets",
+            "sub_heading": "tets",
+            "button": "",
+            "link": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "3564a32f-d0ea-4c61-924f-5b77e996ef2c",
+        "4055944e-b9ab-4270-9491-2c22c4296938"
+      ],
+      "settings": {}
+    },
+    "4eb10855-987d-4285-a11d-4e7306c8cc79": {
+      "type": "rich-text",
+      "blocks": {
+        "eeb81054-7087-4fc5-afed-8b139c154596": {
+          "type": "text",
+          "settings": {
+            "text": "<p>#VERTEMEMBER<\/p>"
+          }
+        },
+        "template--15969152106667__4eb10855-987d-4285-a11d-4e7306c8cc79-166818070677c5c69a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Share Your Photo Here or Mention us on Instagram to be Featured<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "eeb81054-7087-4fc5-afed-8b139c154596",
+        "template--15969152106667__4eb10855-987d-4285-a11d-4e7306c8cc79-166818070677c5c69a-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9b47143c-9664-4e98-92b0-4b7dd89e712c": {
+      "type": "subscription_inst",
+      "blocks": {
+        "1ad339a9-6f25-49ea-99c3-4182ca7fc632": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC08260_cc_02_1.jpg",
+            "heading": "",
+            "link": "#"
+          }
+        },
+        "5b8ad69f-2136-4ad5-b6f3-f9d84f9cd2cd": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GrooveGreen1x1-5116_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9196ef2a-fa13-4de2-a443-22d2f7d05e3d": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Avocado_Dye_Pant_Front_24eef396-027d-4c01-8500-7079fa397f52.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "1fa1e386-e41b-49c0-b348-a4160fce6f40": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RevoTights_Navy_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1ad339a9-6f25-49ea-99c3-4182ca7fc632",
+        "5b8ad69f-2136-4ad5-b6f3-f9d84f9cd2cd",
+        "9196ef2a-fa13-4de2-a443-22d2f7d05e3d",
+        "1fa1e386-e41b-49c0-b348-a4160fce6f40"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0152f5df-44fc-498d-bbd7-70531a54c2f9",
+    "beafff8d-7ad8-45b5-9d2d-3f5a4fbfa803",
+    "4eeeaeb8-bc14-4fdb-90f7-d1387ea1bf26",
+    "4e441ded-b62f-4e11-b53d-3d79c0372a4e",
+    "02087ad6-ff13-418c-a195-918d869e58d7",
+    "545c7bf2-17bc-49c6-aae7-7e8608d9382d",
+    "778f229a-0e25-4052-9e71-16e5555e7b99",
+    "39b533ae-afc0-44bf-b2ae-5eb6e6af8418",
+    "787a5a9a-9893-4c9a-acbb-085e19a9e9e5",
+    "4eb10855-987d-4285-a11d-4e7306c8cc79",
+    "9b47143c-9664-4e98-92b0-4b7dd89e712c"
+  ]
+}

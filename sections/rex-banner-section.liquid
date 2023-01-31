@@ -1,0 +1,47 @@
+<div class="rex-banner-section">
+  <a href="{{ section.settings.link }}">
+  <div class="inner-rex-banner-section"  {% if section.settings.image != blank %} style="background:url({{ section.settings.image | img_url : '' }});" {% endif %}>
+    <div class="page-width">
+      <div class="rex-banner-text-section">
+        <h2 class="banner-heading-rext">{{ section.settings.heading }}</h2>
+      </div>
+    </div>
+  </div>
+  </a>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Rex Banner Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id":   "image",
+        "label":"Image"
+      },
+      {
+        "type": "text",
+        "id":   "heading",
+        "label":"Heading"
+      },
+      {
+        "type": "url",
+        "id":   "link",
+        "label":"Link"
+      }
+    ],
+    "presets": [
+    {
+     "name": "Rex Banner Section",
+     "category": "Custom"
+    }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

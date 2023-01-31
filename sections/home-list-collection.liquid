@@ -1,0 +1,82 @@
+<div class="home-image-block-section home-collection-section Home-list-collection">
+  <div class="page-width">
+     {% if section.settings.heading != blank %}
+      <h2 class="home-image-section-main-heading">{{ section.settings.heading }}</h2>
+        {% endif %}
+    <div class="inner-home-image-block-section">
+     
+        <div class="all-items home-collection-item">
+          {% for block in section.blocks %}
+            <div class="custom-collection-single-block">
+            {% if block.settings.image != blank %}
+              <a class="collection-img" href="{{ block.settings.link }}">
+              <img src="{{ block.settings.image | img_url : '' }}" alt="{{ block.settings.image.alt }}">
+              </a>
+              {% endif %}
+            <div class="home-collection-text">
+              <a href="{{ block.settings.link }}">
+              <h3 class="homecollection-heading">{{ block.settings.heading }}</h3>
+              </a>
+              {{ block.settings.subtext }}
+            </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+  </div>
+</div>
+
+
+
+{% schema %}
+  {
+    "name": "Home List Collection",
+    "settings": [
+       {
+          "type":  "text",
+          "id":    "heading",
+          "label": "Heading"
+        }
+    ],
+    "blocks": [
+    {
+      "name": "Image Text",
+      "type": "image-text",
+      "settings": [
+          {
+             "type":  "image_picker",
+             "id":    "image",
+             "label": "Image"
+          },
+          {
+            "type":  "text",
+            "id":    "heading",
+            "label": "Heading"
+          },
+          {
+          "type":  "richtext",
+          "id":    "subtext",
+          "label": "Content"
+           },
+           {
+          "type":  "url",
+          "id":    "link",
+          "label": "Link"
+           }
+      ]
+    }
+    ],
+    "presets": [
+    {
+      "name": "Home List Collection",
+      "category": "custom"
+    }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

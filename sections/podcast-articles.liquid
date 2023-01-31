@@ -1,0 +1,71 @@
+<section class="podcast-single-ariticle-section">
+    {% if section.settings.title-text != blank  %}
+    <div class="podcast-article_title"> <h2> {{ section.settings.title-text }}</h2> </div>
+    {% endif %}
+  <div class="page-width podcast-single-ariticle-parent">
+    {% for block in section.blocks %}
+    
+      <div class="podcast-single-ariticle-child">
+       {%- assign single_ariticle = block.settings.single_ariticle -%}
+        <div class="podcast-sngarticle-img"> <img src="{{ single_ariticle.image | article_img_url : 'master' }}"> </div> 
+        <div class="podcast-blog-content">
+           <h2> {{ single_ariticle.title | escape }} </h2> 
+           {% comment %} <a href="{{ single_ariticle.url }}">READ POST</a> {% endcomment %}
+           <p> {{ single_ariticle.content }}   </p>          
+        </div>
+        <a href="{{ single_ariticle.url }}">Read More</a>
+      </div>
+
+    {% endfor %}
+  </div>
+   {% if section.settings.bnt-text != blank %} <div class="podcast-article_btn"> <a href="{{ section.settings.btn_link }}"> {{ section.settings.bnt-text }} </a> </div> {% endif %}
+</section>
+
+
+{% schema %}
+  {
+  "name": "blogpost-article",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title-text",
+      "label": "Title"
+    },
+    {
+      "type": "text",
+      "id": "bnt-text",
+      "label": "Button Label"
+    },
+    {
+      "type": "url",
+      "id": "btn_link",
+      "label": "Link"
+    }
+  ],
+   "blocks": [
+   {
+     "name": "Block",
+     "type": "article",
+     "settings": [
+        {
+          "type": "article",
+          "id": "single_ariticle",
+          "label": "Single Ariticle",
+          "info": "Single Article"
+        }
+     ]
+   }
+  ],
+  "presets": [
+    {
+      "name": "podcast-articles"
+    }
+  ]
+}  
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

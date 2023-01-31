@@ -1,0 +1,474 @@
+{
+  "sections": {
+    "e4140a6d-6256-48e8-9a37-ad1a822709b7": {
+      "type": "home-button-text",
+      "settings": {
+        "subtext": "<p>Verte Mode’s primary mission is to provide purchasers with a first-of-its-kind, reliable eCommerce resource for purchasing Sustainable, Cruelty-Free Products and Services. That’s why Verte Mode assesses each product to meet our rigorous standards for Sustainability, Fair Labor, Plastic-Free Packaging or Shipping, and Safe Craftsmanship or Production. Exemplary Vendors with superior Auditable Sustainable Attributes will feature additional recognition with their Products.<\/p>",
+        "button": "",
+        "link": ""
+      }
+    },
+    "brand-collection-filter": {
+      "type": "brand-collection-filter",
+      "blocks": {
+        "8804fb42-381d-428d-a2dd-a711e50ce81b": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Activist-Skincare-refillable-Active-Hydration-Vitamin-C-Antioxidant-Serum.jpg",
+            "heading": "Activist Skincare",
+            "link": "shopify:\/\/collections\/activist-skincare"
+          }
+        },
+        "13245b52-4905-4c25-b465-33e7932ce571": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9177_websize.jpg",
+            "heading": "Ameera",
+            "link": "shopify:\/\/collections\/ameera"
+          }
+        },
+        "b01e0c8f-e1fd-4770-923d-0ef14ef6e653": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PBSET___Lifestyle___In_Use___bags_filled_w_cherry_and_regular_tomatoes.jpg",
+            "heading": "Bagito",
+            "link": "shopify:\/\/collections\/bagito"
+          }
+        },
+        "83a6998c-72bc-462c-84d6-a85629f67bda": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_2_4fa6c3ef-f298-40cf-b592-6fa4fa32f493.jpg",
+            "heading": "CD Studios",
+            "link": "shopify:\/\/collections\/cd-studios"
+          }
+        },
+        "e642ae9f-ae19-46d3-a5f3-e0fa334fbf6b": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Flikr-Base-2-1_2634e40b-4c8d-4df5-abbf-4babd9137dc4.jpg",
+            "heading": "FLÎKR Fire",
+            "link": "shopify:\/\/collections\/flikr-fire"
+          }
+        },
+        "31f9eef7-2d4f-47a9-b31b-707b02cdca87": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CM7A8106.jpg",
+            "heading": "Laura Elizabeth",
+            "link": "shopify:\/\/collections\/laura-elizabeth"
+          }
+        },
+        "deeb9722-3dd1-492d-b77f-1bd11ace1ef7": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lifestyle_do-vyy.jpg",
+            "heading": "J&L Naturals",
+            "link": "shopify:\/\/collections\/j-l-naturals"
+          }
+        },
+        "7329dc9d-65d6-4fab-97a4-144b04d0551f": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Awoo_Blanket_1.jpg",
+            "heading": "Awoo",
+            "link": "shopify:\/\/collections\/awoo"
+          }
+        },
+        "c7237020-6d7a-4814-ad4f-7040522c0172": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lip_Balm.jpg",
+            "heading": "Urban Pulse",
+            "link": "shopify:\/\/collections\/urban-pulse"
+          }
+        },
+        "36ac9a96-6dc1-43bb-b65b-321cbf8c6722": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-16_at_6.00.44_PM.png",
+            "heading": "Evolve Botanica",
+            "link": "https:\/\/vertemode.com\/collections\/evolve-botanica-1"
+          }
+        },
+        "8580c953-f349-46b6-a3bc-983409eb6f0d": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-07-29_at_12.07.11_PM.png",
+            "heading": "SWZLE",
+            "link": "shopify:\/\/collections\/swzle"
+          }
+        },
+        "9e766eb9-d8ec-4cc1-8984-d1310b4a2799": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mini_Shoulder_bags_olive_croc_int.jpg",
+            "heading": "Hyer Goods",
+            "link": "shopify:\/\/collections\/hyer-goods"
+          }
+        },
+        "02369423-11e9-412c-a6de-710e4121e9a5": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1peopleMAYALECARRE1.jpg",
+            "heading": "1 People",
+            "link": "https:\/\/vertemode.com\/collections\/1-people"
+          }
+        },
+        "1b81d87c-6422-4a08-a8cb-3ff914a12044": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/aerangis18_554x_a7e8e8fb-dd5d-4cb6-aab3-8db5e7c2b12f.jpg",
+            "heading": "Aerangis",
+            "link": "https:\/\/vertemode.com\/collections\/aerangis"
+          }
+        },
+        "601ea771-7dc4-4814-a696-ec39f0a176e4": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blueheronbotanicals2.jpg",
+            "heading": "Blue Heron Botanicals",
+            "link": "https:\/\/vertemode.com\/collections\/blue-heron-botanicals"
+          }
+        },
+        "f4e2aaa4-d5d0-46f4-a8b1-72d6f3608b45": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "heading": "BOLD Swim",
+            "link": "https:\/\/vertemode.com\/collections\/bold-swim"
+          }
+        },
+        "8abb5dde-7678-4260-9b3a-5362ee563c6c": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/royal_1789d5c7-9aa3-4ec6-817a-1ecbb8639bd2.jpg",
+            "heading": "Cafe Mam",
+            "link": "https:\/\/vertemode.com\/collections\/cafe-mam"
+          }
+        },
+        "2f93e03c-bc85-45ef-9241-eb1c75455dd5": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sitting-boys_990d76d7-df4b-4305-a3f5-3a0db1d2ebfe.jpg",
+            "heading": "CLOVO",
+            "link": "https:\/\/vertemode.com\/collections\/clovo"
+          }
+        },
+        "8e5f5007-0f6a-4abb-9d95-59f8ad6824d6": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Apple_Tart_Green3.jpg",
+            "heading": "Cultivate Taste Tea",
+            "link": "shopify:\/\/collections\/cultivate-taste-tea"
+          }
+        },
+        "f53046de-7c7b-4205-a09c-f4c5b57b8826": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Tatreez_Pillow_in_Black_and_Cream_3.jpg",
+            "heading": "Darzah",
+            "link": "shopify:\/\/collections\/darzah"
+          }
+        },
+        "d5a63554-ce23-434d-a9c9-b50eab5fc173": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9898FF0C-CD5F-4874-9B9F-610BDFC02992.jpg",
+            "heading": "Dunsel's Sailbags",
+            "link": "shopify:\/\/collections\/dunsels-sailbags"
+          }
+        },
+        "83c6d604-2288-446b-b482-6d4dc50fe1d7": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Element-Apothec_Relief-Balm_1_1400x_720x_78bcadf3-d54e-4286-ad12-e51b32695133.jpg",
+            "heading": "Element Apothec",
+            "link": "https:\/\/vertemode.com\/collections\/element-apothec"
+          }
+        },
+        "2bebea76-28e6-4162-821d-fb2b79324d17": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/standard-lemongrassmint__22602.jpg",
+            "heading": "Evolve Botanica",
+            "link": "https:\/\/vertemode.com\/collections\/evolve-botanica-1"
+          }
+        },
+        "11ab934b-1c8b-4328-b782-95927ba96a2d": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stylish-summer-necklace.jpg",
+            "heading": "Gentle & Joyful",
+            "link": "https:\/\/vertemode.com\/collections\/gentle-and-joyful"
+          }
+        },
+        "bd5dbe62-db40-4b13-aaca-17795550f445": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mouthwash_Tablets_Act_Char_group_5000x_0150e4bc-eb29-4c3c-a441-68338ca7d3cc.webp",
+            "heading": "GeoOrganics",
+            "link": "https:\/\/vertemode.com\/collections\/geoorganics"
+          }
+        },
+        "917a81fd-59ac-4703-91d4-44837cdea6b8": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bottle-_-Mobile-Case-iPhone12_Yellow_Flatlay5_1200x_e7a43687-032b-424f-8009-70a832948d24.jpg",
+            "heading": "A Good Company",
+            "link": "https:\/\/vertemode.com\/collections\/a-good-company"
+          }
+        },
+        "efd3a60b-7c8b-40b6-8d73-b8c74c0ca960": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PIMASHORTSLEEVEJOGGERSETOCEANBLUE0923_750x_eda7b325-41a5-41c8-92ae-d095195c914b.jpg",
+            "heading": "Leena and Lu",
+            "link": "https:\/\/vertemode.com\/collections\/leena-lu"
+          }
+        },
+        "02c7c915-57e8-4be9-85b0-7f0497a1bb25": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bigluxurygetwellgiftbox-lizush_800x_bc924e9f-f36c-41df-a748-5c914588f6ee.webp",
+            "heading": "Lizush",
+            "link": "shopify:\/\/collections\/lizlush"
+          }
+        },
+        "0d16f0c8-8b76-44d9-a49f-9d4c44ef8414": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Black1.webp",
+            "heading": "Made by VOZ",
+            "link": "https:\/\/vertemode.com\/collections\/made-by-voz-1"
+          }
+        },
+        "5ca939e2-d60e-4683-897f-9f53c2b5d09c": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MomBomb_Calm_Box-Med_Res_5.jpg",
+            "heading": "Mom Bomb",
+            "link": "shopify:\/\/collections\/mom-bomb"
+          }
+        },
+        "2211353d-8489-4fd7-b6aa-7ea477c95429": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/placemat.webp",
+            "heading": "Neepa Hut",
+            "link": "https:\/\/vertemode.com\/collections\/neepa-hut"
+          }
+        },
+        "e30d47fb-cb2f-4c17-b8c7-9eb6e60d6956": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/s1.jpg",
+            "heading": "Net Zero",
+            "link": "https:\/\/vertemode.com\/collections\/net-zero"
+          }
+        },
+        "18d557b5-d7d7-448d-9187-143450f397f2": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AMAZON_deo_05_doubles_3307a-2000x2000.webp",
+            "heading": "Nicely Natural Deodorant",
+            "link": "https:\/\/vertemode.com\/collections\/nicely-natural-deodorant"
+          }
+        },
+        "d8c5c039-75d6-4762-801a-2302d66cd6b8": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/foot-care-butter-2oz-lifestyle-outdoor_540x_17c24eda-baa4-4792-a6c3-96fd87dd153f.webp",
+            "heading": "Ora's Amazing Herbal",
+            "link": "https:\/\/vertemode.com\/collections\/oras-amazing-herbal"
+          }
+        },
+        "d10ca1e2-cef4-44b2-a2e8-3680df838575": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LIV_LIFESTYLE_940X1408_5000x_2aed9a1e-56d9-44a5-8020-044aee4f3d0d.webp",
+            "heading": "Paneros",
+            "link": "https:\/\/vertemode.com\/collections\/paneros"
+          }
+        },
+        "609262cb-7302-4dde-84ee-f57b52a6d492": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CBD_Purse_Essentials_Kit_1.jpg",
+            "heading": "Pure + Planted",
+            "link": "shopify:\/\/collections\/pure-planted"
+          }
+        },
+        "bb905c46-d18c-470f-b0d2-b62d030a9f5b": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/R3CONCEPT_0042_900x_5d2ce7fd-697f-4f1e-aaa1-fff900b3b239.webp",
+            "heading": "R3 Concept",
+            "link": "https:\/\/vertemode.com\/collections\/r3"
+          }
+        },
+        "1ed98f94-3be4-4bcb-af61-6138941316f4": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/midnightblack-alex-a_94c8baee-7738-4325-a844-747e6216ce4c.jpg",
+            "heading": "Rackle Shoes",
+            "link": "https:\/\/vertemode.com\/collections\/rackle-shoes"
+          }
+        },
+        "a9e9e5d2-ae7b-4592-893a-b82e28a234f3": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPFseed-14.jpg",
+            "heading": "Seed Phytonutrients",
+            "link": "https:\/\/vertemode.com\/collections\/seed-phytonutrients"
+          }
+        },
+        "943991f1-8f44-4710-bdad-b8f4a47ad717": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SensibleRest_Details_Duvet_Beige_3_2688457c-6f90-4dd1-a65b-a8763c44a9b1.jpg",
+            "heading": "Sensible Rest",
+            "link": "https:\/\/vertemode.com\/collections\/sensible-rest"
+          }
+        },
+        "e5a8b37b-fd0b-4c45-a558-727c3a6f9f41": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Model_3cf519f4-94c1-4018-9cff-ab430662fac5.jpg",
+            "heading": "Skin Champagne",
+            "link": "shopify:\/\/collections\/skin-champagne"
+          }
+        },
+        "06a7bd64-924c-43c4-9606-50b4f9c79580": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7074.jpg",
+            "heading": "Sunshine Rituals",
+            "link": "https:\/\/vertemode.com\/collections\/sunshine-rituals-1"
+          }
+        },
+        "2ec3c096-dfd2-4018-900f-9311f5bcada0": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7574.jpg",
+            "heading": "Tai-Lite Beauty",
+            "link": "shopify:\/\/collections\/tai-lite-beauty"
+          }
+        },
+        "5140b73f-f7f5-4a44-8a9d-e90a93ba8cb3": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TERRA_THREAD_PART_20337_a8070a29-0c61-4bee-936f-606ab9ed21c7.webp",
+            "heading": "Terra Thread",
+            "link": "https:\/\/vertemode.com\/collections\/terra-thread"
+          }
+        },
+        "a6fcdce1-d6e6-451b-9540-01c74d0f0853": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/220714_____0777__jpg.jpg",
+            "heading": "TIDALOVE",
+            "link": "shopify:\/\/collections\/tidalove"
+          }
+        },
+        "c16347eb-a914-4e5e-b67c-384d8f1f2ddf": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_0ad9ed6a-789e-45c7-af3d-4d9c8a3a853f.jpg",
+            "heading": "Studio Potato",
+            "link": "https:\/\/vertemode.com\/collections\/studio-potato"
+          }
+        },
+        "2d11fe7f-7292-4283-a5c1-cefe1c3cc257": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/21-1027_CPS_PA_THEWAIGHT_F21-JUJ_9244_3959f9c2-55f0-4a97-a996-6112af3e5c88.jpg",
+            "heading": "The Waight",
+            "link": "https:\/\/vertemode.com\/collections\/the-waight-1"
+          }
+        },
+        "85fd2f5e-faec-490d-8cfa-b20435721c9b": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Agrawal_180405-4126.jpg",
+            "heading": "Zeki Learning",
+            "link": "shopify:\/\/collections\/zeki-learning"
+          }
+        },
+        "498bdcf9-951c-41c3-8102-0c383666035f": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/andreanero2_fd15daa4-49c1-41ba-abd0-07b98012ee2d.jpg",
+            "heading": "ZEROBARRACENTO",
+            "link": "shopify:\/\/collections\/zerobarracento"
+          }
+        },
+        "57111ec7-d72c-4ed4-b6a2-c01505be9189": {
+          "type": "brand-block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hand_bottle_06.png",
+            "heading": "WAATR",
+            "link": "shopify:\/\/collections\/waatr"
+          }
+        }
+      },
+      "block_order": [
+        "8804fb42-381d-428d-a2dd-a711e50ce81b",
+        "13245b52-4905-4c25-b465-33e7932ce571",
+        "b01e0c8f-e1fd-4770-923d-0ef14ef6e653",
+        "83a6998c-72bc-462c-84d6-a85629f67bda",
+        "e642ae9f-ae19-46d3-a5f3-e0fa334fbf6b",
+        "31f9eef7-2d4f-47a9-b31b-707b02cdca87",
+        "deeb9722-3dd1-492d-b77f-1bd11ace1ef7",
+        "7329dc9d-65d6-4fab-97a4-144b04d0551f",
+        "c7237020-6d7a-4814-ad4f-7040522c0172",
+        "36ac9a96-6dc1-43bb-b65b-321cbf8c6722",
+        "8580c953-f349-46b6-a3bc-983409eb6f0d",
+        "9e766eb9-d8ec-4cc1-8984-d1310b4a2799",
+        "02369423-11e9-412c-a6de-710e4121e9a5",
+        "1b81d87c-6422-4a08-a8cb-3ff914a12044",
+        "601ea771-7dc4-4814-a696-ec39f0a176e4",
+        "f4e2aaa4-d5d0-46f4-a8b1-72d6f3608b45",
+        "8abb5dde-7678-4260-9b3a-5362ee563c6c",
+        "2f93e03c-bc85-45ef-9241-eb1c75455dd5",
+        "8e5f5007-0f6a-4abb-9d95-59f8ad6824d6",
+        "f53046de-7c7b-4205-a09c-f4c5b57b8826",
+        "d5a63554-ce23-434d-a9c9-b50eab5fc173",
+        "83c6d604-2288-446b-b482-6d4dc50fe1d7",
+        "2bebea76-28e6-4162-821d-fb2b79324d17",
+        "11ab934b-1c8b-4328-b782-95927ba96a2d",
+        "bd5dbe62-db40-4b13-aaca-17795550f445",
+        "917a81fd-59ac-4703-91d4-44837cdea6b8",
+        "efd3a60b-7c8b-40b6-8d73-b8c74c0ca960",
+        "02c7c915-57e8-4be9-85b0-7f0497a1bb25",
+        "0d16f0c8-8b76-44d9-a49f-9d4c44ef8414",
+        "5ca939e2-d60e-4683-897f-9f53c2b5d09c",
+        "2211353d-8489-4fd7-b6aa-7ea477c95429",
+        "e30d47fb-cb2f-4c17-b8c7-9eb6e60d6956",
+        "18d557b5-d7d7-448d-9187-143450f397f2",
+        "d8c5c039-75d6-4762-801a-2302d66cd6b8",
+        "d10ca1e2-cef4-44b2-a2e8-3680df838575",
+        "609262cb-7302-4dde-84ee-f57b52a6d492",
+        "bb905c46-d18c-470f-b0d2-b62d030a9f5b",
+        "1ed98f94-3be4-4bcb-af61-6138941316f4",
+        "a9e9e5d2-ae7b-4592-893a-b82e28a234f3",
+        "943991f1-8f44-4710-bdad-b8f4a47ad717",
+        "e5a8b37b-fd0b-4c45-a558-727c3a6f9f41",
+        "06a7bd64-924c-43c4-9606-50b4f9c79580",
+        "2ec3c096-dfd2-4018-900f-9311f5bcada0",
+        "5140b73f-f7f5-4a44-8a9d-e90a93ba8cb3",
+        "a6fcdce1-d6e6-451b-9540-01c74d0f0853",
+        "c16347eb-a914-4e5e-b67c-384d8f1f2ddf",
+        "2d11fe7f-7292-4283-a5c1-cefe1c3cc257",
+        "85fd2f5e-faec-490d-8cfa-b20435721c9b",
+        "498bdcf9-951c-41c3-8102-0c383666035f",
+        "57111ec7-d72c-4ed4-b6a2-c01505be9189"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "e4140a6d-6256-48e8-9a37-ad1a822709b7",
+    "brand-collection-filter"
+  ]
+}

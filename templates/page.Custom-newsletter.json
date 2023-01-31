@@ -1,0 +1,42 @@
+{
+  "sections": {
+    "166478048540f005a1": {
+      "type": "rich-text",
+      "blocks": {
+        "1664780485ad31ae89-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Newsletter<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1664780485ad31ae89-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You’re helping to save our planet. We’ll help save your inbox and send only the important stuff.<\/p><p>Sign up to become a #vertemember receive 10% off on your next purchase.<br\/><br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664780485ad31ae89-0",
+        "1664780485ad31ae89-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "166478047405b02734": {
+      "type": "Custom-newsletter2",
+      "settings": {}
+    }
+  },
+  "order": [
+    "166478048540f005a1",
+    "166478047405b02734"
+  ]
+}

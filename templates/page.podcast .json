@@ -1,0 +1,119 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1663564547aa16066c": {
+      "type": "image-with-text-v2",
+      "disabled": true,
+      "blocks": {
+        "9e10d2db-46c1-4748-9fae-8cf01aed9949": {
+          "type": "caption",
+          "settings": {
+            "caption": "episode no.277",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "fbb8d2fa-e299-44d2-8e0f-a016700e0820": {
+          "type": "text",
+          "settings": {
+            "text": "<h2 class=\"title_text\">\njesus <br>Herrera\n<\/h2>",
+            "text_style": "body"
+          }
+        },
+        "16635645473ce1e3e2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Respect the limits<br>\nof partnership<\/h2>",
+            "text_style": "body"
+          }
+        },
+        "16635645473ce1e3e2-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Go and listen!",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9e10d2db-46c1-4748-9fae-8cf01aed9949",
+        "fbb8d2fa-e299-44d2-8e0f-a016700e0820",
+        "16635645473ce1e3e2-1",
+        "16635645473ce1e3e2-2"
+      ],
+      "settings": {
+        "custom_class": "podcast-1stbanner",
+        "image": "shopify:\/\/shop_images\/JesusHerrera-homepage.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16635680469c58065c": {
+      "type": "podcast-articles",
+      "disabled": true,
+      "blocks": {
+        "4b776b41-c3f0-462b-89cd-8c5c92e5c5d2": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-5"
+          }
+        },
+        "b58dfd36-eb6d-4331-8099-d5e7fe45c5af": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-4"
+          }
+        },
+        "8aa79fad-e922-475a-9c4a-5c375d28eed9": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-3"
+          }
+        },
+        "60e47280-106f-4ea6-adec-afac950b1fc7": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-3"
+          }
+        },
+        "41559db1-498e-4070-9d78-92052221886a": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "style\/style-1"
+          }
+        }
+      },
+      "block_order": [
+        "4b776b41-c3f0-462b-89cd-8c5c92e5c5d2",
+        "b58dfd36-eb6d-4331-8099-d5e7fe45c5af",
+        "8aa79fad-e922-475a-9c4a-5c375d28eed9",
+        "60e47280-106f-4ea6-adec-afac950b1fc7",
+        "41559db1-498e-4070-9d78-92052221886a"
+      ],
+      "settings": {
+        "title-text": "LATEST EPISODES",
+        "bnt-text": "",
+        "btn_link": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1663564547aa16066c",
+    "16635680469c58065c"
+  ]
+}

@@ -1,0 +1,86 @@
+<ul class="product-list" data-id="{{ product.id }}">
+             
+       {%- for media in product.media -%}
+                  <div class="product-media">
+                                     <img id="Thumbnail-{{ section.id }}-{{ forloop.index }}" alt="Product img"  class="thumb-popup" data-src="popup-{{forloop.index}}"
+                           src="{{ media | img_url: '' }}"
+                           loading="lazy"
+                           >
+                     </div>
+       {% endfor %}
+                  
+  <div class="custom-prod-info">
+ 
+    <div class="custom-prod-vendor"> {{product.vendor}}</div>
+      <h3 class="custom-prod-title">{{product.title}}</h3>
+     <div class="custom-prod-price">{{product.price | money}}</div>
+
+  </div>
+                <div class="product-form__input product-form__quantity{% if settings.inputs_shadow_vertical_offset != 0 and settings.inputs_shadow_vertical_offset < 0 %} product-form__quantity-top{% endif %}" {{ block.shopify_attributes }}>
+<!--                 <label class="form__label" for="Quantity-{{ section.id }}">
+                  {{ 'products.product.quantity.label' | t }}
+                </label> -->
+                <quantity-input class="quantity">
+                  <button class="quantity__button no-js-hidden" name="minus" type="button">
+                    <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
+                    {% render 'icon-minus' %}
+                  </button>
+                  <input class="quantity__input"
+                      type="number"
+                      name="quantity"
+                      id="Quantity-{{ section.id }}"
+                      min="1"
+                      value="1"
+                      form="{{ product_form_id }}"
+                    >
+                  <button class="quantity__button no-js-hidden" name="plus" type="button">
+                    <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
+                    {% render 'icon-plus' %}
+                  </button>
+                </quantity-input>
+              </div>
+  <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
+  <div {{ template.shopify_attributes }}>
+              <product-form class="product-form pro-hide">
+                <div class="product-form__error-message-wrapper" role="alert" hidden>
+                  <span class="product-form__error-message"></span>
+                    </div>
+                
+				{%- assign product_form_id = 'product-form-' | append: product.id -%}
+                {%- form 'product', product, id: product_form_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' -%}
+                  <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}" disabled>
+                  <div class="product-form__buttons">
+                    <button
+                      type="submit"
+                      name="add"
+                      class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
+                    {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
+                    >
+                        <span>
+                          {%- if product.selected_or_first_available_variant.available -%}
+                            {{ 'products.product.add_to_cart' | t }}
+                          {%- else -%}
+                            {{ 'products.product.sold_out' | t }}
+                          {%- endif -%}
+                        </span>
+                        <div class="loading-overlay__spinner hidden">
+                          <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                            <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                          </svg>
+                        </div>
+                    </button>
+                    
+                  </div>
+                {%- endform -%}
+              </product-form>
+
+     <div class="view_detail"><a href="{{ product.url }}">View Detail</a></div>
+             
+  </div>
+        
+      
+        
+    </li>
+
+ 
+</ul>

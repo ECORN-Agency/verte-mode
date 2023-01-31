@@ -1,0 +1,223 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "2cc2d524-5188-4fc5-b2f6-51cc42c5a475": {
+      "type": "image-banner2",
+      "blocks": {
+        "template--15773237477547__2cc2d524-5188-4fc5-b2f6-51cc42c5a475-1665269171e8158e68-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--15773237477547__2cc2d524-5188-4fc5-b2f6-51cc42c5a475-1665269171e8158e68-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15773237477547__2cc2d524-5188-4fc5-b2f6-51cc42c5a475-1665269171e8158e68-0",
+        "template--15773237477547__2cc2d524-5188-4fc5-b2f6-51cc42c5a475-1665269171e8158e68-2"
+      ],
+      "settings": {
+        "class_id": "",
+        "image": "shopify:\/\/shop_images\/rafael-saes-b9SyQrAYz6A-unsplash_grande_b499c09b-c70e-4a60-8059-7ee57a8ecee0.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "78d8b5d3-2087-4be7-bc22-0cfe514a4473": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15773237477547__78d8b5d3-2087-4be7-bc22-0cfe514a4473-1665268882ad168c47-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Artisan Goods<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--15773237477547__78d8b5d3-2087-4be7-bc22-0cfe514a4473-1665268882ad168c47-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The smell of a candle made from natural soy to transform the ambiance of your home; the feel of a crocheted piece made carefully and lovingly by someone who is appreciated and treated well in their place of work; and the feel of a lotion derived of truly natural ingredients that nourish your skin instead of agitating it.<\/p><p>Artisanal products are unmatched as they provide personal touches a machine can’t replicate—goods from local workers who care deeply for their craft as they share it with the world.<\/p><p>The digital age has lent hand to the booming industry of handcrafted work as the demand for such is booming more than ever before. Surveys have shown that people who drank handcrafted coffee insisted it tasted better than the alternative.<\/p><p>Our commitment to working with artisans means higher quality products made by hand and a greener way of creating as we rely less on machinery to mass produce our inventory.<\/p><p>These valuable products mean more jobs as we invest into businesses who treat their employees with care and subsequently, their products are made with more care as well! Workers can set their own prices for their work instead of being demanded to spend hours for virtually no pay.<\/p><p>Living sustainably is more than just buying something eco-friendly with a minimum carbon footprint—it’s also about caring about the hands who put the item together.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15773237477547__78d8b5d3-2087-4be7-bc22-0cfe514a4473-1665268882ad168c47-0",
+        "template--15773237477547__78d8b5d3-2087-4be7-bc22-0cfe514a4473-1665268882ad168c47-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "985501c1-9bde-4603-9b66-a9e87445e09c": {
+      "type": "image-banner2",
+      "settings": {
+        "class_id": "",
+        "image": "shopify:\/\/shop_images\/aboutimageone_2048x2048_6e4251b5-cb95-450a-adf1-3d3888a48bf8.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "224fb8cf-fba8-44a8-8694-08a7ae5d0a2b": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--15773237477547__224fb8cf-fba8-44a8-8694-08a7ae5d0a2b-1665269596a95e7a59-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Artisan Goods",
+            "heading_size": "h0"
+          }
+        },
+        "template--15773237477547__224fb8cf-fba8-44a8-8694-08a7ae5d0a2b-1665269596a95e7a59-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The smell of a candle made from natural soy to transform the ambiance of your home; the feel of a crocheted piece made carefully and lovingly by someone who is appreciated and treated well in their place of work; and the feel of a lotion derived of truly natural ingredients that nourish your skin instead of agitating it.<\/p><p>Artisanal products are unmatched as they provide personal touches a machine can’t replicate—goods from local workers who care deeply for their craft as they share it with the world.<\/p><p>The digital age has lent hand to the booming industry of handcrafted work as the demand for such is booming more than ever before. Surveys have shown that people who drank handcrafted coffee insisted it tasted better than the alternative.<\/p><p>Our commitment to working with artisans means higher quality products made by hand and a greener way of creating as we rely less on machinery to mass produce our inventory.<\/p><p>These valuable products mean more jobs as we invest into businesses who treat their employees with care and subsequently, their products are made with more care as well! Workers can set their own prices for their work instead of being demanded to spend hours for virtually no pay.<\/p><p>Living sustainably is more than just buying something eco-friendly with a minimum carbon footprint—it’s also about caring about the hands who put the item together.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15773237477547__224fb8cf-fba8-44a8-8694-08a7ae5d0a2b-1665269596a95e7a59-0",
+        "template--15773237477547__224fb8cf-fba8-44a8-8694-08a7ae5d0a2b-1665269596a95e7a59-1"
+      ],
+      "settings": {
+        "custom_class": "",
+        "image": "shopify:\/\/shop_images\/rafael-saes-b9SyQrAYz6A-unsplash_grande_b499c09b-c70e-4a60-8059-7ee57a8ecee0.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8319ded1-1ede-482b-a9d1-6341ccf7aa7c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15927719788715__8319ded1-1ede-482b-a9d1-6341ccf7aa7c-16653381088f7d9750-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15927719788715__8319ded1-1ede-482b-a9d1-6341ccf7aa7c-16653381088f7d9750-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe that caring for our world means caring for the people who walk it. Human rights issues will always be an uphill battle as companies around the world exploit labor to increase their profit margins. It’s time to shop guilt-free and not wonder whether a brand is truly being transparent about its practices.<\/p><p>We want to help our customers find kinder replacements for many of their favorite products (and discover something new as well)!<\/p><p>That means you can feel good about your purchase and we can feel good for helping interconnect you to a community of hard-working creatives with goals of sustainable and high quality practice.<\/p><p>We have a list of vendors for our customers to learn about and invest into the way we have. From sustainable leather to CBD, our products are sourced from people who care about how our things are made—taking “stuff” and turning it into “goods.”<\/p><p>We can’t wait to introduce you!<\/p>"
+          }
+        },
+        "template--15927719788715__8319ded1-1ede-482b-a9d1-6341ccf7aa7c-16653381088f7d9750-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15927719788715__8319ded1-1ede-482b-a9d1-6341ccf7aa7c-16653381088f7d9750-0",
+        "template--15927719788715__8319ded1-1ede-482b-a9d1-6341ccf7aa7c-16653381088f7d9750-1",
+        "template--15927719788715__8319ded1-1ede-482b-a9d1-6341ccf7aa7c-16653381088f7d9750-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "e9367303-487f-4de1-b030-11f8af598c79": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--15773237477547__e9367303-487f-4de1-b030-11f8af598c79-1665269596a95e7a59-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe that caring for our world means caring for the people who walk it. Human rights issues will always be an uphill battle as companies around the world exploit labor to increase their profit margins. It’s time to shop guilt-free and not wonder whether a brand is truly being transparent about its practices.<\/p><p>We want to help our customers find kinder replacements for many of their favorite products (and discover something new as well)!<\/p><p>That means you can feel good about your purchase and we can feel good for helping interconnect you to a community of hard-working creatives with goals of sustainable and high quality practice.<\/p><p>We have a list of vendors for our customers to learn about and invest into the way we have. From sustainable leather to CBD, our products are sourced from people who care about how our things are made—taking “stuff” and turning it into “goods.”<\/p><p>We can’t wait to introduce you!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15773237477547__e9367303-487f-4de1-b030-11f8af598c79-1665269596a95e7a59-1"
+      ],
+      "settings": {
+        "custom_class": "",
+        "image": "shopify:\/\/shop_images\/aboutimageone_2048x2048_6e4251b5-cb95-450a-adf1-3d3888a48bf8.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2cc2d524-5188-4fc5-b2f6-51cc42c5a475",
+    "78d8b5d3-2087-4be7-bc22-0cfe514a4473",
+    "985501c1-9bde-4603-9b66-a9e87445e09c",
+    "224fb8cf-fba8-44a8-8694-08a7ae5d0a2b",
+    "8319ded1-1ede-482b-a9d1-6341ccf7aa7c",
+    "e9367303-487f-4de1-b030-11f8af598c79"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "bfa5052a-b9b3-44d5-92ac-1ecdfcb3224a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15927719821483__bfa5052a-b9b3-44d5-92ac-1ecdfcb3224a-1665338662476b83a2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Returns + Refunds",
+            "heading_size": "h0"
+          }
+        },
+        "template--15927719821483__bfa5052a-b9b3-44d5-92ac-1ecdfcb3224a-1665338662476b83a2-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our No-Nonsense Return Policy: If you're not completely satisfied with your purchase, simply return the product to us for a full-refund or exchange. No questions asked.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927719821483__bfa5052a-b9b3-44d5-92ac-1ecdfcb3224a-1665338662476b83a2-0",
+        "template--15927719821483__bfa5052a-b9b3-44d5-92ac-1ecdfcb3224a-1665338662476b83a2-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-02_at_12.28.08_PM.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "7811d983-7e59-4b46-9aa4-6d13d94bbde2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15927719821483__7811d983-7e59-4b46-9aa4-6d13d94bbde2-1665270601ab4ddb75-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Returns + Refunds<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--15927719821483__7811d983-7e59-4b46-9aa4-6d13d94bbde2-1665270601ab4ddb75-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Our Guarantee to You<\/strong><\/p><p>At Verte Mode, we stand behind the quality of our products and want every purchase to be a positive experience. We will do our best to make things right if you are not satisfied.<\/p><p><strong>Sustainable Shipping: It Takes A Village<\/strong><\/p><p>Shipping is not only costly, it’s a drain on the environment, we charge for shipping rather than pad our prices to make it clear that there are real costs to deliver products to you. Similarly, we do not pay for returns: they cost us all in the long run in added pollution, waste and general deterioration to the environment. <\/p><p>For this reason, we encourage you to be intentional. Make absolutely sure that you need the particular product and thoroughly vet it to ensure that it has a place in your life. Shop sustainably and do not be a part of the wasteful culture of fast fashion. <br\/><\/p><p><strong>How to Submit a Return<\/strong><\/p><p>Because we want to ensure that the product you buy can find a new home while it is still current, we require you to request the return within 30 days of your purchase in unused or lightly used condition, which allow us to ensure that the product can be resold or distributed to those in need. To initiate the return, please forward your email receipt to us at customerservice@vertemode.com and we will contact you with return information.<\/p><p><strong>Refunds & Exchanges<\/strong><\/p><p>Once we receive your returned item, we will immediately refund the amount you paid, set that amount up as a credit for a future purchase, or ship the replacement product if you’ve requested an exchange.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927719821483__7811d983-7e59-4b46-9aa4-6d13d94bbde2-1665270601ab4ddb75-0",
+        "template--15927719821483__7811d983-7e59-4b46-9aa4-6d13d94bbde2-1665270601ab4ddb75-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bfa5052a-b9b3-44d5-92ac-1ecdfcb3224a",
+    "7811d983-7e59-4b46-9aa4-6d13d94bbde2"
+  ]
+}

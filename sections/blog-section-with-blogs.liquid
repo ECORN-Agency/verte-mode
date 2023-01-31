@@ -1,0 +1,117 @@
+<div class="page-width">
+
+<div class="blog-custom-grid {{ section.settings.custom_classid }}">
+
+      
+          <div id="custom-grid-{{ section.id }}-1" class="blog-left-column custom-grid-layout-1">
+            {%- assign single_ariticle1 = section.settings.single_ariticle1 -%}
+            <img src="{{ single_ariticle1.image | article_img_url : 'master' }}" />
+            <div class="blog-content">
+            <h2> {{ single_ariticle1.title |  escape }}</h2>
+            <a href="{{ single_ariticle1.url }}" />READ POST</a>
+            </div>
+            <a Class="blog-upper_ankerabsolute" href="{{ single_ariticle1.url }}" /></a>
+        </div>
+       
+          <div id="custom-grid-{{ section.id }}-{{ forloop.index }}" class="blog-right-column custom-grid-layout-2">
+           {%- assign single_ariticle2 = section.settings.single_ariticle2 -%}
+            <img src="{{ single_ariticle2.image | article_img_url : 'master' }}" />
+            <div class="blog-content">
+            <h2> {{ single_ariticle2.title |  escape }}</h2>
+            <a href="{{ single_ariticle2.url }}" />READ POST</a> 
+            </div>
+            <a Class="blog-upper_ankerabsolute" href="{{ single_ariticle2.url }}" /></a> 
+          </div>
+
+        <div id="custom-grid-{{ section.id }}-{{ forloop.index }}" class="blog-right-column custom-grid-layout-3">
+          {%- assign single_ariticle3 = section.settings.single_ariticle3 -%}
+            <img src="{{ single_ariticle3.image | article_img_url : 'master' }}" />
+            <div class="blog-content">
+            <h2> {{ single_ariticle3.title |  escape }}</h2>
+            <a href="{{ single_ariticle3.url }}" />READ POST</a>           
+            </div>
+            <a Class="blog-upper_ankerabsolute" href="{{ single_ariticle3.url }}" /></a>
+          </div>
+
+      <div id="custom-grid-{{ section.id }}-{{ forloop.index }}" class="blog-right-column custom-grid-layout-4">
+          {%- assign single_ariticle4 = section.settings.single_ariticle4 -%}
+            <img src="{{ single_ariticle4.image | article_img_url : 'master' }}" />
+            <div class="blog-content">
+            <h2> {{ single_ariticle4.title |  escape }}</h2>
+            <a href="{{ single_ariticle4.url }}" />READ POST</a>           
+            </div>
+            <a Class="blog-upper_ankerabsolute" href="{{ single_ariticle4.url }}" /></a>  
+          </div>
+      
+        
+
+  
+</div>
+
+</div>
+{% comment %}
+    {
+      "type": "range",
+      "id": "post_limit",
+      "min": 2,
+      "max": 4,
+      "step": 1,
+      "default": 3,
+      "label": "Show number of blog Posts"
+     },
+     {
+      "type": "blog",
+      "id": "blog",
+      "label": "Select Blog Type"
+      },
+{% endcomment %}
+
+{% schema %}
+  {
+    "name": "Blog Section V1",
+    "class": "Blog-section-v1",
+    "settings": [
+      {
+        "id": "custom_classid",
+        "type": "text",
+        "label": "Custom Class"
+      },
+      {
+        "id": "custom_text_title",
+        "type": "text",
+        "label": "Text box heading",
+        "default": "Title"
+      },     
+       {
+      "type": "article",
+      "id": "single_ariticle1",
+      "label": "Single Ariticle 1",
+      "info": "Single Article"
+    },
+       {
+      "type": "article",
+      "id": "single_ariticle2",
+      "label": "Single Ariticle 2",
+      "info": "Single Article"
+    },
+       {
+      "type": "article",
+      "id": "single_ariticle3",
+      "label": "Single Ariticle 3",
+      "info": "Single Article"
+    },
+       {
+      "type": "article",
+      "id": "single_ariticle4",
+      "label": "Single Ariticle 4",
+      "info": "Single Article"
+    }
+    ],
+    "presets": [
+      {
+        "name": "Blog Section V1",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}

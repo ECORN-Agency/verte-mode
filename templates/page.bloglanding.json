@@ -1,0 +1,306 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "99edf97f-cec3-46c0-bf83-168e437fe6af": {
+      "type": "home-collection-section",
+      "settings": {
+        "heading": ""
+      }
+    },
+    "d87d8e5a-7131-4356-ab88-61151dc3a93e": {
+      "type": "home-slider-section",
+      "settings": {}
+    },
+    "86ba9371-9471-436d-87ec-abe597c2adf6": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15858182521003__86ba9371-9471-436d-87ec-abe597c2adf6-167138789819c2e830-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3e2fba157871267.6380c7cb026d7.jpg",
+            "heading": "The Environmental Impact of Christmas Trees and How to Dispose of Them Sustainably",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Read More",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "68286baa-ba86-4ad4-bd19-3164bcc2fc7b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/679df6113810583.602f052450ebf.jpg",
+            "heading": "The Best Zero-Waste Gifts for Any Occasion",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Read More",
+            "link": "shopify:\/\/blogs\/zero-waste-guides\/best-zero-waste-gift-ideas-for-any-occasion",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "c25f77e0-950e-488a-b1d1-74e13edbe12e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/18ba9d157508127.637a810f416f2.jpg",
+            "heading": "Top Uplifting Climate Stories of 2022",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Read More",
+            "link": "https:\/\/vertemode.com\/blogs\/environment\/top-uplifting-climate-stories-of-2022",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858182521003__86ba9371-9471-436d-87ec-abe597c2adf6-167138789819c2e830-1",
+        "68286baa-ba86-4ad4-bd19-3164bcc2fc7b",
+        "c25f77e0-950e-488a-b1d1-74e13edbe12e"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "63b4e6e5-3e3b-4733-b76e-1757616f4663": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15858182521003__63b4e6e5-3e3b-4733-b76e-1757616f4663-1671390902271c1926-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>LOW IMPACT LIVING<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15858182521003__63b4e6e5-3e3b-4733-b76e-1757616f4663-1671390902271c1926-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/sustainablyvegan.org\/low-impact-living\">Start here to learn about low waste & sustainable living<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15858182521003__63b4e6e5-3e3b-4733-b76e-1757616f4663-1671390902271c1926-0",
+        "template--15858182521003__63b4e6e5-3e3b-4733-b76e-1757616f4663-1671390902271c1926-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "1662439819e58cd7ae": {
+      "type": "blog-section-with-blogs",
+      "settings": {
+        "custom_classid": "",
+        "custom_text_title": "",
+        "single_ariticle1": "eco-living\/4-simple-sustainable-swaps",
+        "single_ariticle2": "eco-living\/zero-waste-fall-guide-1",
+        "single_ariticle3": "zero-waste-guides\/think-before-you-shop",
+        "single_ariticle4": "news\/toxic-chemical-found-in-sports-bras"
+      }
+    },
+    "3afd8968-884f-4774-b9c5-ca695c38bd46": {
+      "type": "home-block-image",
+      "settings": {
+        "heading": ""
+      }
+    },
+    "16624401207f6061b5": {
+      "type": "featured-collectionv2",
+      "settings": {
+        "title": "HOLIDAY GIFTING",
+        "heading_size": "h2",
+        "collection_link": "shopify:\/\/collections\/this-week-s-pick",
+        "description": "Your one stop shop for verified brands you can trust",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "this-week-s-pick",
+        "products_to_show": 8,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "1662440620a57c0735": {
+      "type": "blog-section-with-blogs",
+      "disabled": true,
+      "settings": {
+        "custom_classid": "custom-blog-section2",
+        "custom_text_title": "Title",
+        "single_ariticle1": "food-home\/5-things-everyone-needs-in-their-house",
+        "single_ariticle2": "beauty\/its-time-to-relax",
+        "single_ariticle3": "news\/toxic-chemical-found-in-sports-bras",
+        "single_ariticle4": "food-home\/tips-for-zero-waste-decorating"
+      }
+    },
+    "42805bcc-8ad9-4f35-ae01-380c8d650ab5": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--15858182521003__42805bcc-8ad9-4f35-ae01-380c8d650ab5-16711301526939262d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Editor Favorite",
+            "heading_size": "h1"
+          }
+        },
+        "template--15858182521003__42805bcc-8ad9-4f35-ae01-380c8d650ab5-16711301526939262d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>20 sustainable gifts to help lower your impact on the planet<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15858182521003__42805bcc-8ad9-4f35-ae01-380c8d650ab5-16711301526939262d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read post",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15858182521003__42805bcc-8ad9-4f35-ae01-380c8d650ab5-16711301526939262d-0",
+        "template--15858182521003__42805bcc-8ad9-4f35-ae01-380c8d650ab5-16711301526939262d-1",
+        "template--15858182521003__42805bcc-8ad9-4f35-ae01-380c8d650ab5-16711301526939262d-2"
+      ],
+      "settings": {
+        "custom_class": "",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-12-10_at_10.25.14_AM.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16624460168bfd29d3": {
+      "type": "logo-list",
+      "blocks": {
+        "b5449f48-2f50-43e2-9e47-db7adb4ef79e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-4.png",
+            "article": "parenting\/lorem-ipsum-2"
+          }
+        },
+        "b2bd14bd-1835-4315-bcb2-9327066e6a8b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo1_4aa34eef-1896-4d75-bed9-29ab1e6b1f24.png",
+            "article": ""
+          }
+        },
+        "20d03aff-48b6-423f-bb14-411ce0422829": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-2.png",
+            "article": ""
+          }
+        },
+        "86267f7c-7558-45e1-b4ae-c305a57fa4f9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-3.png",
+            "article": ""
+          }
+        }
+      },
+      "block_order": [
+        "b5449f48-2f50-43e2-9e47-db7adb4ef79e",
+        "b2bd14bd-1835-4315-bcb2-9327066e6a8b",
+        "20d03aff-48b6-423f-bb14-411ce0422829",
+        "86267f7c-7558-45e1-b4ae-c305a57fa4f9"
+      ],
+      "settings": {}
+    },
+    "1671129617a93d570e": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "167112959666dfef00": {
+      "type": "apps",
+      "blocks": {
+        "9f50c364-2db6-4fea-9729-999ae10b1cb3": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        }
+      },
+      "block_order": [
+        "9f50c364-2db6-4fea-9729-999ae10b1cb3"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "99edf97f-cec3-46c0-bf83-168e437fe6af",
+    "d87d8e5a-7131-4356-ab88-61151dc3a93e",
+    "86ba9371-9471-436d-87ec-abe597c2adf6",
+    "63b4e6e5-3e3b-4733-b76e-1757616f4663",
+    "1662439819e58cd7ae",
+    "3afd8968-884f-4774-b9c5-ca695c38bd46",
+    "16624401207f6061b5",
+    "1662440620a57c0735",
+    "42805bcc-8ad9-4f35-ae01-380c8d650ab5",
+    "16624460168bfd29d3",
+    "1671129617a93d570e",
+    "167112959666dfef00"
+  ]
+}

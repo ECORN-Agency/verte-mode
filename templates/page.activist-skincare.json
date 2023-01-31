@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1660306509ca781e00": {
+      "type": "rex-banner-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Activist-collective-header-1.jpg",
+        "heading": "Activist Skincare",
+        "link": "shopify:\/\/collections\/activewear"
+      }
+    },
+    "1660306575a2c41f70": {
+      "type": "rex-text-section",
+      "settings": {
+        "text": "Fuel for <span class=\"text-bold\">Activism<\/span>"
+      }
+    },
+    "1660306633bfa9de23": {
+      "type": "rex-image-with-text",
+      "settings": {
+        "heading": "WHO THEY ARE",
+        "subtext": "<p>Founder Allison Callaway always felt like she didn’t quite fit in. Between battling acne, a bit of social anxiety, and interests based in animal and environmental protections, Allison went through her teen years researching natural skin care and joining activist causes. It wasn’t until years later that she realized that caring about the planet IS cool. She knew she wanted to create a safe space for others like herself, and thought that skincare was the perfect vessel. Why not provide a product that everyone needs, with a story and community they can join and be part of?<br\/><br\/>From giving back to environmental causes, using sustainable packaging, and creating an educational blog to promote learning and self care, Allison has created a nourishing and inspiring brand and community - the Activist Skincare.<\/p>",
+        "button": "Shop Activist Skincare",
+        "link": "shopify:\/\/collections\/accessories",
+        "image": "shopify:\/\/shop_images\/activist-collective-about.png"
+      }
+    },
+    "1660306832bf9e93e5": {
+      "type": "rex-heading-section",
+      "settings": {
+        "heading": "Why We <strong>Like Them<\/strong>"
+      }
+    },
+    "1660306931feb46144": {
+      "type": "rex-subtext-section",
+      "settings": {
+        "subtext": "<p>First and foremost, we love Activist Skincare because of their use of pure, plant based ingredients. Based on scientific research by experts like the Environmental Working Group and the Campaign for Safe Cosmetics, Activist Skincare creates botanical based products that are free from the bad stuff. You’ll never find Parabens, Phthalates, Silicones, Sulfates, artificial colors and fragrances, or nanoparticles in their products. On top of this, they take it a step further and also say known to lesser known toxins, like Triclosan, Propylene glycol, Phenoxyethanol, Formaldehyde and formaldehyde-releasing preservatives, Hydroquinone, and more. <\/p><p>Next, Activist Skincare stays close to their animal activist roots, ensuring each product is 100% Vegan and cruelty free. None of their ingredients or finished products are tested on animals, so you can feel good knowing that Activist “walks the walk”. <\/p><p>In addition to safe, ethical ingredients, Activist Skincare knows that skin care packaging is just as important as the ingredients themselves. That’s why each product comes packaged in glass, with minimal plastic accessories. When you’ve finished your product, you can order an aluminum bottle refill, accompanied by a shipping label to send back your aluminum refill bottle. Activist will sanitize, refill, and resell that refill bottle, eventually recycling the bottle at the end of its life. <\/p><p>Every purchase from Activist Skincare also goes further to support real activism. 5% of all sales are donated to environmental advocacy groups, supporting various NGOs and helping to fund the change.<\/p>"
+      }
+    },
+    "1660306965a41b4560": {
+      "type": "rex-image-slider",
+      "blocks": {
+        "0ad1a3ce-f408-4d76-8c22-c5b81d6e4961": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_mom-owned-300x300.png",
+            "link": "",
+            "text": "Mom Owned",
+            "subtext": "<p>This brand is created, owned, and run by a mom (or several moms). Celebrating mom-owned companies is necessary given the incredible efforts moms make acting on the source of their motivation and values through parenthood and entrepreneurial creation.<\/p>"
+          }
+        },
+        "686dc5ea-3a35-4944-ba95-2f7e3768e67d": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icons_cruelty_free-300x300.png",
+            "link": "",
+            "text": "Cruelty Free",
+            "subtext": "<p>Cruelty Free is a certification process through PETA that labels products that are not tested on animals. All companies that are included on PETA’s cruelty-free list have signed a statement verifying that they don’t use ingredients or create finished products that help conduct or pay for any tests on animals.<\/p>"
+          }
+        },
+        "99df6545-1233-42e7-936d-61d8b36af04f": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/paraben-free-2-300x300.png",
+            "link": "",
+            "text": "Paraben Free",
+            "subtext": "<p>Parabens are synthetic chemical preservatives, commonly used in beauty products like shampoo, lotion, and deodorants. Parabens can accumulate in your body, and have been linked to hormonal disruption and reproductive problems. In studies of breast cancer patients, parabens have been found in the tissue of cancerous tumors–yikes! If you want to avoid Parabens in your beauty products, keep an eye out for methylparaben, propylparaben, butylparaben, and ethylparaben in the ingredients list.<\/p>"
+          }
+        },
+        "f090a579-842c-4ee4-84ae-eed0967f8114": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phthalate-free-2-300x300.png",
+            "link": "",
+            "text": "Phthalate Free",
+            "subtext": "<p>Phthalates are found in toys, electronics, personal care products, plastic wraps, containers, and more. These petroleum based chemicals help soften plastics, and bind fragrances to perfumes, deodorants, creams, and other personal care products. Phthalates are are not chemically bound, meaning they can easily get released into the air, water, or your body, just by using the products as intended. Phthalates have been found to disrupt the endocrine system, which can cause reproductive damage, hormonal imbalances, infertility, mood changes, metabolism changes, and more.<\/p>"
+          }
+        },
+        "46d30174-d1fa-49a4-99b8-13d6c5280a17": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sulfate-free-2-300x300.png",
+            "link": "",
+            "text": "Sulfate Free",
+            "subtext": "<p>Sulfates are synthetic chemical ingredients commonly used in beauty products and household cleaners, like shampoos and dish soaps. You can usually identify sulfates in an ingredients list by looking out for the most common types: Sodium Lauryl Sulfate (SLC) and Sodium Laureth Sulfates (SLES). These chemicals, often derived from petroleum, are used to help form the “lather” we’re used to seeing in our beauty and cleaning products. When used in the shower or sink, these chemicals can flow through the pipes and into our waterways. Synthetic sulfates have been linked to allergic reactions, eye and skin irritation, and hair loss, and some studies suggest they contain carcinogenic ingredients.<\/p>"
+          }
+        },
+        "5078adc8-9a11-4347-bf26-c7a0104aa3ec": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vegan.png",
+            "link": "",
+            "text": "Vegan",
+            "subtext": "<p>This product does not contain any animal products or byproducts, and has not been tested on animals.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0ad1a3ce-f408-4d76-8c22-c5b81d6e4961",
+        "686dc5ea-3a35-4944-ba95-2f7e3768e67d",
+        "99df6545-1233-42e7-936d-61d8b36af04f",
+        "f090a579-842c-4ee4-84ae-eed0967f8114",
+        "46d30174-d1fa-49a4-99b8-13d6c5280a17",
+        "5078adc8-9a11-4347-bf26-c7a0104aa3ec"
+      ],
+      "settings": {}
+    },
+    "1660307869984096cf": {
+      "type": "rex-featured-collection",
+      "settings": {
+        "title": "Shop Products from Activist Skincare",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "home",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1660307946bab767e5": {
+      "type": "rex-button-on-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Activist-collective-header-2-1.jpg",
+        "button": "Shop Activist Skincare",
+        "link": "shopify:\/\/collections\/baby-kids"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1660306509ca781e00",
+    "1660306575a2c41f70",
+    "1660306633bfa9de23",
+    "1660306832bf9e93e5",
+    "1660306931feb46144",
+    "1660306965a41b4560",
+    "1660307869984096cf",
+    "1660307946bab767e5"
+  ]
+}

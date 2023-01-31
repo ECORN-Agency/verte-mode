@@ -1,0 +1,77 @@
+<div class="page-width">
+
+<div class="blog-custom-grid {{ section.settings.custom_classid }}">
+ {%- for block in section.blocks -%}
+        {%- if forloop.index == 1 -%}
+      <div id="custom-grid-{{ section.id }}-{{ forloop.index }}" class="blog-left-column sblogarticle custom-grid-layout-{{ forloop.index }}">        
+       {%- assign single_ariticle = block.settings.single_ariticle -%}
+       <div class="sngarticle-img"> <img src="{{ single_ariticle.image | article_img_url : 'master' }}"> </div> 
+       <div class="blog-content"> <h2> {{ single_ariticle.title }} </h2> <a href="{{ single_ariticle.url }}">READ POST</a> </div>
+      </div>
+        {%- else -%}
+       <div id="custom-grid-{{ section.id }}-{{ forloop.index }}" class="blog-left-column sblogarticle custom-grid-layout-{{ forloop.index }}">   
+        {%- assign single_ariticle = block.settings.single_ariticle -%}
+        <div class="sngarticle-img"> <img src="{{ single_ariticle.image | article_img_url : 'master' }}"> </div> 
+        <div class="blog-content"> <h2> {{ single_ariticle.title }} </h2> <a href="{{ single_ariticle.url }}">READ POST</a> </div>
+       </div>
+      </div>
+      {%- endif -%}
+        
+{%- endfor -%}
+  
+</div>
+ 
+</div>
+{% schema %}
+  {
+    "name": "Blog Section V2",
+    "class": "Blog-section-v1",
+    "settings": [
+      {
+        "id": "custom_classid",
+        "type": "text",
+        "label": "Custom Class"
+      },
+      {
+        "id": "custom_text_title",
+        "type": "text",
+        "label": "Text box heading",
+        "default": "Title"
+      },
+      {
+      "type": "blog",
+      "id": "blog",
+      "label": "Select Blog Type"
+      },
+      {
+      "type": "range",
+      "id": "post_limit",
+      "min": 2,
+      "max": 4,
+      "step": 1,
+      "default": 3,
+      "label": "Show number of blog Posts"
+     } 
+    ],
+      "blocks": [
+     {
+       "name": "Slide",
+       "type": "slide",
+       "settings": [
+        {
+          "type": "article",
+          "id": "single_ariticle",
+          "label": "Single Ariticle",
+          "info": "Single Article"
+        }
+       ]
+     }
+   ],
+    "presets": [
+      {
+        "name": "Blog Section V2",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,38 @@
+<div class="product-accordians-section">
+  <div class="page-width">
+    <div class="inner-product-accordians-section">
+      <h3 class="cbd-heading">{{ section.settings.disciption }}</h3>
+      <div class="faq-answer" id="custom--{{forloop.index}}" style="display:none;">
+        {{ product.description }}
+      </div>
+      {% for block in section.blocks %}
+      <div class="faq-heading" data-id="custom--{{forloop.index}}">
+        <h3 class="cbd-heading">{{ block.settings.heading }}</h3>
+        <div class="faq-answer" id="custom--{{forloop.index}}" style="display:none;">
+          <span class="cbd-subtext">{{ block.settings.subtext }}</span>
+          {% if block.settings.list != blank  %}
+          <div class="cbd-list-section">
+          {{ block.settings.list }}
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
+<script>
+  $(document).ready(function() {
+    $(".cbd-heading").click(function() {
+      let $elem = $(this),
+          $target = $(this).next(".faq-answer");
+      $elem.toggleClass("active");
+      $target.toggle();
+      $('.cbd-heading').not($elem).removeClass('active');
+      $('.faq-answer').not($target).hide();
+    }); 
+
+  });
+</script>

@@ -1,0 +1,472 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "166356913310510ba8": {
+      "type": "image-with-text-v2",
+      "blocks": {
+        "b3036c82-04da-4e58-b13f-e11afb2ce0ee": {
+          "type": "caption",
+          "settings": {
+            "caption": "Coral Conservation",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "16635691331f7c76aa-1": {
+          "type": "text",
+          "settings": {
+            "text": "Join Aalia and environmentalist Jolyon Collier as they discuss the concept of coral protection which has enormous potential for preventing environmental damage. Jolyon highlights the importance of feeling connected to the natural world &amp; oceans and the fact that we can preserve our environment by being mindful of our everyday actions.",
+            "text_style": "body"
+          }
+        },
+        "abc0101c-12da-4ce6-ad8d-62a35717c543": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "16635691331f7c76aa-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Go Listen!",
+            "button_link": "https:\/\/podcasts.apple.com\/us\/podcast\/coral-conservation\/id1650676343?i=1000583232726"
+          }
+        }
+      },
+      "block_order": [
+        "b3036c82-04da-4e58-b13f-e11afb2ce0ee",
+        "16635691331f7c76aa-1",
+        "abc0101c-12da-4ce6-ad8d-62a35717c543",
+        "16635691331f7c76aa-2"
+      ],
+      "settings": {
+        "custom_class": "custom-podcast-1 podcast-banner1",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_4.37.33_PM.png",
+        "html_block": "",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166356937722b16682": {
+      "type": "podcast-articles",
+      "disabled": true,
+      "blocks": {
+        "fc5583d7-8ad8-4288-8804-361daa164846": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-5"
+          }
+        },
+        "00fae074-e87d-4d18-a873-87ac850c4dc3": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-1"
+          }
+        },
+        "25ce9c61-a7d8-4575-8e56-0e97e76f8b85": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "planet-earth\/planet-earth-2"
+          }
+        },
+        "6d4ee292-8361-44f3-b216-c5ab661dcfb5": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "planet-earth\/planet-earth-1"
+          }
+        },
+        "35f0b0b2-3da7-4f17-a7a3-d632539fa46d": {
+          "type": "article",
+          "settings": {
+            "single_ariticle": "news\/news-2"
+          }
+        },
+        "38b29747-aa88-49fb-a4aa-1265e024dd5a": {
+          "type": "article",
+          "disabled": true,
+          "settings": {
+            "single_ariticle": "eco-living\/eco-living-1"
+          }
+        },
+        "f5a0ec89-9f2d-42c3-8667-9dcd83a1c73c": {
+          "type": "article",
+          "disabled": true,
+          "settings": {
+            "single_ariticle": "beauty\/beauty"
+          }
+        }
+      },
+      "block_order": [
+        "fc5583d7-8ad8-4288-8804-361daa164846",
+        "00fae074-e87d-4d18-a873-87ac850c4dc3",
+        "25ce9c61-a7d8-4575-8e56-0e97e76f8b85",
+        "6d4ee292-8361-44f3-b216-c5ab661dcfb5",
+        "35f0b0b2-3da7-4f17-a7a3-d632539fa46d",
+        "38b29747-aa88-49fb-a4aa-1265e024dd5a",
+        "f5a0ec89-9f2d-42c3-8667-9dcd83a1c73c"
+      ],
+      "settings": {
+        "title-text": "LATEST EPISODES",
+        "bnt-text": "OLDER EPISODES",
+        "btn_link": ""
+      }
+    },
+    "16636715565bfb37e1": {
+      "type": "multicolumn",
+      "blocks": {
+        "16636715568d6ec18b-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/garments-respecting-1",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_3.07.45_PM.png",
+            "title": "Wild and Exposed",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and nature activist, photographer, and filmmaker Molly Ferrill as they talk about changing relationships between people and nature and collaborating with nature allies.<\/p>"
+          }
+        },
+        "16636715568d6ec18b-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/fashion-psychology",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_3.21.23_PM.png",
+            "title": "Redefining Denim",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and Oak & Acorn Founder and Designer Miko Underwood as they discuss the history of American denim and manufacturing.<\/p>"
+          }
+        },
+        "16636715568d6ec18b-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/the-or-foundations",
+            "image": "shopify:\/\/shop_images\/2019_08_08_77703_1565238907._large_8b22b7bd-e7f6-4dfd-bda2-6371833e8497.jpg",
+            "title": "Ending Overfishing",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and CEO Clare Brook of the Blue Marine Foundation as they discuss methods to dismantle the crisis that is overfishing.<\/p>"
+          }
+        },
+        "ca8eba46-b8af-4001-9bbd-d736e1ae14cb": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/biosynthetic-dyes",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-11_at_12.43.19_PM.png",
+            "title": "And Justice for All",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and Isaias Hernandez, an environmental justice educator talk about making environmental education accessible.<\/p>"
+          }
+        },
+        "88823396-1869-4b1d-8aad-2d6b500d23e5": {
+          "type": "column",
+          "settings": {
+            "image_a": "shopify:\/\/pages\/slow-art",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-11_at_12.50.34_PM.png",
+            "title": "Your Brain on Food",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro and<br\/>Dr.Uma Naidoo chat on the impact of food on mood and other mental health conditions. <\/p>"
+          }
+        },
+        "6703d733-a393-4629-814b-adc682735adc": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-11_at_12.54.02_PM.png",
+            "title": "Coral Conservation",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Join Aalia Mauro andJolyon Collier, founder of Counting Coral chat about how cultures and reefs are connected and why saving these animals is crucial.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16636715568d6ec18b-0",
+        "16636715568d6ec18b-1",
+        "16636715568d6ec18b-2",
+        "ca8eba46-b8af-4001-9bbd-d736e1ae14cb",
+        "88823396-1869-4b1d-8aad-2d6b500d23e5",
+        "6703d733-a393-4629-814b-adc682735adc"
+      ],
+      "settings": {
+        "custom_class": "multicollum_gallary dusra_section",
+        "title": "LATEST EPISODES",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663569613d28d91c4": {
+      "type": "image-banner2",
+      "disabled": true,
+      "settings": {
+        "class_id": "single_image_theroot",
+        "image": "shopify:\/\/shop_images\/CC_THE_ROOT_HOME_BANNER.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1663570876020b8ed3": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1663570876c113a5b7-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-01",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3_Mesa_de_trabajo_1.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "1663570876c113a5b7-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-02",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3-02.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "1663570876c113a5b7-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-03",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3-03.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "97791f61-60d4-4dc7-9919-71fbacb27f8a": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-04",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3-04.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "b41535e4-e7f6-432d-b336-2f88c999558d": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/consciouschatter.com\/season-05",
+            "image": "shopify:\/\/shop_images\/Sin_titulo-3-05.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663570876c113a5b7-0",
+        "1663570876c113a5b7-1",
+        "1663570876c113a5b7-2",
+        "97791f61-60d4-4dc7-9919-71fbacb27f8a",
+        "b41535e4-e7f6-432d-b336-2f88c999558d"
+      ],
+      "settings": {
+        "custom_class": "multicollum_gallary",
+        "title": "LISTEN BY SEASON",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dda21061-76a7-4553-ac8b-52c6b9b59c1a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15904384942251__dda21061-76a7-4553-ac8b-52c6b9b59c1a-1665610137ea7dbff2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE HOST",
+            "heading_size": "h1"
+          }
+        },
+        "template--15904384942251__dda21061-76a7-4553-ac8b-52c6b9b59c1a-1665610137ea7dbff2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hi, I’m Aalia Mauro, Founder of Verte Mode, Verte Magazine and host of The Greening Show. I've been on the front lines of climate activism for over a decade and grew inspired to share my sustainability journey with the world. After years in the retail industry, I’ve seen how parts of the industry have negatively impacted the environment. I wanted to do my part to make a positive impact by living more sustainably and educating myself and others about the climate crisis. I hope you will enjoy my chats with inspiring people.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15904384942251__dda21061-76a7-4553-ac8b-52c6b9b59c1a-1665610137ea7dbff2-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Subscribe",
+            "button_link": "https:\/\/open.spotify.com\/show\/5kL8cOKH4v5i4NnfQ3v6j1?si=45b89013be294b79"
+          }
+        }
+      },
+      "block_order": [
+        "template--15904384942251__dda21061-76a7-4553-ac8b-52c6b9b59c1a-1665610137ea7dbff2-0",
+        "template--15904384942251__dda21061-76a7-4553-ac8b-52c6b9b59c1a-1665610137ea7dbff2-1",
+        "template--15904384942251__dda21061-76a7-4553-ac8b-52c6b9b59c1a-1665610137ea7dbff2-2"
+      ],
+      "settings": {
+        "custom_class": "",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_9.34.51_AM.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16635712643f702db6": {
+      "type": "multicolumn",
+      "blocks": {
+        "1663571264157cb492-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.nylon.com\/articles\/donated-clothes-fast-fashion-impact?utm_source=facebook&utm_medium=social&utm_campaign=nylon",
+            "image": "shopify:\/\/shop_images\/nylon-blue.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "2f4f8207-94ff-4097-817c-daa59aeca1ef": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.thegoodtrade.com\/features\/thought-provoking-podcasts-to-inspire-conscious-sustainable-living",
+            "image": "shopify:\/\/shop_images\/goodtrade-blue.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "2030d2ec-e660-441f-983a-6935a25ec473": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/darlingmagazine.org\/mara-hoffman-shares-sustainable-fashion-really-looks-like\/",
+            "image": "shopify:\/\/shop_images\/darling-blue.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "a5c75d0f-b690-49cf-9e62-ba6d34adca3f": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/www.huffingtonpost.co.uk\/eleanor-oneill\/fashion-how-will-it-refle_b_17316072.html?utm_hp_ref=sustainable-fashion",
+            "image": "shopify:\/\/shop_images\/huffpo-2-blue.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663571264157cb492-1",
+        "2f4f8207-94ff-4097-817c-daa59aeca1ef",
+        "2030d2ec-e660-441f-983a-6935a25ec473",
+        "a5c75d0f-b690-49cf-9e62-ba6d34adca3f"
+      ],
+      "settings": {
+        "custom_class": "multicollum_logos",
+        "title": "AS SEEN ON",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166356913310510ba8",
+    "166356937722b16682",
+    "16636715565bfb37e1",
+    "1663569613d28d91c4",
+    "1663570876020b8ed3",
+    "dda21061-76a7-4553-ac8b-52c6b9b59c1a",
+    "16635712643f702db6"
+  ]
+}

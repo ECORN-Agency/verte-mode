@@ -1,0 +1,192 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "6be99904-7d6a-4c9c-9035-c823c3ba1037": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15927725523115__6be99904-7d6a-4c9c-9035-c823c3ba1037-16653389516082d2dd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQs",
+            "heading_size": "h0"
+          }
+        },
+        "template--15927725523115__6be99904-7d6a-4c9c-9035-c823c3ba1037-16653389516082d2dd-1": {
+          "type": "text",
+          "settings": {
+            "text": "A few FAQs about Verte Mode and our ethos:",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927725523115__6be99904-7d6a-4c9c-9035-c823c3ba1037-16653389516082d2dd-0",
+        "template--15927725523115__6be99904-7d6a-4c9c-9035-c823c3ba1037-16653389516082d2dd-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-02_at_12.28.08_PM.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "7811d983-7e59-4b46-9aa4-6d13d94bbde2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15927719821483__7811d983-7e59-4b46-9aa4-6d13d94bbde2-1665270601ab4ddb75-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>FAQs<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--15927719821483__7811d983-7e59-4b46-9aa4-6d13d94bbde2-1665270601ab4ddb75-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Transparency<br\/><\/strong>We believe in open communication with not only our customers, but our brands. That means that we want our customers to have access to information about everything they’re buying and who they’re supporting. To learn more about each brand that has joined us, please visit their profile on our partnerships page.<\/p><p><strong>Supply Chain<br\/><\/strong>To the best of our abilities, we will strive to learn our partners’ supply chain processes to ensure the brands we host on our platform follow an honest pipeline. It’s important to us that, from start to finish, the products we carry are not made from exploitive labor or harmful materials. <\/p><p><strong>Materials\/Ingredients<br\/><\/strong>We believe in ensuring safe, non-toxic ingredients throughout all our product ranges. In addition, we offer a variety of organic and natural products ranging from cleaning supplies to beauty care.<\/p><p><strong>Labor Force\/Safety\/Living Wage<br\/><\/strong>A safe work environment, a living wage, and an ethical labor force are not only requirements, but also human rights. We ONLY work with partners that ensure their workers are treated not only fairly, but humanely.<\/p><p><strong>Accountability<br\/><\/strong>Although we would love to visit all our partners on a regular basis, doing that would mean we would never have enough time to focus on YOU, the customer! So, we are happy that the majority, if not all of our partners, have one or more of the following certifications: <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927719821483__7811d983-7e59-4b46-9aa4-6d13d94bbde2-1665270601ab4ddb75-0",
+        "template--15927719821483__7811d983-7e59-4b46-9aa4-6d13d94bbde2-1665270601ab4ddb75-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "bcd67c42-423b-473b-a05e-0f73ae89a4ea": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15927725523115__bcd67c42-423b-473b-a05e-0f73ae89a4ea-1665271158727c7329-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "SOCIAL ETHICS",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>B-Corp<br\/>Sustainable Apparel Coalition (SAC)<br\/>Remake<br\/>Social Accountability Accreditation Services (SAAS)<\/p>"
+          }
+        },
+        "template--15927725523115__bcd67c42-423b-473b-a05e-0f73ae89a4ea-1665271158727c7329-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "LABOR",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Guaranteed Fair Trade<br\/>Social Accountability International (SA8000)<br\/>Worldwide Responsible Accredited Production (WRAP)<br\/>Fair Trade Certified<\/p>"
+          }
+        },
+        "template--15927725523115__bcd67c42-423b-473b-a05e-0f73ae89a4ea-1665271158727c7329-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "ENVIRONMENTAL",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Carbon Trust<br\/>Certified Carbon Neutral<br\/>Carbon-free<br\/>Forest Stewardship Council (FSC)<br\/>Rainforest Alliance Certified<br\/>Bluesign Standard<br\/>Oeko-Tex Standard 100<br\/>Global Recycled Standard<br\/>Eco-Cert<\/p>"
+          }
+        },
+        "76d249c6-aae7-4484-9728-f70a031c3e7f": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "CRUELTY-FREE",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Leaping Bunny<br\/>PETA<\/p>"
+          }
+        },
+        "27930e00-bc64-48d5-8143-94e9890c0b33": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "title": "ORGANIC",
+            "html_frame": "",
+            "show_button": false,
+            "button_text": "",
+            "text": "<p>Global Organic Textile Standard (GOTS)<br\/>USDA Organic<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927725523115__bcd67c42-423b-473b-a05e-0f73ae89a4ea-1665271158727c7329-0",
+        "template--15927725523115__bcd67c42-423b-473b-a05e-0f73ae89a4ea-1665271158727c7329-1",
+        "template--15927725523115__bcd67c42-423b-473b-a05e-0f73ae89a4ea-1665271158727c7329-2",
+        "76d249c6-aae7-4484-9728-f70a031c3e7f",
+        "27930e00-bc64-48d5-8143-94e9890c0b33"
+      ],
+      "settings": {
+        "custom_class": "center",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "629fd1b3-cc13-4052-98b1-2b4201a1d49d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15927725523115__629fd1b3-cc13-4052-98b1-2b4201a1d49d-16652732889d7d4f48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Philosophy<br\/><\/strong>As a company founded by a woman of color and a mother to a daughter, we believe in sharing our platform for the BIPOC community, fellow female founders, talented artisans, and made in USA brands. To learn more about each brand and to shop from our selection, click on each category below.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927725523115__629fd1b3-cc13-4052-98b1-2b4201a1d49d-16652732889d7d4f48-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6be99904-7d6a-4c9c-9035-c823c3ba1037",
+    "7811d983-7e59-4b46-9aa4-6d13d94bbde2",
+    "bcd67c42-423b-473b-a05e-0f73ae89a4ea",
+    "629fd1b3-cc13-4052-98b1-2b4201a1d49d"
+  ]
+}

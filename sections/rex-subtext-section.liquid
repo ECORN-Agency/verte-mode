@@ -1,0 +1,33 @@
+<div class="rex-subtext-section">
+  <div class="page-width">
+    <div class="inner-rex-subtext-section">
+      <span class="rex-down-subtext">{{ section.settings.subtext }}</span>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Rex Subtext Section",
+    "settings": [
+      {
+        "type": "richtext",
+        "id":   "subtext",
+        "label":"Contant"
+      }
+    ],
+    "presets":[
+      {
+        "name": "Rex Subtext Section",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

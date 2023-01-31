@@ -1,0 +1,250 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "418dfabf-b16a-497b-9366-382e15d10f57": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "62e3c694-0249-4db7-8021-7ab7b9af32b3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "62e3c694-0249-4db7-8021-7ab7b9af32b3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ced2e730372253.561fd228b545c.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "bce4026f-55d9-4363-90cf-e923bfd0524d": {
+      "type": "featured-collectionv2",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "collection_link": "",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1ed0e562-b557-4cad-9362-4cbdda0b9235": {
+      "type": "image_baner",
+      "blocks": {
+        "template--15928909234347__1ed0e562-b557-4cad-9362-4cbdda0b9235-167125045280aa77f0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--15928909234347__1ed0e562-b557-4cad-9362-4cbdda0b9235-167125045280aa77f0-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/213f69149416561.62e78e1d3a310_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "2693d165-9add-4c65-9c65-36690670a9d3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15927765270699__2693d165-9add-4c65-9c65-36690670a9d3-166527470393eb1708-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Sustainable Shopping & Living Made Easier & More Accessible to All <\/strong><\/p><p>At Verte Mode, we’re on a mission to make the world a greener, more sustainable place and that starts by doing our part to make sustainable shopping and living easier and more accessible for you. Verte mode is a first-of-its-kind personalized, curated sustainable and resale marketplace with a vast range of products & brands across fashion, beauty, tech, home goods and more so it’s easy to find everything you need, sustainably. <\/p><p>We have a rigorous vetting process where each of our brands are evaluated for sustainable and ethical practices throughout the supply chain so you can trust that every product & brand on Verte Mode meets the highest of sustainability standards with radical transparency. As a woman owned and led brand, Verte Mode encourages and fosters relationships with the BIPOC community, fellow female founders, talented artisans, and made in USA brands, supporting sustainable products, fair labor practices, toxic and cruelty-free guidelines, including plastic-free packaging and shipping. <\/p><p>Imagine the difference we can make if we all shopped & lived a little greener?<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927765270699__2693d165-9add-4c65-9c65-36690670a9d3-166527470393eb1708-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 56
+      }
+    },
+    "23a22573-7109-4d08-b713-d8e3f1075d91": {
+      "type": "home-block-image",
+      "settings": {
+        "heading": ""
+      }
+    },
+    "34ab8d1d-74af-4d9d-85c5-44cebbdb689e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15927765270699__34ab8d1d-74af-4d9d-85c5-44cebbdb689e-166527505274dd47ee-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_9.34.51_AM.png",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "show_atc": false,
+            "selling_plan": "",
+            "product": "",
+            "button_text": "",
+            "text": ""
+          }
+        },
+        "template--15927765270699__34ab8d1d-74af-4d9d-85c5-44cebbdb689e-166527505274dd47ee-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "https:\/\/vertemode.com\/collections\/aalias-essentials-kit-1",
+            "title": "",
+            "html_frame": "",
+            "show_button": true,
+            "show_atc": false,
+            "selling_plan": "",
+            "product": "",
+            "button_text": "Shop Aalia's Essentials Kit",
+            "text": "<p>Hi, I’m Aalia Mauro, Founder of Verte Mode, Verte Magazine and host of The Greening Show. I've been on the front lines of climate activism for over a decade and grew inspired to build a truly sustainable marketplace to make shopping and living sustainably easier and more accessible to all. After several years in the retail industry, I’ve seen how parts of the industry have negatively impacted the environment so I wanted to do my part to make a positive impact by living more sustainably. But then I found I was spending hours searching for sustainable alternatives and oftentimes, I never really knew if the products were green given the lack of standards and green washing in the marketplace. So, I started Verte Mode. I hope you enjoy the Verte Mode marketplace & experience. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15927765270699__34ab8d1d-74af-4d9d-85c5-44cebbdb689e-166527505274dd47ee-0",
+        "template--15927765270699__34ab8d1d-74af-4d9d-85c5-44cebbdb689e-166527505274dd47ee-1"
+      ],
+      "settings": {
+        "custom_class": "center",
+        "title": "Our Founder",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 68
+      }
+    },
+    "ac9d6238-c20a-4334-a11c-e92597b3bea7": {
+      "type": "image-banner2",
+      "blocks": {
+        "template--15928909234347__ac9d6238-c20a-4334-a11c-e92597b3bea7-16712180373f5f8990-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "SIGN UP TO OUR NEWSLETTER",
+            "heading_size": "h1"
+          }
+        },
+        "template--15928909234347__ac9d6238-c20a-4334-a11c-e92597b3bea7-16712180373f5f8990-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Stay up to date with the latest tips & trends on sustainable living",
+            "text_style": "body"
+          }
+        },
+        "9400a295-5919-4f18-a62e-66e02d52ed6a": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Sign Up",
+            "button_link_1": "shopify:\/\/pages\/newsletter",
+            "button_style_secondary_1": false,
+            "button_label_2": "Sumbit",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15928909234347__ac9d6238-c20a-4334-a11c-e92597b3bea7-16712180373f5f8990-0",
+        "template--15928909234347__ac9d6238-c20a-4334-a11c-e92597b3bea7-16712180373f5f8990-1",
+        "9400a295-5919-4f18-a62e-66e02d52ed6a"
+      ],
+      "settings": {
+        "class_id": "",
+        "image": "shopify:\/\/shop_images\/747bef157700295.637dd60bd2904.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "39be4c25-01ad-4bef-b358-178511dc143e": {
+      "type": "home-collection-section",
+      "settings": {
+        "heading": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "418dfabf-b16a-497b-9366-382e15d10f57",
+    "bce4026f-55d9-4363-90cf-e923bfd0524d",
+    "1ed0e562-b557-4cad-9362-4cbdda0b9235",
+    "2693d165-9add-4c65-9c65-36690670a9d3",
+    "23a22573-7109-4d08-b713-d8e3f1075d91",
+    "34ab8d1d-74af-4d9d-85c5-44cebbdb689e",
+    "ac9d6238-c20a-4334-a11c-e92597b3bea7",
+    "39be4c25-01ad-4bef-b358-178511dc143e"
+  ]
+}

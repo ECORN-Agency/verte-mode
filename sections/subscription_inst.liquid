@@ -1,0 +1,84 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="home-block-image-section insta_section">
+  <div class="p-20">
+    <div class="inner-home-block-image-section">
+      {% if section.settings.heading != blank %}
+      <h2 class="home-image-section-main-heading">{{ section.settings.heading }}</h2>
+        {% endif %}
+        <div class="all-items">
+          {% for block in section.blocks %}
+            <div class="collection-single-block">
+            {% if block.settings.image != blank %}
+              <div class="img-scale"> 
+              <a href="{{ block.settings.link }}">
+              <img src="{{ block.settings.image | img_url : '' }}" alt="{{ block.settings.image.alt }}">
+              <div class="inst_section"> 
+<i class="fa fa-instagram" aria-hidden="true"></i>
+
+<p>Upload a Post</p>
+<div class="right_icon_text">
+<i class="fa fa-angle-right" aria-hidden="true"></i>
+
+</div>
+</div>             
+ </a>
+              
+              </div>
+              <h3 class="title">{{ block.settings.heading }}</h3>
+              {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "sub Block Image",
+    "settings": [
+        {
+          "type":  "text",
+          "id":    "heading",
+          "label": "Heading"
+        }
+    ],
+    "blocks": [
+    {
+      "name": "Image Text",
+      "type": "image-text",
+      "settings": [
+          {
+             "type":  "image_picker",
+             "id":    "image",
+             "label": "Image"
+          },
+          {
+          "type":  "text",
+          "id":    "heading",
+          "label": "Heading"
+           },
+           {
+          "type":  "url",
+          "id":    "link",
+          "label": "Link"
+           }
+      ]
+    }
+    ],
+    "presets":[
+    {
+      "name": "sub Block Image",
+      "category": "Custom"
+    }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

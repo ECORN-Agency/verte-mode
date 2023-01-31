@@ -1,0 +1,74 @@
+<div class="{{ section.settings.custom_class }} Home-Content-With-Button-section">
+  <div class="page-width">
+    <div class="inner-Home-Content-With-Button-section">
+      {% for block in section.blocks%}
+      <div class="single-logo-item">
+        <span class="single-svg">{{ block.settings.svg }}</span>
+        <h5 class="svg-heading">{{ block.settings.heading }}</h5>
+        {{ block.settings.subtext }}
+        <a class="button" href="{{ block.settings.link }}">{{ block.settings.button }}</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
+
+{% schema %}
+  {
+    "name": "Home Content With Button",
+    "settings": [
+       {
+        "type": "text",
+        "id":   "custom_class",
+        "label":"Custom Class"
+      }
+    ],
+     "blocks":[
+    {
+      "name": "SVG Text",
+      "type": "svg-text",
+      "settings": [
+        {
+        "type": "html",
+        "id":   "svg",
+        "label":"SVG"
+        },
+        {
+          "type": "text",
+          "id":   "heading",
+          "label":"Heading"
+        },
+        {
+          "type": "richtext",
+          "id":   "subtext",
+          "label":"Content"
+        },
+        {
+          "type":  "text",
+          "id":    "button",
+          "label": "Button"
+        },
+        {
+          "type": "url",
+          "id":   "link",
+          "label":"Link"
+        }
+      ]
+    }
+    ],
+    "presets":[
+      {
+        "name": "Home Content With Button",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

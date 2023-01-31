@@ -1,0 +1,223 @@
+
+<style>
+.slick-list.draggable {
+    max-width: 1110px;
+}
+.logo-list-parent.slick-initialized.slick-slider.slick-dotted:before {
+    content: '';
+    width: 20px;
+    height: 100%;
+    background: url(https://cdn.shopify.com/s/files/1/0543/5775/4027/files/222.png?v=1668612461);
+    position: absolute;
+    left: 0;
+    z-index: 999;
+    top: 0;
+    background-position: center;
+    background-repeat: no-repeat !IMPORTANT;
+}
+
+ul.slick-dots {
+    display: none !important;
+}
+
+.logo-list-parent.slick-initialized.slick-slider.slick-dotted {
+    padding-bottom: 20px !important;
+    padding-top: 20px !important;
+}
+
+.logo-list-parent.slick-initialized.slick-slider.slick-dotted:after {
+    content: '';
+    width: 20px;
+    height: 100%;
+    background: url(https://cdn.shopify.com/s/files/1/0543/5775/4027/files/333.png?v=1668612461);
+    position: absolute;
+    right: 0;
+    z-index: 999;
+    top: 0;
+    background-position: center;
+    background-repeat: no-repeat !IMPORTANT;
+}
+
+button.slick-prev.slick-arrow {
+    z-index: 999;
+    background: url(https://cdn.shopify.com/s/files/1/0543/5775/4027/files/55555.png?v=1668612485) !important;
+    width: 45px !important;
+    height: 89px !important;
+    background-size: 100%;
+    background-position: center !important;
+    left: -1px;
+}
+
+.slick-prev:before {
+    color: transparent !important;
+}
+
+button.slick-next.slick-arrow {
+    z-index: 999999;
+    background: url(https://cdn.shopify.com/s/files/1/0543/5775/4027/files/666666.png?v=1668613286) !important;
+    width: 45px !important;
+    height: 89px !important;
+    background-size: 100%;
+    background-position: center !important;
+       right: -1px;
+}
+
+.slick-next:before {
+    color: transparent !important;
+}
+section.logo-list.new-image-section {
+    margin-bottom: 45px;
+}
+@media screen and (max-width: 767px) {
+.template-page-subscription-detail .banner__box.content-container.content-container--full-width-mobile.color-accent-1.gradient {
+    background: transparent;
+}
+
+section.logo-list.new-image-section .slick-list.draggable {
+    width: 100% !important;
+    max-width: unset !important;
+}
+
+section.logo-list.new-image-section {}
+
+.slick-track {
+    /* width: 100% !important; */
+}
+
+section#shopify-section-template--15973666848939__73811c5c-f442-414c-a8b4-71c9ba2fb221 {
+    padding-top: 0 !important;
+}
+div#ImageWithText--template--15973666848939__18b09937-7a8e-4892-a93e-2cd0ee5d66a8 {
+    padding-left: 0;
+}
+
+button.slick-prev.slick-arrow {
+    width: 45px !important;
+    height: 89px !important;
+    width: 28px !important;
+    height: 46px !important;
+    border-top-right-radius: 39px;
+    border-bottom-right-radius: 39px;
+}
+
+button.slick-next.slick-arrow {
+    width: 28px !important;
+    height: 46px !important;
+    border-top-left-radius: 39px;
+    border-bottom-left-radius: 39px;
+}
+.template-page-subscription-detail .banner__box.content-container.content-container--full-width-mobile.color-accent-1.gradient {
+    background: transparent;
+}
+
+section.logo-list.new-image-section .slick-list.draggable {
+    width: 100% !important;
+    max-width: 300px !important;
+}
+
+section.logo-list.new-image-section {}
+
+.slick-track {
+    /* width: 100% !important; */
+}
+
+section#shopify-section-template--15973666848939__73811c5c-f442-414c-a8b4-71c9ba2fb221 {
+    padding-top: 0 !important;
+}
+}
+
+
+</style>
+
+<section class="logo-list new-image-section">
+ <div class="logo-list-parent">
+   {% for block in section.blocks %}
+     {% assign logo_img = block.settings.image %}
+     {% if logo_img != blank %}
+    <div> <div class="logo-list-child">
+       <img src="{{ logo_img | img_url : 'master' }}" alt="logo-images">
+     </div></div>
+     {% endif %}  
+   {% endfor %}
+ </div>
+</section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+<script>
+$(document).ready(function() {
+$('.logo-list-parent').slick({
+  dots: true,
+  infinite: false,
+  speed: 300,
+  slidesToShow: 5,
+  slidesToScroll: 5,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: true
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+});
+});
+
+  
+</script>
+
+{% schema %}
+  { 
+    "name": "image carousel section",
+    "class": "logo-list-section",
+    "settings": [],
+    "blocks": [
+     {
+       "name": "logo",
+       "type": "image",
+       "settings": [
+         {
+           "type": "image_picker",
+           "id": "image",
+           "label": "Image"
+         },
+         {
+          "type": "article",
+          "id": "article",
+          "label": "Article"
+        }
+       ]
+     }
+   ],
+    "presets": [
+      {"name": "image carousel section"}
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

@@ -1,0 +1,112 @@
+<div class="blog-recent-post-section">
+  <div class="page-width">
+    <div class="inner-blog-recent-post-section">
+      <div class="more-post-top-text-section">
+      <h3 class="left-more-post-top-text">{{ section.settings.heading }}</h3>
+        <a href="{{ section.settings.view_all_link }}">
+        {{ section.settings.view_all }} <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><title/><g data-name="Layer 2" id="Layer_2"><path d="M22,9a1,1,0,0,0,0,1.42l4.6,4.6H3.06a1,1,0,1,0,0,2H26.58L22,21.59A1,1,0,0,0,22,23a1,1,0,0,0,1.41,0l6.36-6.36a.88.88,0,0,0,0-1.27L23.42,9A1,1,0,0,0,22,9Z"/></g></svg>
+        </a>
+      </div>
+      <div class="blog-recent-post-main-section">
+        <div class="left-blog-recent-post-main-section">
+          <a href="{{ section.settings.link }}">
+          {% if section.settings.image != blank %}
+          <img src="{{ section.settings.image | img_url : '' }}">
+          {% endif %}
+          </a>
+        </div>
+        <div class="right-blog-recent-post-main-section {% if section.settings.text-layout == 'left' %}text-left{% else %}text-right{% endif %}">
+          <div class="blog-inner-box">
+          <a href="{{ section.settings.link }}">
+          <h2 class="right-blog-title">{{ section.settings.main_heading }}</h2>
+            </a>
+          {% if section.settings.subtext != blank %}
+          <span class="blog-page-text">{{ section.settings.subtext }}</span>
+            {% endif %}
+            <a class="blog-link" href="{{ section.settings.link }}">
+              <span class="readmore">{{ section.settings.readmore_text }}</span>
+              </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+{% schema %}
+  {
+    "name": "Blog recent Post",
+    "settings": [
+       {
+      "type": "select",
+      "id": "text-layout",
+       "options": [
+          {
+            "value": "left",
+            "label": "Left" 
+          },
+          {
+            "value": "right",
+            "label": "Right"
+          }
+        ],
+        "default": "left",
+	    "label": "Selelct Text Layout"
+        },
+      {
+        "type": "text",
+        "id":   "heading",
+        "label":"Heading"
+      },
+      {
+        "type": "text",
+        "id":   "view_all",
+        "label": "View All Text"
+      },
+      {
+        "type":  "url",
+        "id":    "view_all_link",
+        "label": "View All Link"
+      },
+      {
+        "type": "image_picker",
+        "id":   "image",
+        "label":"Image"
+      },
+      {
+        "type": "text",
+        "id":   "main_heading",
+        "label":"Title"
+      },
+      {
+        "type":  "richtext",
+        "id":    "subtext",
+        "label": "Content"
+      },
+      {
+        "type":  "text",
+        "id":    "readmore_text",
+        "label": "Readmore"
+      },
+      {
+        "type":  "url",
+        "id":    "link",
+        "label":"Link"
+      }
+    ],
+    "presets":[
+      {
+        "name": "Blog recent Post",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

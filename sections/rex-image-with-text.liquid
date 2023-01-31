@@ -1,0 +1,62 @@
+<div class="rex-image-with-text-section">
+  <div class="rex-image-text-left-section">
+
+      <div class="inner-rex-image-text-left-section">
+        <h3 class="rex-left-heading">{{ section.settings.heading }}</h3>
+        <span class="rex-left-subtext">{{ section.settings.subtext }}</span>
+        <a class="button" href="{{ section.settings.link }}">{{ section.settings.button }}</a>
+      </div>
+
+  </div>
+  <div class="rex-image-text-right-section">
+    {% if section.settings.image != blank %}
+    <img src="{{ section.settings.image | img_url }}">
+    {% endif %}
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Rex Image With Text",
+    "settings": [
+      {
+        "type": "text",
+        "id":   "heading",
+        "label":"Heading"
+      },
+      {
+        "type": "richtext",
+        "id":   "subtext",
+        "label":"Content"
+      },
+      {
+        "type": "text",
+        "id":   "button",
+        "label":"Button"
+      },
+      {
+        "type": "url",
+        "id":   "link",
+        "label":"Link"
+      },
+      {
+        "type": "image_picker",
+        "id":   "image",
+        "label":"Image"
+      }
+    ],
+    "presets":[
+      {
+        "name": "Rex Image With Text",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

@@ -1,0 +1,46 @@
+<div class="bg-text-section">
+    <div class="page-width">
+       <div class="bg-text-section-inner">
+         <h4>{{ section.settings.subtext }}</h4>
+         <div class="bg-text-section-button">
+           <a class="button" href="{{ section.settings.link }}">{{ section.settings.button }}</a>
+         </div>
+       </div>
+    </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Home Button Text",
+    "settings": [
+        {
+            "type": "richtext",
+            "id":   "subtext",
+            "label":"Content"
+        },
+        {
+            "type": "text",
+            "id":   "button",
+            "label":"Button"
+        },
+        {
+            "type": "url",
+            "id":   "link",
+            "label":"Link"
+        }
+    ],
+    "presets":[
+    {
+       "name": "Home Button Text",
+       "category": "custom"
+    }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

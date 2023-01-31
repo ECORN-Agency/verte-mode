@@ -1,0 +1,593 @@
+{
+  "sections": {
+    "1658383506fcf3100a": {
+      "type": "home-slider-section",
+      "blocks": {
+        "9a641f0d-4206-4e78-beca-8da438d248db": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1people_31933eef-e352-40c8-a989-878c4d32e7ef.jpg",
+            "heading": "Conscious Style",
+            "sub_heading": "Highest Quality Materials. Made To Last",
+            "button": "Shop Fashion",
+            "link": "https:\/\/vertemode.com\/collections\/beauty",
+            "text_color": "#ffffff"
+          }
+        },
+        "49154bc3-4756-417b-b45d-4548e8e95f58": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/subscriptionslide2.jpg",
+            "heading": "Zero Waste  <br>ECO-BOX",
+            "sub_heading": "Get unique plastic-free essentials!",
+            "button": "Subscribe Now",
+            "link": "shopify:\/\/pages\/winter-box",
+            "text_color": "#ffffff"
+          }
+        },
+        "f458424e-edee-4887-9c8e-ab46be16d65e": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/00b52f139384397.622f1cf4d0ea9.jpg",
+            "heading": "Become A Member",
+            "sub_heading": "Join our community of individuals making impactful changes in their lifestyle to help preserve our planet for all!",
+            "button": "JOIN NOW",
+            "link": "shopify:\/\/pages\/membership",
+            "text_color": "#ffffff"
+          }
+        },
+        "4f7c77c7-f1e3-4c09-9672-9175915eb547": {
+          "type": "slider",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/header-banner_105b5ec9-9027-47b0-8162-22b1706f9110.jpg",
+            "heading": "SUBSCRIBE TO<br>OUR WINTER BOX",
+            "sub_heading": "SAVE OVER 40% <br>(Limited Time Only)",
+            "button": "SUBSCRIBE NOW",
+            "link": "shopify:\/\/pages\/winter-box",
+            "text_color": "#38533f"
+          }
+        }
+      },
+      "block_order": [
+        "9a641f0d-4206-4e78-beca-8da438d248db",
+        "49154bc3-4756-417b-b45d-4548e8e95f58",
+        "f458424e-edee-4887-9c8e-ab46be16d65e",
+        "4f7c77c7-f1e3-4c09-9672-9175915eb547"
+      ],
+      "settings": {}
+    },
+    "8fda566d-866d-420e-a13a-a4d27f741079": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15773237379243__8fda566d-866d-420e-a13a-a4d27f741079-1670539714692259b7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Sustainable Living Made Easy<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15773237379243__8fda566d-866d-420e-a13a-a4d27f741079-1670539714692259b7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We curate eco-friendly products using a vetting process<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15773237379243__8fda566d-866d-420e-a13a-a4d27f741079-1670539714692259b7-0",
+        "template--15773237379243__8fda566d-866d-420e-a13a-a4d27f741079-1670539714692259b7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "165847116889cf6926": {
+      "type": "home-image-text",
+      "blocks": {
+        "a2abb64e-891a-40bb-ae98-c8ae237aa09f": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/earth-icon.png",
+            "heading": "All Green, All the Time",
+            "subtext": "<p>We deliver each and every one of our 100% ethical and earth-friendly goods with love and carefully crafted methods.<\/p>",
+            "link": "https:\/\/verte-mode.myshopify.com\/pages\/brand-evaluation#shopify-section-template--15922817106091__3763c359-0cea-4784-bfa3-62d0e3052752"
+          }
+        },
+        "d073fadb-a163-4c2b-86c8-57517574fc7a": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HandHeart-icon.png",
+            "heading": "100% Fair & Trusted",
+            "subtext": "<p>We are committed to sustainable ingredients, fair trade practices, and trustworthy manufacturing.<\/p>",
+            "link": "https:\/\/verte-mode.myshopify.com\/pages\/brand-evaluation#shopify-section-template--15922817106091__1560fc36-b504-451b-8bb6-27e483b2d076"
+          }
+        },
+        "b17a8d53-1150-40dd-b1c8-d98404a9ca93": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leaf-icon.webp",
+            "heading": "Tested For Impact",
+            "subtext": "<p>We closely evaluate each brand to offer what you value most: carbon-neutral, ethical, and equitable comfort. <\/p>",
+            "link": "https:\/\/verte-mode.myshopify.com\/pages\/brand-evaluation#shopify-section-template--15922817106091__63bbd0c4-4e51-40ae-a37b-f1086bef1dde"
+          }
+        }
+      },
+      "block_order": [
+        "a2abb64e-891a-40bb-ae98-c8ae237aa09f",
+        "d073fadb-a163-4c2b-86c8-57517574fc7a",
+        "b17a8d53-1150-40dd-b1c8-d98404a9ca93"
+      ],
+      "settings": {
+        "class-slider": "",
+        "heading": "",
+        "link": "",
+        "sub_heading": ""
+      }
+    },
+    "8103cde5-8544-4af2-9389-0526b70a9a4b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15773237379243__8103cde5-8544-4af2-9389-0526b70a9a4b-1668599975465f6407-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You deserve products without plastic and harmful chemicals. With Verte Mode, you can shop confidently knowing that what you’re buying is good for you <em>and<\/em> good for the planet!<\/p><p><a href=\"https:\/\/vertemode.com\/pages\/brand-evaluation\" title=\"https:\/\/vertemode.com\/pages\/brand-evaluation\">Sustainable Brand Evaluation <\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15773237379243__8103cde5-8544-4af2-9389-0526b70a9a4b-1668599975465f6407-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "16619342185c07517e": {
+      "type": "featured-collectionv2",
+      "settings": {
+        "title": "HOLIDAY GIFTING",
+        "heading_size": "h1",
+        "collection_link": "",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "this-week-s-pick",
+        "products_to_show": 5,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1661947682554deb29": {
+      "type": "featured-collectionv2",
+      "settings": {
+        "title": "BASK IN BUNDLES",
+        "heading_size": "h1",
+        "collection_link": "shopify:\/\/collections\/bundles",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "bundles",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658728799e036fd15": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "THIS WEEK'S PICK",
+        "heading_size": "h1",
+        "description": "<p><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "home",
+        "products_to_show": 12,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "165847341440233615": {
+      "type": "home-single-image",
+      "settings": {
+        "custom_class": "our-bs-custom_class",
+        "heading": "OUR BRANDS MEET THE HIGHEST OF STANDARDS",
+        "image": "shopify:\/\/shop_images\/logo-images.png",
+        "button": "SHOP BRANDS",
+        "link": "shopify:\/\/pages\/brand-we-love"
+      }
+    },
+    "1658489374064d2f3c": {
+      "type": "home-custom-collection",
+      "blocks": {
+        "7ff4042d-5e4f-41a3-a36a-2e1afa44e712": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/220714_____0927_.jpg_1.jpg",
+            "subtext": "<p>Using K-beauty technology,<strong> Tidalove<\/strong> creates low-effort beauty products that have a high-impact on the planet.<\/p>",
+            "link": "shopify:\/\/collections\/tidalove"
+          }
+        },
+        "478d41b0-c6fc-4558-9699-024596583ae1": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Trial-and-Travel-Kit-Activist-Skincare.jpg",
+            "subtext": "<p><strong>Activist Skincare <\/strong>lovingly produces micro-batches of super-effective, eco-friendly skincare for happier skin and planet.<\/p>",
+            "link": "shopify:\/\/collections\/activist-skincare"
+          }
+        }
+      },
+      "block_order": [
+        "7ff4042d-5e4f-41a3-a36a-2e1afa44e712",
+        "478d41b0-c6fc-4558-9699-024596583ae1"
+      ],
+      "settings": {
+        "heading": "FEATURED BRANDS"
+      }
+    },
+    "1658730175f5014e1c": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "ECO-CONSCIOUS ESSENTIALS",
+        "heading_size": "h1",
+        "description": "<p><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "home",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "16584776854900805d": {
+      "type": "home-content-with-button",
+      "blocks": {
+        "7e04212a-40ab-40e2-8115-13a4f51e4893": {
+          "type": "svg-text",
+          "settings": {
+            "svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 30.51 23.67\"><defs><style>.d{stroke-width:1.52px;}.d,.e{stroke-miterlimit:10;}.d,.e,.f{fill:none;stroke:#000;}.e,.f{stroke-width:1.5px;}.f{stroke-linejoin:round;}<\/style><\/defs><g id=\"a\"><\/g><g id=\"b\"><g id=\"c\"><g><path d=\"M13.59,6.24c-.15-.6-.64-1.07-1.24-1.21-.87-.19-1.66,.29-1.95,1.03-.04,.1-.18,.1-.22,0-.28-.74-1.08-1.22-1.95-1.03-.6,.13-1.09,.61-1.24,1.2-.12,.48-.02,.93,.22,1.35,.54,.93,1.08,1.85,1.62,2.78l1.12,1.92s.07,.14,.08,.14c.11,.19,.39,.19,.5,0l.52-.89,1.08-1.86c.31-.54,.62-1.07,.94-1.61,.17-.28,.37-.58,.48-.89s.11-.64,.03-.95Z\"><\/path><path d=\"M17.02,12.04c0-.37,.12-.75,.36-1.13s.59-.7,1.04-.95,.99-.38,1.6-.38c.57,0,1.07,.1,1.5,.31s.77,.49,1,.85,.35,.75,.35,1.17c0,.33-.07,.62-.2,.87s-.29,.47-.48,.65-.52,.49-1,.92c-.13,.12-.24,.23-.32,.32s-.14,.18-.18,.25-.07,.15-.09,.23-.05,.21-.1,.4c-.07,.41-.31,.61-.7,.61-.2,0-.37-.07-.51-.2s-.21-.33-.21-.59c0-.33,.05-.61,.15-.85s.24-.45,.4-.63,.39-.4,.68-.65c.25-.22,.43-.38,.54-.5s.21-.24,.28-.37,.11-.29,.11-.45c0-.31-.12-.58-.35-.79s-.53-.32-.9-.32c-.43,0-.75,.11-.95,.33s-.38,.54-.52,.96c-.13,.44-.38,.66-.76,.66-.22,0-.4-.08-.55-.23s-.23-.32-.23-.5Zm2.86,6.42c-.24,0-.45-.08-.62-.23s-.27-.37-.27-.65c0-.25,.09-.45,.26-.62s.38-.25,.63-.25,.45,.08,.62,.25,.25,.38,.25,.62c0,.27-.09,.49-.26,.64s-.38,.23-.61,.23Z\"><\/path><line class=\"e\" x1=\"4.7\" y1=\"15.22\" x2=\"4.7\" y2=\"15.21\"><\/line><path class=\"f\" d=\"M9.98,13.86c0,1.05,.25,2.05,.7,2.97h-.04c-2.14,0-4.12-.55-5.74-1.49-.11-.06-.24,0-.28,.11-.2,.62-.34,1.17-.42,1.68-.14,.87-1.39,.88-1.6,.02-.46-1.93-.37-3.75-.35-4.05,0-.03,0-.06-.03-.09-.94-1.23-1.48-2.68-1.48-4.23C.75,4.35,5.18,.75,10.64,.75c4.04,0,7.53,1.98,9.05,4.81,.06,.12-.03,.27-.17,.27-5.3,.15-9.55,3.68-9.55,8.03Zm19.78,0c0-4.44-4.43-8.03-9.89-8.03h-.04c-5.44,.02-9.85,3.6-9.85,8.03,0,1.05,.25,2.05,.7,2.97,1.45,2.97,5.02,5.07,9.19,5.07,2.21,0,4.26-.59,5.9-1.59,.22,.71,.35,1.36,.43,1.93,.11,.86,1.36,.92,1.58,.08,.53-2.02,.47-3.92,.46-4.18,.96-1.24,1.52-2.71,1.52-4.28Z\"><\/path><path class=\"f\" d=\"M25.77,20.31s0-.05-.02-.07\"><\/path><path class=\"d\" d=\"M28.24,18.14v-.03\"><\/path><\/g><\/g><\/g><\/svg>",
+            "heading": "Customer ASSISTANCE",
+            "subtext": "<p>Please contact us directly for any customer service issues or questions via our online chat, request form or at <a href=\"mailto:info@vertemode.com\" title=\"mailto:info@vertemode.com\">info@vertemode.com<\/a><\/p>",
+            "button": "Contact Us",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        },
+        "83a95551-2ec5-4ef7-b6ad-f2480f59c76e": {
+          "type": "svg-text",
+          "settings": {
+            "svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\"><defs><style>.b{fill:none;}.b,.c{stroke:#000;stroke-miterlimit:10;stroke-width:1.5px;}.d,.c{fill:#fff;}<\/style><\/defs><path class=\"d\" d=\"M26.09,25.31c3.23,0,5.26-3.5,3.64-6.3l-5.86-10.15\"><\/path><path class=\"b\" d=\"M27.03,25.2c2.67-.59,4.16-3.68,2.7-6.2l-5.19-8.99\"><\/path><path class=\"c\" d=\"M9.74,19c-1.62,2.8,.4,6.3,3.64,6.3h11.08\"><\/path><path class=\"d\" d=\"M23.37,7.99c-1.62-2.8-5.66-2.8-7.28,0l-5.69,9.85\"><\/path><path class=\"b\" d=\"M22.82,7.23c-1.85-2.01-5.27-1.76-6.72,.76l-4.96,8.6\"><\/path><path d=\"M23.79,14.17c-.19-.73-.79-1.32-1.53-1.48-1.07-.23-2.04,.36-2.39,1.27-.05,.13-.23,.13-.28,0-.35-.91-1.32-1.5-2.39-1.27-.74,.16-1.34,.75-1.53,1.48-.15,.59-.02,1.15,.28,1.67,.66,1.14,1.32,2.28,1.99,3.42l1.38,2.36s.08,.18,.1,.18c.14,.24,.48,.24,.62,0l.64-1.09,1.33-2.28c.38-.66,.77-1.32,1.15-1.97,.21-.35,.46-.71,.59-1.1s.13-.78,.04-1.17Z\"><\/path><polygon points=\"24.07 8.64 23.34 5.37 20.87 7.64 24.07 8.64\"><\/polygon><polygon points=\"28.52 26.44 27.78 23.17 25.31 25.44 28.52 26.44\"><\/polygon><polygon points=\"10.85 20.75 10.11 17.47 7.65 19.75 10.85 20.75\"><\/polygon><line class=\"b\" x1=\"12.99\" y1=\"6.89\" x2=\"1\" y2=\"6.89\"><\/line><line class=\"b\" x1=\"9.17\" y1=\"11.95\" x2=\"1\" y2=\"11.95\"><\/line><line class=\"b\" x1=\"5.66\" y1=\"17\" x2=\"1\" y2=\"17\"><\/line><\/svg>",
+            "heading": "Sustainable Shipping",
+            "subtext": "<p>Verte Mode offers delivery to your home or office using the most sustainable, low-carbon methods. Deliveries that take a little longer do wonders for the environment.<\/p>",
+            "button": "Shipping Information",
+            "link": "shopify:\/\/pages\/shipping-returns"
+          }
+        },
+        "34de4ef7-ba2e-434a-bef9-4bb897eb95e4": {
+          "type": "svg-text",
+          "settings": {
+            "svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 32 32\"><defs><style>.b{fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.5px;}<\/style><\/defs><path class=\"b\" d=\"M5.35,26.6c7.95,4.12,13.38,.71,16.74-3.01,4.17-4.61,1.84-10.75-3.81-11.51-4.55-.61-8.64,2.3-8.53,6.37,.2,7.65,11.66,11.1,16.62,6.63,3.48-3.13,4.06-9.77,1.49-13.28-2.98-4.06-6.4-4.75-15.8-4.28-1.81,.09-3.4,.09-4.55,.09\"><\/path><path class=\"b\" d=\"M3.21,25.38c.49,.3,.97,.58,1.45,.82\"><\/path><polygon points=\"4.37 7.62 7.89 9.65 7.89 5.59 4.37 7.62\"><\/polygon><\/svg>",
+            "heading": "Hassle-Free Returns",
+            "subtext": "<p>If you are not completely satisfied, you can return your product within 15 days for a replacement, exchange, or refund.<\/p>",
+            "button": "Returns & Refunds",
+            "link": "shopify:\/\/pages\/refer-a-friend"
+          }
+        }
+      },
+      "block_order": [
+        "7e04212a-40ab-40e2-8115-13a4f51e4893",
+        "83a95551-2ec5-4ef7-b6ad-f2480f59c76e",
+        "34de4ef7-ba2e-434a-bef9-4bb897eb95e4"
+      ],
+      "settings": {
+        "custom_class": "home-content-custom-class"
+      }
+    },
+    "16584903925c90cd04": {
+      "type": "home-collection-section",
+      "blocks": {
+        "839419f2-8379-4777-977c-df2a0d6fffcb": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-cottonbro-studio-3737624.jpg",
+            "heading": "4 SIMPLE SUSTAINABLE SWAPS",
+            "subtext": "<p>Switching to a sustainable lifestyle can seem like an intimidating feat. But what if it didn't have to be?<\/p>",
+            "link": "shopify:\/\/blogs\/eco-living\/4-simple-sustainable-swaps"
+          }
+        },
+        "8e3b753f-2be1-4bf5-b0b3-72bb0ae3b10f": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heidi-fin-2TLREZi7BUg-unsplash.jpg",
+            "heading": "THINK BEFORE YOU SHOP",
+            "subtext": "<p>Around 180 million people worldwide made a purchase during Black Friday and Cyber Monday. This has a major impact on the environment.  <\/p>",
+            "link": "shopify:\/\/blogs\/zero-waste-guides\/think-before-you-shop"
+          }
+        },
+        "6e649313-7291-4aab-928e-2f330e52d3d6": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-karolina-grabowska-4498092.jpg",
+            "heading": "THE PROBLEM WITH GREENWASHING",
+            "subtext": "<p>Are you familiar with the term greenwashing? It seems to be everywhere lately but might be a little confusing to understand. <\/p>",
+            "link": "shopify:\/\/blogs\/news\/the-problem-with-greenwashing"
+          }
+        }
+      },
+      "block_order": [
+        "839419f2-8379-4777-977c-df2a0d6fffcb",
+        "8e3b753f-2be1-4bf5-b0b3-72bb0ae3b10f",
+        "6e649313-7291-4aab-928e-2f330e52d3d6"
+      ],
+      "settings": {
+        "heading": "FROM THE MAGAZINE"
+      }
+    },
+    "1664451125ac5b28dd": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "ef2f512b-03a9-4395-9af8-c7006266c302": {
+          "type": "caption",
+          "settings": {
+            "caption": "About Verte Mode",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        },
+        "1664451125ecd41215-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About",
+            "heading_size": "h1"
+          }
+        },
+        "1664451125ecd41215-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Verte Mode, we’re on a mission to make the world a greener, more sustainable place and that starts by doing our part to make sustainable shopping and living easier and more accessible for you. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "8db86753-6899-425d-b7a9-194b66b6cf9d": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read more",
+            "button_link": "https:\/\/verte-mode.myshopify.com\/pages\/about"
+          }
+        }
+      },
+      "block_order": [
+        "ef2f512b-03a9-4395-9af8-c7006266c302",
+        "1664451125ecd41215-0",
+        "1664451125ecd41215-1",
+        "8db86753-6899-425d-b7a9-194b66b6cf9d"
+      ],
+      "settings": {
+        "custom_class": "home_imgwtxt_v1 new-section",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-02_at_12.28.08_PM.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16620148294f250e2f": {
+      "type": "home-text-image-section",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-02_at_12.28.08_PM.png",
+        "heading": "ABOUT",
+        "rich-content": "<p><\/p>",
+        "link": ""
+      }
+    },
+    "1658493007332549ae": {
+      "type": "home-collection-text",
+      "disabled": true,
+      "blocks": {
+        "d04b32d6-5e3d-4629-a74f-e071cec2cc56": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/aalia-feature1-1667x2500.webp",
+            "link": "shopify:\/\/collections\/beauty"
+          }
+        },
+        "261236bf-c433-475e-9741-f1117ef2020e": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/aalia-feature3-768x1024.webp",
+            "link": "shopify:\/\/collections\/fashion"
+          }
+        },
+        "23ee4271-16f4-4fce-8b96-1042e3ae5e34": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/aalia-feature2-1667x2500.webp",
+            "link": "shopify:\/\/collections\/beauty"
+          }
+        }
+      },
+      "block_order": [
+        "d04b32d6-5e3d-4629-a74f-e071cec2cc56",
+        "261236bf-c433-475e-9741-f1117ef2020e",
+        "23ee4271-16f4-4fce-8b96-1042e3ae5e34"
+      ],
+      "settings": {
+        "heading": "ABOUT",
+        "subtext": "<p>Sustainable living essentials recommended by our founder<\/p>",
+        "button": "SHOP NOW",
+        "link": "shopify:\/\/collections\/all"
+      }
+    },
+    "165849339584d14ca4": {
+      "type": "home-list-collection",
+      "blocks": {
+        "336d4831-6111-4900-8765-86202ad8c003": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_3.07.45_PM.png",
+            "heading": "Wild and Exposed",
+            "subtext": "<p>Join Aalia Mauro and nature activist, photographer, and filmmaker Molly Ferrill as they talk about changing relationships between people and nature and collaborating with nature allies.<\/p>",
+            "link": "https:\/\/vertemode.com\/pages\/garments-respecting-1"
+          }
+        },
+        "9466bb1c-bc34-46f2-8ce3-4f510be2a08e": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_3.21.23_PM.png",
+            "heading": "Redefining Denim",
+            "subtext": "<p>Join Aalia Mauro and Oak & Acorn Founder and Designer Miko Underwood as they discuss the history of American denim and manufacturing.<\/p>",
+            "link": "https:\/\/vertemode.com\/pages\/fashion-psychology"
+          }
+        },
+        "583cd51b-1bac-4d81-9dca-11ba277bec63": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2019_08_08_77703_1565238907._large_8b22b7bd-e7f6-4dfd-bda2-6371833e8497.jpg",
+            "heading": "Ending Overfishing",
+            "subtext": "<p>Join Aalia Mauro and CEO Clare Brook of the Blue Marine Foundation as they discuss methods to dismantle the crisis that is overfishing.<\/p>",
+            "link": "https:\/\/vertemode.com\/pages\/the-or-foundations"
+          }
+        }
+      },
+      "block_order": [
+        "336d4831-6111-4900-8765-86202ad8c003",
+        "9466bb1c-bc34-46f2-8ce3-4f510be2a08e",
+        "583cd51b-1bac-4d81-9dca-11ba277bec63"
+      ],
+      "settings": {
+        "heading": "FROM THE PODCAST"
+      }
+    },
+    "46942706-3165-455f-a9cb-0c5156d17e82": {
+      "type": "home-image-block",
+      "settings": {}
+    },
+    "1658493966d8636ee1": {
+      "type": "home-button-text",
+      "disabled": true,
+      "settings": {
+        "subtext": "<p>We are building a world with exceptional quality of life by  helping our customers kick start their sustainability journeys. Meet the leaders using their influence to ensure a better future for all.<\/p>",
+        "button": "Featured Climate Champion",
+        "link": "shopify:\/\/pages\/this-months-featured-trailblazer"
+      }
+    },
+    "165949940947191735": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "7ca8387d-c460-48d3-a26c-a1d5d2c0ee16": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "7ca8387d-c460-48d3-a26c-a1d5d2c0ee16"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "2d997201-e10b-41e9-9160-354ca5fb303a": {
+      "type": "home-block-image",
+      "settings": {
+        "heading": ""
+      }
+    }
+  },
+  "order": [
+    "1658383506fcf3100a",
+    "8fda566d-866d-420e-a13a-a4d27f741079",
+    "165847116889cf6926",
+    "8103cde5-8544-4af2-9389-0526b70a9a4b",
+    "16619342185c07517e",
+    "1661947682554deb29",
+    "1658728799e036fd15",
+    "165847341440233615",
+    "1658489374064d2f3c",
+    "1658730175f5014e1c",
+    "16584776854900805d",
+    "16584903925c90cd04",
+    "1664451125ac5b28dd",
+    "16620148294f250e2f",
+    "1658493007332549ae",
+    "165849339584d14ca4",
+    "46942706-3165-455f-a9cb-0c5156d17e82",
+    "1658493966d8636ee1",
+    "165949940947191735",
+    "2d997201-e10b-41e9-9160-354ca5fb303a"
+  ]
+}

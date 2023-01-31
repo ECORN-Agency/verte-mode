@@ -1,0 +1,76 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "aa57d5b6-aba9-4464-b335-76f874455047": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img-3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "fde969e0-4d4e-4d2a-9a02-f287a47237b1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15923299090603__fde969e0-4d4e-4d2a-9a02-f287a47237b1-1665073658185f331b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>100% Fair and TrustedWhat is it?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15923299090603__fde969e0-4d4e-4d2a-9a02-f287a47237b1-1665073658185f331b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fair trade offers artisan craftspeople opportunities and control over their lives with options to purchase healthcare, education, and invest in their communities and future generations.<\/p><p><strong>Why is it important?<\/strong><\/p><p>Fair trade enables small farmers and other producers to grow their businesses by connecting with people who would otherwise be left behind in the materials economy. It also lets consumers create change through everyday and common purchase needs.<\/p><p><strong>How it works<\/strong><\/p><p>Fair Trade opens opportunities for communities and workers globally to enter the market, finding avenues to sell their products at fair prices.<\/p>"
+          }
+        },
+        "template--15923299090603__fde969e0-4d4e-4d2a-9a02-f287a47237b1-1665073658185f331b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15923299090603__fde969e0-4d4e-4d2a-9a02-f287a47237b1-1665073658185f331b-0",
+        "template--15923299090603__fde969e0-4d4e-4d2a-9a02-f287a47237b1-1665073658185f331b-1",
+        "template--15923299090603__fde969e0-4d4e-4d2a-9a02-f287a47237b1-1665073658185f331b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "aa57d5b6-aba9-4464-b335-76f874455047",
+    "fde969e0-4d4e-4d2a-9a02-f287a47237b1"
+  ]
+}

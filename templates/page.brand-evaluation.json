@@ -1,0 +1,447 @@
+{
+  "sections": {
+    "cf8b57f3-416f-4e8d-bc15-5abbca5eca6d": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15922817106091__cf8b57f3-416f-4e8d-bc15-5abbca5eca6d-166506221221c993cd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Verte Method - Our Brand Evaluation Process",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922817106091__cf8b57f3-416f-4e8d-bc15-5abbca5eca6d-166506221221c993cd-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/66c931125991479.6124b1878f311_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5b870e31-1de1-41a2-9d0e-344ffa75d7ae": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922817106091__5b870e31-1de1-41a2-9d0e-344ffa75d7ae-1665062324ff66556e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Verte Mode’s primary mission is to provide purchasers with a first-of-its-kind, reliable eCommerce resource for purchasing Sustainable, Cruelty-Free Products and Services. That’s why Verte Mode assesses each product to meet our rigorous standards for Sustainability, Fair Labor, Plastic-Free Packaging or Shipping, and Safe Craftsmanship or Production. Exemplary Vendors with superior Auditable Sustainable Attributes will feature additional recognition with their Products.<\/p>"
+          }
+        },
+        "35035a0b-5483-4f52-b302-63a0c47911b1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Verte Mode’s Sustainable Standards<\/strong><\/p><p>The advantage of shopping with Verte Mode is that each Sustainable Product and Service has already passed high industry standards. With such high bars, purchasers are sure about what they are getting. In addition to what products must have and must not, we use a series of icons indicating what’s in (or not in) a product.<\/p>"
+          }
+        },
+        "447bedd3-3c3c-4a15-893b-5d02d257b424": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Verte Mode’s Must-Have Requirements<\/strong><\/p><p>Statement of Sustainable Business Practices certified and published on the business website or other public announcements. Provide proof of fair labor practices at all stages of the supply chain.<\/p><p><\/p><p><strong>Verte Mode’s Must Not Requirements<\/strong><\/p><p>Must not use plastic in any packaging or shipping materials.<\/p><p>Must not use manufacturing practices that cause toxic substance emissions without proper, effective, and monitored disposal practices in place.<\/p><p>Must not use captive animals for testing or use animals raised in cruel, confining environments.<\/p><p><\/p><p><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922817106091__5b870e31-1de1-41a2-9d0e-344ffa75d7ae-1665062324ff66556e-1",
+        "35035a0b-5483-4f52-b302-63a0c47911b1",
+        "447bedd3-3c3c-4a15-893b-5d02d257b424"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2a1386e4-e681-4c08-9289-2169106600c8": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "fef9c657-5b41-4894-a2de-2ea798ef8df8": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15922817106091__fef9c657-5b41-4894-a2de-2ea798ef8df8-1665064417817161c0-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--15922817106091__fef9c657-5b41-4894-a2de-2ea798ef8df8-1665064417817161c0-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--15922817106091__fef9c657-5b41-4894-a2de-2ea798ef8df8-1665064417817161c0-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15922817106091__fef9c657-5b41-4894-a2de-2ea798ef8df8-1665064417817161c0-0",
+        "template--15922817106091__fef9c657-5b41-4894-a2de-2ea798ef8df8-1665064417817161c0-1",
+        "template--15922817106091__fef9c657-5b41-4894-a2de-2ea798ef8df8-1665064417817161c0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-02_at_12.30.26_PM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "cd590fca-5405-4e6b-99b5-c3cacf2bac95": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922817106091__cd590fca-5405-4e6b-99b5-c3cacf2bac95-16650645153ae59baa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Verte Mode Difference<\/strong><\/p><p>What makes Verte Mode more exclusive and reliable than our competitors?<\/p><p>We also use a proprietary rating system to clarify and give recognition to model Products and Services. You can shop with confidence while matching personal ethical standards. Exemplary products showcase any or all of the following Five Metrics listed below.<\/p><p>Each month, Verte Mode also features one outstanding product or artisan who best demonstrates Verte Mode’s Five Metrics for Marketplace Product Standards.<\/p><p>After all, it’s one planet, one future, right?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922817106091__cd590fca-5405-4e6b-99b5-c3cacf2bac95-16650645153ae59baa-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 56,
+        "padding_bottom": 52
+      }
+    },
+    "63bbd0c4-4e51-40ae-a37b-f1086bef1dde": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15922817106091__63bbd0c4-4e51-40ae-a37b-f1086bef1dde-166506508236a97ab2-1": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/low-carbon-footprint.webp",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "show_atc": false,
+            "selling_plan": "",
+            "product": "",
+            "button_text": "",
+            "text": "<p>We check carbon offsetting manufacturing practices that reduce the generation of CO2, methane, and other greenhouse gasses throughout the extraction, production, shipping, use, and discard cycles.<\/p>"
+          }
+        },
+        "template--15922817106091__63bbd0c4-4e51-40ae-a37b-f1086bef1dde-166506508236a97ab2-2": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/integrity.webp",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "show_atc": false,
+            "selling_plan": "",
+            "product": "",
+            "button_text": "",
+            "text": "<p>We check carbon offsetting manufacturing practices that reduce the generation of CO2, methane, and other greenhouse gasses throughout the extraction, production, shipping, use, and discard cycles. <\/p>"
+          }
+        },
+        "template--15922817106091__63bbd0c4-4e51-40ae-a37b-f1086bef1dde-166506508236a97ab2-0": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/sustainable.webp",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "show_atc": false,
+            "selling_plan": "",
+            "product": "",
+            "button_text": "",
+            "text": "<p>Verte Mode looks for proof of Material Health, such as sustainable, traceable sourcing for healthy, regenerative materials processing, including renewable energy, water, and land stewardship. Verte Mode’s use of Third-Party Certifications Standards highlights worker conditions, educates consumers, and holds sellers and their products accountable—removing any greenwashing of products, from resource extraction to the product’s end-of-life.<\/p>"
+          }
+        },
+        "192d1242-f181-40ba-bc5b-e48a60dadc43": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/lifecycle.webp",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "show_atc": false,
+            "selling_plan": "",
+            "product": "",
+            "button_text": "",
+            "text": "<p>Verte Mode seeks evidence of life cycle assessments, defining and systematically analyzing the potential environmental impacts of products or services throughout their entire life cycle, from the production to disposal phases.<\/p>"
+          }
+        },
+        "1bfa903d-16f0-4d6f-8a95-bf413a6fa711": {
+          "type": "column",
+          "settings": {
+            "image_a": "",
+            "image": "shopify:\/\/shop_images\/social-fairness.webp",
+            "title": "",
+            "html_frame": "",
+            "show_button": false,
+            "show_atc": false,
+            "selling_plan": "",
+            "product": "",
+            "button_text": "",
+            "text": "<p>For Verte Mode, social fairness standards must include prohibiting child and forced labor, ensuring health and safety protections, meeting and exceeding EDIA (Equity, Diversion, Inclusion, Access) standards, and meeting or exceeding legal minimum wage requirements in the area. We ensure there’s proof of current initiatives, such as financial commitments or time contributions to sustainable, social, and environmental organizations resulting in support of public benefits and nonprofits.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15922817106091__63bbd0c4-4e51-40ae-a37b-f1086bef1dde-166506508236a97ab2-1",
+        "template--15922817106091__63bbd0c4-4e51-40ae-a37b-f1086bef1dde-166506508236a97ab2-2",
+        "template--15922817106091__63bbd0c4-4e51-40ae-a37b-f1086bef1dde-166506508236a97ab2-0",
+        "192d1242-f181-40ba-bc5b-e48a60dadc43",
+        "1bfa903d-16f0-4d6f-8a95-bf413a6fa711"
+      ],
+      "settings": {
+        "custom_class": "limited-content",
+        "title": "Verte Mode’s 5 Metrics for Evaluating Sustainability",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9bf90835-fe7a-4cd9-8029-c65e642dc695": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-02_at_12.28.08_PM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "3763c359-0cea-4784-bfa3-62d0e3052752": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922817106091__3763c359-0cea-4784-bfa3-62d0e3052752-1665065082cda26efe-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>OUR ENVIRONMENTAL & SOCIETAL CONTRIBUTION<\/p><p><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15922817106091__3763c359-0cea-4784-bfa3-62d0e3052752-1665065082cda26efe-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Reducing your carbon footprint is easier with Verte Mode. Every purchase you make uses better and safer processes and technologies, including how we ship your carefully packaged items.<br\/><br\/><strong>What is a Carbon Footprint?<br\/><\/strong>Carbon footprints are an accumulation of greenhouse gasses generated by all our activities, from driving and cooking to how we dispose of perishable products and non-recyclable goods.<br\/><br\/><strong>Benefits of Reducing Your Carbon Footprint<br\/><br\/><\/strong>If you shop sustainably and reduce your carbon footprint, you won’t be adversely affecting the environment. Instead, you’ll be securing a future foundation for generations to come.<br\/><br\/><strong>What is a Carbon Footprint?<br\/><\/strong>When your day-to-day purchases help support a cooler planet rather than add our global footprint, you’re supporting the health and wellness of people and communities everywhere.<\/p>"
+          }
+        },
+        "f2fbe781-2ed7-4a64-9720-86ba63742974": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15922817106091__3763c359-0cea-4784-bfa3-62d0e3052752-1665065082cda26efe-0",
+        "template--15922817106091__3763c359-0cea-4784-bfa3-62d0e3052752-1665065082cda26efe-1",
+        "f2fbe781-2ed7-4a64-9720-86ba63742974"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1560fc36-b504-451b-8bb6-27e483b2d076": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15922817106091__1560fc36-b504-451b-8bb6-27e483b2d076-166516281869bfd9bd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>100% Fair and Trusted<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15922817106091__1560fc36-b504-451b-8bb6-27e483b2d076-166516281869bfd9bd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong><br\/><\/strong>What is it?<\/p><p>Fair trade offers artisan craftspeople opportunities and control over their lives with options to purchase healthcare, education, and invest in their communities and future generations.<\/p><p>Why is it important?<\/p><p>Fair trade enables small farmers and other producers to grow their businesses by connecting with people who would otherwise be left behind in the materials economy. It also lets consumers create change through everyday and common purchase needs.<\/p><p>How it works<\/p><p>Fair Trade opens opportunities for communities and workers globally to enter the market, finding avenues to sell their products at fair prices.<\/p>"
+          }
+        },
+        "template--15922817106091__1560fc36-b504-451b-8bb6-27e483b2d076-166516281869bfd9bd-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15922817106091__1560fc36-b504-451b-8bb6-27e483b2d076-166516281869bfd9bd-0",
+        "template--15922817106091__1560fc36-b504-451b-8bb6-27e483b2d076-166516281869bfd9bd-1",
+        "template--15922817106091__1560fc36-b504-451b-8bb6-27e483b2d076-166516281869bfd9bd-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d7b67f10-092a-4b04-9eca-30739e505880": {
+      "type": "image-banner",
+      "blocks": {
+        "5f2bac57-de9b-4bb9-b003-db8960d291bc": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Apply to be a Verte Mode Vendor! Click here for more information",
+            "button_link_1": "#",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "5f2bac57-de9b-4bb9-b003-db8960d291bc"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-10-10_at_9.51.58_AM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "953ebf93-2d6f-4c37-9c71-d1ff65669ba0": {
+      "type": "home-collection-section",
+      "blocks": {
+        "f69ae5a1-536d-4728-bda8-4d54011988d2": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mindfulness_square-631x631_9ed418fc-ac78-4453-b4a4-073af98b7d26.webp",
+            "heading": "The Connection Between Mindfulness and Sustainability",
+            "subtext": "<p>Have you ever taken a drive and realized you don’t remember navigating to your destination?<\/p>",
+            "link": ""
+          }
+        },
+        "7572cd2e-4210-4621-a946-c40ab451b3e6": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HowToMakeClothesLast-631x631_eb8abf14-d5d8-4b4b-9352-23e81d6b3890.webp",
+            "heading": "How to Make Your Clothes Last Longer",
+            "subtext": "<p>Have a favorite t-shirt? Whether it’s fast-fashion, vintage, or secondhand, learn how to keep it fresh for longer.<\/p>",
+            "link": ""
+          }
+        },
+        "d972c2e6-d5ee-4ead-bc7c-59a479225a4b": {
+          "type": "image-text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greenland_featured_img-960x960_a8c15da6-f558-4820-af85-136b3a053aee.webp",
+            "heading": "Greenland’s Fishing Industries Imperiled by Climate Change",
+            "subtext": "<p>Environmental Injustices and issues have left BIPOC communities vulnerable and at-risk worldwide.<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "f69ae5a1-536d-4728-bda8-4d54011988d2",
+        "7572cd2e-4210-4621-a946-c40ab451b3e6",
+        "d972c2e6-d5ee-4ead-bc7c-59a479225a4b"
+      ],
+      "settings": {
+        "heading": "FROM THE MAGAZINE"
+      }
+    }
+  },
+  "order": [
+    "cf8b57f3-416f-4e8d-bc15-5abbca5eca6d",
+    "main",
+    "5b870e31-1de1-41a2-9d0e-344ffa75d7ae",
+    "2a1386e4-e681-4c08-9289-2169106600c8",
+    "fef9c657-5b41-4894-a2de-2ea798ef8df8",
+    "cd590fca-5405-4e6b-99b5-c3cacf2bac95",
+    "63bbd0c4-4e51-40ae-a37b-f1086bef1dde",
+    "9bf90835-fe7a-4cd9-8029-c65e642dc695",
+    "3763c359-0cea-4784-bfa3-62d0e3052752",
+    "1560fc36-b504-451b-8bb6-27e483b2d076",
+    "d7b67f10-092a-4b04-9eca-30739e505880",
+    "953ebf93-2d6f-4c37-9c71-d1ff65669ba0"
+  ]
+}
